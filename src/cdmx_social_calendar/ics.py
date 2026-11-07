@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from icalendar import Calendar, Event as IcsEvent
 
@@ -15,7 +15,7 @@ def render(events: list[Event]) -> bytes:
     calendar.add("method", "PUBLISH")
     calendar.add("x-wr-calname", "Mexico City Social & Culture")
     calendar.add("x-wr-timezone", "America/Mexico_City")
-    calendar.add("refresh-interval", "PT6H")
+    calendar.add("refresh-interval", timedelta(hours=6))
     calendar.add("x-published-ttl", "PT6H")
     now = datetime.now(timezone.utc)
     for item in sorted(events, key=lambda event: (event.start, event.title.casefold())):
