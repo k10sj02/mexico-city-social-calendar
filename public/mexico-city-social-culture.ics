@@ -8,89 +8,10 @@ REFRESH-INTERVAL:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
-SUMMARY:Qualia\, 2a Cumbre Internacional de Ciencia de la Consciencia
-DTSTART;TZID=America/Mexico_City:20261107T090000
-DTEND;TZID=America/Mexico_City:20261107T110000
-DTSTAMP:20261107T131452Z
-UID:be6a145156f6e3ffdee9f666@cdmx-social-calendar
-CATEGORIES:Conferencias
-DESCRIPTION:Conferencias\n\nUn congreso internacional donde convergen la c
- iencia de vanguardia\, la tecnología y las tradiciones de sabiduría para
-  comprender la consciencia y expandir el po...\n\nSource: cdmx365\n\nhttps
- ://www.cdmx365.com/es/evento/qualia-2a-cumbre-internacional-de-ciencia-de-
- la-consciencia-2026-11-07
-LOCATION:El Cantoral\, Benito Juárez\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cdmx365.com/es/evento/qualia-2a-cumbre-internacional-de-ci
- encia-de-la-consciencia-2026-11-07
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 SPRAY INK
-DTSTART;TZID=America/Mexico_City:20261107T090000
-DTEND;TZID=America/Mexico_City:20261107T110000
-DTSTAMP:20261107T131452Z
-UID:618d7e82695e90b4fc111ac1@cdmx-social-calendar
-CATEGORIES:Museos y Exposiciones
-DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEvento cultural al
- rededor del street art\, cómo actividad principal se realizará una expo 
- tatuaje con artistas profesionales nacionales.\n\nSource: tianguis-cdmx\n
- \nhttps://www.tianguis.net/cartelera/41685
-LOCATION:FARO COSMOS\, CALZADA México-Tacuba\,Ciudad de México\, CDMX 26
-  \, Tlaxpana\, Miguel Hidalgo\, C.P. 11370\, Cuidad de México\, Ciudad de
-  México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/41685
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DevDay Exchange Community Hackathon: Mexico City
-DTSTART;TZID=America/Mexico_City:20261107T100000
-DTEND;TZID=America/Mexico_City:20261107T120000
-DTSTAMP:20261107T131452Z
-UID:f61e88d7b14a1e005b897749@cdmx-social-calendar
-CATEGORIES:Networking
-DESCRIPTION:Networking\n\nConstruye con OpenAI y CoDi\, la red de pagos in
- stantáneos de México\, en este hackathon comunitario organizado por el C
- odex Ambassador Ben Kim en UTOPÍA Coyoacán...\n\nSource: cdmx365\n\nhttp
- s://www.cdmx365.com/es/evento/devday-exchange-community-hackathon-mexico-c
- ity-2026-11-07
-LOCATION:UTOPÍA Elena Poniatowska Amor\, Coyoacán\, Ciudad de México\, 
- CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cdmx365.com/es/evento/devday-exchange-community-hackathon-
- mexico-city-2026-11-07
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 ¡Pachanga Farera: 17 años de historias compartidas! Pachang
- a para nuestras infancias
-DTSTART;TZID=America/Mexico_City:20261107T100000
-DTEND;TZID=America/Mexico_City:20261107T120000
-DTSTAMP:20261107T131452Z
-UID:864262a7182c409e9fb4c47c@cdmx-social-calendar
-CATEGORIES:Música y Conciertos
-DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\n¡Que suene la mús
- ica y se arme la fiesta para las y los más peques de la casa! Acompáñan
- os a la Pachanga Farera para nuestras infancias este sábado 7 de noviembr
- e de 10:00 a 17:30 horas. Celebremos 17 años de la FARO Indios Verdes con
-  música\, talleres y juegos para toda la comunidad a partir de los 6 año
- s. ¡La entrada es totalmente libre\, ven a bailar y a disfrutar en grande
- ! Programación: 10 a 11 hrs Taller llaveros tejidos&nbsp\; 11 a 12:30 hrs
-  Taller de títeres&nbsp\;&nbsp\; 12:30 a 13:30 hrs Fu\n\nSource: tianguis
- -cdmx\n\nhttps://www.tianguis.net/cartelera/41727
-LOCATION:FARO Indios Verdes\, Av. Huitzilihuitl 51 \, Santa Isabel Tola\, 
- Gustavo A. Madero\, C.P. 07010\, Cuidad de México\, Ciudad de México\, C
- DMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/41727
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ubú Rey
 DTSTART;TZID=America/Mexico_City:20261107T110000
 DTEND;TZID=America/Mexico_City:20261107T130000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:ea0e411288377937fd6132b4@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nIncitado por la ambición de Madre Ubú\, Padre Ubú
@@ -107,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Actividad lúdica\nMemoriama: entre libros y recuerdos
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:882f1e1ed42da7c9174387c2@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -125,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Asian Day 4
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:86a54417411e1bd611be9826@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nCentro Cultural La P
@@ -148,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Ensamble de Guitarras U. Ver. en Bellas Artes
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:4d42276d227fec564d700f98@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nEl Ensamble de Guitarras de la Univ
@@ -167,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 FARO Tláhuac. Creación de tu propio mueble
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:d7ae7945e6e1b7a808ce6ec9@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nExposicion del tal
@@ -183,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:FISCUM 2026
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3574cc20764adbc4b31d9432@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nDos días de música en vivo\, cine
@@ -200,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Friendsgiving con The Breakfast Club
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:cd1f2aa34b673e471b3fbcae@cdmx-social-calendar
 CATEGORIES:Meetups
 DESCRIPTION:Meetups\n\nThe Breakfast Club se reúne para un Friendsgiving 
@@ -217,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Horizonte Interior
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:4833a41a82dc79082d849cb5@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -240,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Morir en la arena
 DTSTART;TZID=America/Mexico_City:20261107T120000
 DTEND;TZID=America/Mexico_City:20261107T133000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c4a33e030e22f02852dd6efb@cdmx-social-calendar
 CATEGORIES:Libros
 DESCRIPTION:Libros\n\nEvent details and admission information are availabl
@@ -256,7 +177,7 @@ BEGIN:VEVENT
 SUMMARY:Duelo de Brujos o de Cómo un Día Pierdes la Creatividad
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:d60069a507c3ff205961cc07@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $302\n\nJengibre Teatro lleva al Centro C
@@ -275,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Food & Wine Festival 2026
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:652917e1c34bd9f092bcb031@cdmx-social-calendar
 CATEGORIES:Comida y Bebidas
 DESCRIPTION:Comida y Bebidas\n\nAdmission: $800 – $2\,900\n\nLa sexta ed
@@ -292,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Mosaico de la plástica
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:926f7f2618b5a4faae1529db@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nLa hechura de un mural 
@@ -315,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Multiverso Musical
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:92173556b389f02ea2d5055c@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nFestival que reúne
@@ -335,7 +256,7 @@ BEGIN:VEVENT
 SUMMARY:Narración\nCuentos para girar el mundo
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a2a69945057875b6ee0cb1ac@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -352,7 +273,7 @@ BEGIN:VEVENT
 SUMMARY:Pedro y el Lobo en Teatro de la Ciudad
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:d80796e5883bb91bff2004ab@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nCada personaje de este cuento musical es representado
@@ -369,7 +290,7 @@ BEGIN:VEVENT
 SUMMARY:Visita Gratuita al Jardín Botánico
 DTSTART;TZID=America/Mexico_City:20261107T130000
 DTEND;TZID=America/Mexico_City:20261107T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b0acfcbc7c65bed064bd8e14@cdmx-social-calendar
 CATEGORIES:Experiencias
 DESCRIPTION:Experiencias\n\nUna caminata guiada por el Jardín Botánico d
@@ -387,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Pintando Minis 3D
 DTSTART;TZID=America/Mexico_City:20261107T140000
 DTEND;TZID=America/Mexico_City:20261107T160000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:15b22a783c965cc89e53713e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller colaborativo\, 
@@ -407,7 +328,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 No hay mal que dure 100 años
 DTSTART;TZID=America/Mexico_City:20261107T160000
 DTEND;TZID=America/Mexico_City:20261107T180000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:30ca9426316d855144e2f344@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -430,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Cyclo: Fisherman Latam Tour 2026
 DTSTART;TZID=America/Mexico_City:20261107T170000
 DTEND;TZID=America/Mexico_City:20261107T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3fe203707089d89e55a8dacf@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $600 – $1\,300\n\nCyclo llega 
@@ -445,11 +366,30 @@ URL:https://www.cdmx365.com/es/evento/cyclo-fisherman-latam-tour-2026-11-0
  7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Darach: Folk Contemporáneo de Galicia y Escocia
+DTSTART;TZID=America/Mexico_City:20261107T170000
+DTEND;TZID=America/Mexico_City:20261107T190000
+DTSTAMP:20261107T215844Z
+UID:01d0550fc964811678817ed5@cdmx-social-calendar
+CATEGORIES:Música en Vivo
+DESCRIPTION:Música en Vivo\n\nEl productor gallego Hugo Franco y el violi
+ nista escocés Roo Geddes traen su proyecto transatlántico Darach al Muse
+ o Nacional de Culturas Populares. El dúo entr...\n\nSource: cdmx365\n\nht
+ tps://www.cdmx365.com/es/evento/darach-folk-contemporaneo-de-galicia-y-esc
+ ocia-2026-11-07
+LOCATION:Museo Nacional de Culturas Populares\, Coyoacán\, Ciudad de Méx
+ ico\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/darach-folk-contemporaneo-de-galicia
+ -y-escocia-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Exposiciones fotográficas:  Amanecer utópico y Destellos on
  íricos
 DTSTART;TZID=America/Mexico_City:20261107T170000
 DTEND;TZID=America/Mexico_City:20261107T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:61cf610bb463cec77008a4ff@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLa exposición fot
@@ -472,7 +412,7 @@ BEGIN:VEVENT
 SUMMARY:Axolotl en Busca de la Calaverita de Azúcar Función Clausura
 DTSTART;TZID=America/Mexico_City:20261107T180000
 DTEND;TZID=America/Mexico_City:20261107T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:14619bd258025732fa2a639f@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $299\n\nLa función de clausura de esta a
@@ -491,7 +431,7 @@ BEGIN:VEVENT
 SUMMARY:KTRAM Live en Foro Amberes
 DTSTART;TZID=America/Mexico_City:20261107T180000
 DTEND;TZID=America/Mexico_City:20261107T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c115c160eeaf0533ebc9733a@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $350\n\nKTRAM presenta una noche de
@@ -510,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:La Llorona 2026
 DTSTART;TZID=America/Mexico_City:20261107T180000
 DTEND;TZID=America/Mexico_City:20261107T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:8a8122f40791ec12ba882270@cdmx-social-calendar
 CATEGORIES:Experiencias
 DESCRIPTION:Experiencias\n\nAdmission: $560\n\nUna puesta en escena de la 
@@ -528,7 +468,7 @@ SUMMARY:Orquesta Filarmónica de la Ciudad de México: Conciertos Infantil
  es
 DTSTART;TZID=America/Mexico_City:20261107T180000
 DTEND;TZID=America/Mexico_City:20261107T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3f227f44de582660c811eda2@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta Filarmónica de la Ciud
@@ -547,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Reyes del Regional en Concierto
 DTSTART;TZID=America/Mexico_City:20261107T183000
 DTEND;TZID=America/Mexico_City:20261107T203000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b73fb9a97ba6e6ebb89aadf7@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nAdmission: $944 – $3\,540\n\nMoy 
@@ -565,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Rosy Arango presenta: Entre Rancheras y Catrinas
 DTSTART;TZID=America/Mexico_City:20261107T183000
 DTEND;TZID=America/Mexico_City:20261107T203000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:213f68c374e404c214fcbacf@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $300 – $700\n\nRosy Arango lle
@@ -581,10 +521,29 @@ URL:https://www.cdmx365.com/es/evento/rosy-arango-presenta-entre-rancheras
  -y-catrinas-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coordinación Nacional de Música y Ópera en Bellas Artes
+DTSTART;TZID=America/Mexico_City:20261107T190000
+DTEND;TZID=America/Mexico_City:20261107T210000
+DTSTAMP:20261107T215844Z
+UID:c169fe35a140f3f094b1a9b9@cdmx-social-calendar
+CATEGORIES:Conciertos y Festivales
+DESCRIPTION:Conciertos y Festivales\n\nLa Coordinación Nacional de Músic
+ a y Ópera presenta un programa en la sala Manuel M. Ponce\, uno de los re
+ cintos de cámara más íntimos de Bellas Artes\, conocido...\n\nSource: c
+ dmx365\n\nhttps://www.cdmx365.com/es/evento/coordinacion-nacional-de-music
+ a-y-opera-2026-11-07
+LOCATION:Palacio de Bellas Artes\, Centro Histórico\, Ciudad de México\,
+  CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/coordinacion-nacional-de-musica-y-op
+ era-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El Invencible Verano de Liliana
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:005b9e9475f745cf29b57437@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $45 – $700\n\nLiliana Rivera Garza fue 
@@ -599,11 +558,28 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/el-invencible-verano-de-liliana
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gonzalo Gutiérrez\, Piano
+DTSTART;TZID=America/Mexico_City:20261107T190000
+DTEND;TZID=America/Mexico_City:20261107T210000
+DTSTAMP:20261107T215844Z
+UID:525a777db5447446d9a19983@cdmx-social-calendar
+CATEGORIES:Música en Vivo
+DESCRIPTION:Música en Vivo\n\nEl pianista Gonzalo Gutiérrez se presenta 
+ en el Palacio de Bellas Artes como parte del 48 Foro Internacional de Mús
+ ica Nueva\, uno de los eventos más importantes...\n\nSource: cdmx365\n\nh
+ ttps://www.cdmx365.com/es/evento/gonzalo-gutierrez-piano-2026-11-07
+LOCATION:Palacio de Bellas Artes\, Centro Histórico\, Ciudad de México\,
+  CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/gonzalo-gutierrez-piano-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Gonzalo Gutiérrez\, piano - 48 Foro Internacional de Música
   Nueva
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:587fc1d661373c0f403e27c0@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nGonzalo Gutiérrez
@@ -626,7 +602,7 @@ BEGIN:VEVENT
 SUMMARY:House Late Night
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b6c9b25ca3974dfb07e7292c@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $150\n\nHouse Late Night llega a Ba
@@ -639,10 +615,29 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/house-late-night-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:House on Fire Vol. 2: Böneker\, Gianfranco Corradi\, Guru Davar\,
+  D'Leo
+DTSTART;TZID=America/Mexico_City:20261107T190000
+DTEND;TZID=America/Mexico_City:20261107T210000
+DTSTAMP:20261107T215844Z
+UID:0bc563d1fccb3bc3b4935b0f@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $111 – $222\n\nHouse on Fire Vol.
+  2 trae el sonido de Tulum a Moony en Juárez\, con cuatro selectores que 
+ cruzan México y Argentina: Böneker\, Gianfranco Corradi de Deep Love y..
+ .\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/house-on-fire-vo
+ l-2-boneker-gianfranco-corradi-guru-davar-dleo-2026-11-07
+LOCATION:Moony\, Juárez\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/house-on-fire-vol-2-boneker-gianfran
+ co-corradi-guru-davar-dleo-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kristine Opolais Recital en Bellas Artes
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:1c2ef938fc80641aca540f02@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa soprano letona Kristine Opolais 
@@ -660,7 +655,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La noche que murió dos veces...
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:08ae2dd3a883ffe6d3cdcb91@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -680,10 +675,27 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41290
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nodo MUTEK: Termi + Luzy
+DTSTART;TZID=America/Mexico_City:20261107T190000
+DTEND;TZID=America/Mexico_City:20261107T210000
+DTSTAMP:20261107T215844Z
+UID:1940e38149fbe44bbbdae3e6@cdmx-social-calendar
+CATEGORIES:Música en Vivo
+DESCRIPTION:Música en Vivo\n\nAdmission: $173 – $289\n\nUna noche colab
+ orativa entre Termi4eva y Luzy trae música en vivo electrónica y experim
+ ental a Juárez como parte de los Nodos Colaborativos de MUTEK MX. El line
+ ...\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/nodo-mutek-ter
+ mi-luzy-2026-11-07
+LOCATION:Luzy\, Cuajimalpa de Morelos\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/nodo-mutek-termi-luzy-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OFUNAM 90 años | Gala de aniversario | Charla previa
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T193000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:190d9636019e93fc2175fa2e@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -697,10 +709,26 @@ URL:https://www.cultura.unam.mx/evento/ofunam-90-anios--gala-de-aniversari
  o--charla-previa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Roca Hi Fi Weekly Program
+DTSTART;TZID=America/Mexico_City:20261107T190000
+DTEND;TZID=America/Mexico_City:20261107T210000
+DTSTAMP:20261107T215844Z
+UID:f1cadf59d67edc14de77ae7f@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nEl programa semanal de ROCA HIFI corre cuatro 
+ noches en Roma Norte\, con lineup diferente cada sesión. El miércoles to
+ ca Barreto y Lady Gigi\; el jueves Pato Mall...\n\nSource: cdmx365\n\nhttp
+ s://www.cdmx365.com/es/evento/roca-hi-fi-weekly-program-2026-11-04
+LOCATION:Roca\, Roma Norte\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/roca-hi-fi-weekly-program-2026-11-04
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sí Soy
 DTSTART;TZID=America/Mexico_City:20261107T190000
 DTEND;TZID=America/Mexico_City:20261107T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:23aac54a826f07b7d5cbadfa@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $350\n\nSí Soy es un viaje teatral hacia
@@ -713,10 +741,29 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/si-soy-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Una Noche Para Recordar\, tour nocturno
+DTSTART;TZID=America/Mexico_City:20261107T193000
+DTEND;TZID=America/Mexico_City:20261107T213000
+DTSTAMP:20261107T215844Z
+UID:57d80d69b3b98416a0371c62@cdmx-social-calendar
+CATEGORIES:Experiencias
+DESCRIPTION:Experiencias\n\nAdmission: $162\n\nVisita guiada nocturna por 
+ la Catedral Metropolitana en el Zócalo. Recorres la nave principal\, reta
+ blos y capillas con iluminación tenue\, y bajas a las criptas...\n\nSourc
+ e: cdmx365\n\nhttps://www.cdmx365.com/es/evento/una-noche-para-recordar-to
+ ur-nocturno-2026-11-06
+LOCATION:Catedral Metropolitana de la Ciudad de México\, Centro Históric
+ o\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/una-noche-para-recordar-tour-nocturn
+ o-2026-11-06
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alek Pérez
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a37d0cc60994f293b8cc3def@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $230\n\nAlek Pérez se presenta 
@@ -732,7 +779,7 @@ BEGIN:VEVENT
 SUMMARY:Cemican en CDMX
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:97d394f27c1b2b27c127f0cd@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $350 – $950\n\nCemican present
@@ -749,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:Colombia No Te Olvido
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:265d2684ff9f746ad50e7049@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nColombia No Te Olvido es un evento solidario e
@@ -765,7 +812,7 @@ BEGIN:VEVENT
 SUMMARY:Coro Acardenchado · X Aniversario en Teatro de la Ciudad
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:5e095313c2d669c4b4da6d44@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nEl Coro Acardenchado celebra diez a
@@ -784,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:Dirección Gritadero
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c5bb15e33793f5c42fc21fca@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $302\n\nTres mujeres esperan un autobús 
@@ -802,7 +849,7 @@ BEGIN:VEVENT
 SUMMARY:El Cisne Negro en Castillo de Chapultepec
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3f452f8a2597f20d38f7a27b@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nLa Infinita Compañía presenta una versión contempo
@@ -819,7 +866,7 @@ BEGIN:VEVENT
 SUMMARY:Gala 90 Aniversario OFUNAM: Resurrección de Mahler
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:8f0d12dae4f513a2e3fdba84@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa OFUNAM celebra nueve décadas con la mon
@@ -838,7 +885,7 @@ BEGIN:VEVENT
 SUMMARY:MERCAN
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:48544c8908107073fd907436@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $300\n\nEl polémico artista conceptual R
@@ -855,7 +902,7 @@ BEGIN:VEVENT
 SUMMARY:Morat en Palacio de los Deportes
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:7a953f9ab2a2bd1971c65008@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa banda colombiana de pop-rock Mor
@@ -872,7 +919,7 @@ BEGIN:VEVENT
 SUMMARY:O Tortuga en Vivo
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:912dafba6f7d32f6354caffd@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $230 – $345\n\nO Tortuga regre
@@ -889,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:Ofrenda Montelobos
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:953a5553b77fecc94320b33e@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $849\n\nOfrenda Montelobos trae a S
@@ -908,7 +955,7 @@ SUMMARY:OFUNAM 90 años | Gala de aniversario | Tercera temporada 2026 | P
  rograma 3
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c4253beef56fdde9124c94e6@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -925,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Omphalos
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:5a1b63a280eb13facda080e2@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nAdmission: $400\n\nZeus envió dos águilas a los ext
@@ -942,7 +989,7 @@ BEGIN:VEVENT
 SUMMARY:Sobrenatural: Las Brujas de Xochimilco Función Clausura
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:9a2ea0129bc74fd474e03add@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $349\n\nLa decimocuarta temporada de Sobr
@@ -961,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:Taiken – Cuerpo fenomenológico
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T213000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:5306039f6a07ee964cec7b73@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -977,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:Todavía Podemos Ser Felices
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c6dedda1ab6cd96be6186963@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $30 – $150\n\nDos personas se encuentra
@@ -995,7 +1042,7 @@ BEGIN:VEVENT
 SUMMARY:Trex: Al Sabor y al Estilo en Lunario
 DTSTART;TZID=America/Mexico_City:20261107T200000
 DTEND;TZID=America/Mexico_City:20261107T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:f5c9761e6fc36b82791fce39@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nTrex lleva su sensación cumbiera v
@@ -1010,10 +1057,27 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/trex-al-sabor-y-al-estilo-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yo Fui una de los 41
+DTSTART;TZID=America/Mexico_City:20261107T200000
+DTEND;TZID=America/Mexico_City:20261107T220000
+DTSTAMP:20261107T215844Z
+UID:3a7fc6976a1a3ae15f6adc1e@cdmx-social-calendar
+CATEGORIES:Teatro
+DESCRIPTION:Teatro\n\nAdmission: $262 – $350\n\nEste monólogo revive la
+  redada de 1901 que marcó para siempre la historia queer de México\, cua
+ ndo decenas de hombres fueron arrestados y humillados por asistir...\n\nSo
+ urce: cdmx365\n\nhttps://www.cdmx365.com/es/evento/yo-fui-una-de-los-41
+LOCATION:FORO CULTURAL RICARDO VILLARREAL\, Coyoacán\, Ciudad de México
+ \, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/yo-fui-una-de-los-41
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:20 Años Después…Hoy No Me Puedo Levantar
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:923018c0f516a83558814365@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEl musical que convocó a casi medio millón de pers
@@ -1031,7 +1095,7 @@ BEGIN:VEVENT
 SUMMARY:Aitana en Auditorio Nacional
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:9a7c5bb042dd9c7196995f2c@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa sensación del pop español Aita
@@ -1047,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:Amiga Date Cuenta!!
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:6edf24a00091b5a31522afb1@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nSoledad mantiene una relación ambigua con Liberio\,
@@ -1064,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Buenavista Social Club\, el Musical
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:2adef6575ee1bf6742103a83@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nHan pasado años desde que la legendaria cantante Om
@@ -1081,7 +1145,7 @@ BEGIN:VEVENT
 SUMMARY:La Leyenda de la Llorona\, La Cihuacóatl 2026
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b1d2ae066fc6124cc6ce4d50@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $550\n\nEsta puesta en escena lleva una d
@@ -1100,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:La Muerte de un Viajante
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:113a56326231cdda5eeab9bc@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nLa obra maestra de Arthur Miller sobre el sueño ame
@@ -1117,7 +1181,7 @@ BEGIN:VEVENT
 SUMMARY:María la Bruja Tlahuipochi
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b300a342332e4a9939cb80d5@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $840 – $1\,200\n\nEsta experiencia teat
@@ -1136,7 +1200,7 @@ BEGIN:VEVENT
 SUMMARY:Mujeres Soñaron Caballos
 DTSTART;TZID=America/Mexico_City:20261107T203000
 DTEND;TZID=America/Mexico_City:20261107T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:17dd4de728e3f85b3cbf9b3b@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $380 – $500\n\nTres hermanos y sus pare
@@ -1153,7 +1217,7 @@ BEGIN:VEVENT
 SUMMARY:DOSE.003
 DTSTART;TZID=America/Mexico_City:20261107T210000
 DTEND;TZID=America/Mexico_City:20261107T230000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:f01b7dfac2261eff2f6f800d@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $100\n\nLa tercera edición de Dopa
@@ -1169,7 +1233,7 @@ BEGIN:VEVENT
 SUMMARY:Ricardo O'Farrill - Palabra del Señor
 DTSTART;TZID=America/Mexico_City:20261107T210000
 DTEND;TZID=America/Mexico_City:20261107T230000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:75f044459cbf738c59d1a8be@cdmx-social-calendar
 CATEGORIES:Comedia
 DESCRIPTION:Comedia\n\nAdmission: $600 – $800\n\nRicardo O'Farrill desar
@@ -1184,10 +1248,28 @@ URL:https://www.cdmx365.com/es/evento/ricardo-ofarrill-palabra-del-senor-2
  026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Safari 'a Night to Hunt' - Animal Print Party
+DTSTART;TZID=America/Mexico_City:20261107T210000
+DTEND;TZID=America/Mexico_City:20261107T230000
+DTSTAMP:20261107T215844Z
+UID:77ad93b6b1cbfcfe1cbade16@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $289\n\nSafari es la noche recurren
+ te de Guestlist Mexico cada sábado en Primitivo Club en Roma Norte\, con 
+ reggaetón\, afrohouse y sets de formato abierto bajo un código...\n\nSou
+ rce: cdmx365\n\nhttps://www.cdmx365.com/es/evento/safari-a-night-to-hunt-a
+ nimal-print-party-2026-11-07
+LOCATION:Primitivo Club\, Roma Norte\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/safari-a-night-to-hunt-animal-print-
+ party-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silvina Moreno en CDMX
 DTSTART;TZID=America/Mexico_City:20261107T210000
 DTEND;TZID=America/Mexico_City:20261107T230000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:69ee72451773ad1d691d6b67@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $400 – $750\n\nLa cantautora a
@@ -1204,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:Trágico Ballet 25 Aniversario
 DTSTART;TZID=America/Mexico_City:20261107T210000
 DTEND;TZID=America/Mexico_City:20261107T230000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a283d14d90ed6f136c35636e@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nTrágico Ballet\, una de las bandas
@@ -1222,7 +1304,7 @@ BEGIN:VEVENT
 SUMMARY:José María Tour Fábrica de Espinas
 DTSTART;TZID=America/Mexico_City:20261107T213000
 DTEND;TZID=America/Mexico_City:20261107T233000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3fcc83e99c5a4666051f345e@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nJosé María presenta su tour Fábr
@@ -1241,7 +1323,7 @@ BEGIN:VEVENT
 SUMMARY:AEREA (Live)
 DTSTART;TZID=America/Mexico_City:20261107T220000
 DTEND;TZID=America/Mexico_City:20261108T000000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:97226780c5c3504633dbc6ac@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $500 – $2\,200\n\nAEREA toca e
@@ -1255,10 +1337,28 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/aerea-live-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mucha Discoteca: Boogaloo Jones (CA)
+DTSTART;TZID=America/Mexico_City:20261107T220000
+DTEND;TZID=America/Mexico_City:20261108T000000
+DTSTAMP:20261107T215844Z
+UID:e7d6eb6f8713e77b914d10a6@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $250\n\nMucha Discoteca trae al sel
+ ector canadiense Boogaloo Jones a Bar Oriente para una sesión sabatina qu
+ e se extiende hasta las 5am. El cartel incluye también a Mot...\n\nSource
+ : cdmx365\n\nhttps://www.cdmx365.com/es/evento/mucha-discoteca-boogaloo-jo
+ nes-ca-2026-11-07
+LOCATION:Bar Oriente\, Roma Norte\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/mucha-discoteca-boogaloo-jones-ca-20
+ 26-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Nutroween x Montes
 DTSTART;TZID=America/Mexico_City:20261107T220100
 DTEND;TZID=America/Mexico_City:20261108T000100
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:478345cf856c39c30e8f70d3@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nNutro House regresa con una nueva edición de 
@@ -1271,10 +1371,28 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/nutroween-x-montes-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[sic]: Luca Fernandez / Diego Delgado / Nat Salazar / sadgal
+DTSTART;TZID=America/Mexico_City:20261107T230000
+DTEND;TZID=America/Mexico_City:20261108T010000
+DTSTAMP:20261107T215844Z
+UID:aa37fda722f5de712cabd0fa@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $386\n\n[sic] lleva a Luca Fernande
+ z\, Diego Delgado\, Nat Salazar y sadgal a Versalles 64 en la Juárez para
+  una noche de techno y house en dos salas. El salón principal...\n\nSourc
+ e: cdmx365\n\nhttps://www.cdmx365.com/es/evento/sic-luca-fernandez-diego-d
+ elgado-nat-salazar-sadgal-2026-11-07
+LOCATION:C. Versalles 64\, Juárez\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/sic-luca-fernandez-diego-delgado-nat
+ -salazar-sadgal-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gallo + Itzvan
 DTSTART;TZID=America/Mexico_City:20261107T230000
 DTEND;TZID=America/Mexico_City:20261108T010000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:ad1650d47ba1634d8201b16e@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $231\n\nGallō e Itzvan comparten c
@@ -1291,7 +1409,7 @@ BEGIN:VEVENT
 SUMMARY:MUTEK en CHICO
 DTSTART;TZID=America/Mexico_City:20261107T230000
 DTEND;TZID=America/Mexico_City:20261108T010000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:30c2aaaec273767ef4f6ecf8@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $169\n\nMUTEK se apodera de CHICO p
@@ -1307,7 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:Mutek Mx x Fünk: Maayan Nidam + Priori + Phanta
 DTSTART;TZID=America/Mexico_City:20261107T230000
 DTEND;TZID=America/Mexico_City:20261108T010000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c30a2c7e779fc594d5dfa447@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $335 – $447\n\nMutek Mx toma Fün
@@ -1325,7 +1443,7 @@ BEGIN:VEVENT
 SUMMARY:Panic Room x Brutal Mx: Ultra Morning Party
 DTSTART;TZID=America/Mexico_City:20261107T230000
 DTEND;TZID=America/Mexico_City:20261108T010000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:db4bf3f7a16e7d5acbfcd631@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $224\n\nPanic Room se une con Bruta
@@ -1344,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:Ultra Mexico
 DTSTART;TZID=America/Mexico_City:20261107T230000
 DTEND;TZID=America/Mexico_City:20261108T010000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:f758f4a7c5f760f1289ac7fc@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nUltra Mexico regresa con un festiva
@@ -1361,7 +1479,7 @@ BEGIN:VEVENT
 SUMMARY:Yu Yu Cine Club: MUTEK Presenta Super Special Guest
 DTSTART;TZID=America/Mexico_City:20261107T230000
 DTEND;TZID=America/Mexico_City:20261108T010000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:35d72ad894eb6d1677b4729c@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nMUTEK toma Yu Yu Cine Club en Doctores para un
@@ -1376,10 +1494,27 @@ URL:https://www.cdmx365.com/es/evento/yu-yu-cine-club-mutek-presenta-super
  -special-guest-2026-11-07
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RENÊ + Valderrama
+DTSTART;TZID=America/Mexico_City:20261107T235900
+DTEND;TZID=America/Mexico_City:20261108T015900
+DTSTAMP:20261107T215844Z
+UID:2ed4aed28b24a36d416b30bf@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $577\n\nRENÊ y Valderrama comparte
+ n cabina en M.N.Roy\, el club de la Roma conocido por su espacio íntimo y
+  su curaduría selectiva. Es una noche de dos artistas corriend...\n\nSour
+ ce: cdmx365\n\nhttps://www.cdmx365.com/es/evento/rene-valderrama-2026-11-0
+ 7
+LOCATION:MN Roy\, Roma Norte\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/rene-valderrama-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 ¡Taller de Yoga!
 DTSTART;TZID=America/Mexico_City:20261108T090000
 DTEND;TZID=America/Mexico_City:20261108T110000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:ef60f533743532422a159293@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nCentro Cultural José 
@@ -1400,7 +1535,7 @@ BEGIN:VEVENT
 SUMMARY:Ballet Folklórico de México de Amalia Hernández
 DTSTART;TZID=America/Mexico_City:20261108T093000
 DTEND;TZID=America/Mexico_City:20261108T113000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:11d8b6f1bf490965eff2a549@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEl Ballet Folklórico de México es la compañía de 
@@ -1419,7 +1554,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Muralismo. Memoria compartida\, patrimonio común
 DTSTART;TZID=America/Mexico_City:20261108T100000
 DTEND;TZID=America/Mexico_City:20261108T120000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:8fcdd34dbe34ec8549e36913@cdmx-social-calendar
 CATEGORIES:Recorridos
 DESCRIPTION:Recorridos\n\nAdmission: FREE\n\nRecorridos guiados integrado 
@@ -1442,7 +1577,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 "El sillón" Función de teatro musical
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:6fd58fe6b1ce826bbf9d445a@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\n¡El talento de nuestra
@@ -1465,7 +1600,7 @@ BEGIN:VEVENT
 SUMMARY:Gala 90 Aniversario OFUNAM: La Resurrección de Mahler
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:83a8d83f7a69b7bed56bf157@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa OFUNAM celebra nueve décadas con la mon
@@ -1485,7 +1620,7 @@ SUMMARY:OFUNAM 90 años | Gala de aniversario | Tercera temporada 2026 | P
  rograma 3
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a97240b916282916be4e7e22@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -1502,7 +1637,7 @@ BEGIN:VEVENT
 SUMMARY:Puente de voces | Coros de Polonia | Música vocal
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T133000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:6ee47d9c7b49bcf57f991c34@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -1519,7 +1654,7 @@ BEGIN:VEVENT
 SUMMARY:Puente de Voces: Coros de Polonia
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:22fe1b5fb6f88a7ed81c19dc@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nTres agrupaciones corales de Polonia—Akol
@@ -1538,7 +1673,7 @@ BEGIN:VEVENT
 SUMMARY:Vivaldi Escénico Musical: Las 4 Estaciones Inmersivas
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:73fef8dddca3fa038d39b056@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $590 – $950\n\nLa violinista A
@@ -1557,7 +1692,7 @@ BEGIN:VEVENT
 SUMMARY:Vivaldi Escénico: Las 4 Estaciones Inmersivas
 DTSTART;TZID=America/Mexico_City:20261108T120000
 DTEND;TZID=America/Mexico_City:20261108T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a9621a25dafcea7638ca7823@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $590 – $950\n\nLünstelbag Atm
@@ -1576,7 +1711,7 @@ BEGIN:VEVENT
 SUMMARY:Food & Wine Festival 2026
 DTSTART;TZID=America/Mexico_City:20261108T130000
 DTEND;TZID=America/Mexico_City:20261108T150000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:695bf4ce634245c57d55890a@cdmx-social-calendar
 CATEGORIES:Comida y Bebidas
 DESCRIPTION:Comida y Bebidas\n\nAdmission: $800 – $2\,900\n\nLa sexta ed
@@ -1590,10 +1725,119 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/food-wine-festival-2026-11-08
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Food & Wine Festival 2026 - Domingo
+DTSTART;TZID=America/Mexico_City:20261108T130000
+DTEND;TZID=America/Mexico_City:20261108T150000
+DTSTAMP:20261107T215844Z
+UID:74c7d939335afa19b9bc5438@cdmx-social-calendar
+CATEGORIES:Comida y Bebidas
+DESCRIPTION:Comida y Bebidas\n\nAdmission: $800 – $2\,900\n\nLa sexta ed
+ ición del festival gastronómico más esperado del año rinde homenaje al
+  mundo latino y al Cono Sur\, con vinos\, chefs y cortes premium como prot
+ agonist...\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/food-an
+ d-wine-festival-domingo-2026-11-08
+LOCATION:Campo Marte\, Chapultepec\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/food-and-wine-festival-domingo-2026-
+ 11-08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krouse: Sinfonía No. 4 & Martín-Jáuregui: Concierto Huasteco
+DTSTART;TZID=America/Mexico_City:20261108T130000
+DTEND;TZID=America/Mexico_City:20261108T150000
+DTSTAMP:20261107T215844Z
+UID:590ebbdd2825d1c0aca55194@cdmx-social-calendar
+CATEGORIES:Música en Vivo
+DESCRIPTION:Música en Vivo\n\nLa Biblioteca de México presenta un progra
+ ma potente: la Sinfonía No. 4 de Ian Krouse\, subtitulada Crónica del Ú
+ ltimo Año en la Vida de un Mexicano\, y el Concie...\n\nSource: cdmx365\n
+ \nhttps://www.cdmx365.com/es/evento/krouse-sinfonia-no-4-martin-jauregui-c
+ oncierto-huasteco-2026-11-08
+LOCATION:Biblioteca de México\, Centro Histórico\, Ciudad de México\, C
+ DMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/krouse-sinfonia-no-4-martin-jauregui
+ -concierto-huasteco-2026-11-08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lágrimas de Agua Dulce
+DTSTART;TZID=America/Mexico_City:20261108T130000
+DTEND;TZID=America/Mexico_City:20261108T150000
+DTSTAMP:20261107T215844Z
+UID:2c4aa13e70d4a4329f08ea7e@cdmx-social-calendar
+CATEGORIES:Teatro
+DESCRIPTION:Teatro\n\nAdmission: $248\n\nChac Bolay presenta esta fábula 
+ cómica sobre Sofía\, una niña cuyas lágrimas dulces se convierten en u
+ n bien codiciado en un pueblo azotado por la sequía. Una fa...\n\nSource:
+  cdmx365\n\nhttps://www.cdmx365.com/es/evento/lagrimas-de-agua-dulce-2026-
+ 11-07
+LOCATION:Centro Cultural Helénico\, Revolución\, Ciudad de México\, CDM
+ X\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/lagrimas-de-agua-dulce-2026-11-07
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Sunday CDMX: 08.10.26
+DTSTART;TZID=America/Mexico_City:20261108T150000
+DTEND;TZID=America/Mexico_City:20261108T170000
+DTSTAMP:20261107T215844Z
+UID:1ffe18489eb4e9e10b384864@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $380 – $500\n\nSunday Sunday pres
+ enta su sesión dominical con Dombrance y Danesholme como cabezas de carte
+ l\, acompañados por Gui Nunez y dos invitados secretos. La fiesta sema...
+ \n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/sunday-sunday-cdm
+ x-08-10-26-2026-11-08
+LOCATION:SUNDAY SUNDAY\, Centro Histórico\, Ciudad de México\, CDMX\, M
+ éxico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/sunday-sunday-cdmx-08-10-26-2026-11-
+ 08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunset Music Sessions
+DTSTART;TZID=America/Mexico_City:20261108T150000
+DTEND;TZID=America/Mexico_City:20261108T170000
+DTSTAMP:20261107T215844Z
+UID:4f3005e015165b8985cc2889@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $231 – $346\n\nSunset Music Sessi
+ ons es una sesión semanal de house en un rooftop del Centro Histórico\, 
+ desde la hora dorada hasta la medianoche. El lineup está por confirmars..
+ .\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/sunset-music-ses
+ sions-2026-11-08
+LOCATION:Terraza Dos Equis\, Centro Histórico\, Ciudad de México\, CDMX
+ \, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/sunset-music-sessions-2026-11-08
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Vitae Fest 2026
+DTSTART;TZID=America/Mexico_City:20261108T160000
+DTEND;TZID=America/Mexico_City:20261108T180000
+DTSTAMP:20261107T215844Z
+UID:f8fe50a1c412f2eba1d1606f@cdmx-social-calendar
+CATEGORIES:Conciertos y Festivales
+DESCRIPTION:Conciertos y Festivales\n\nLa segunda edición de este festiva
+ l gratuito por la paz toma el Zócalo con rock\, pop\, regional mexicano y
+  sonidos urbanos. Tocan Mau y Ricky\, Enjambre\, Alexande...\n\nSource: cd
+ mx365\n\nhttps://www.cdmx365.com/es/evento/vitae-fest-2026-11-08
+LOCATION:Plaza de la Constitución\, Centro Histórico\, Ciudad de México
+ \, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/vitae-fest-2026-11-08
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La Rumba
 DTSTART;TZID=America/Mexico_City:20261108T163000
 DTEND;TZID=America/Mexico_City:20261108T183000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:bd40b1b325fa8b5fe64bd046@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nLa Rumba es un musical sobre dos mujeres de la terce
@@ -1607,10 +1851,28 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/la-rumba-2026-10-04
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AfroLektro with Dr. Chaii
+DTSTART;TZID=America/Mexico_City:20261108T170000
+DTEND;TZID=America/Mexico_City:20261108T190000
+DTSTAMP:20261107T215844Z
+UID:f6d08996bd0f5a1e1223ca3c@cdmx-social-calendar
+CATEGORIES:Antros y DJs
+DESCRIPTION:Antros y DJs\n\nAdmission: $100 – $600\n\nAfroLektro trae al
+  DJ y productor zimbabuense Dr. Chaii\, nominado al Grammy\, a SOLO para u
+ na sesión dominical de Afro House y Afro Tech. En la cabina también es..
+ .\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/afrolektro-with-
+ dr-chaii-2026-11-08
+LOCATION:Ciudad de México\, Centro Histórico\, Ciudad de México\, CDMX
+ \, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/afrolektro-with-dr-chaii-2026-11-08
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Compañía Nacional de Danza: Gala Balanchine en Bellas Artes
 DTSTART;TZID=America/Mexico_City:20261108T170000
 DTEND;TZID=America/Mexico_City:20261108T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b850bcc9c8370edb1b294f3c@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nLa Compañía Nacional de Danza presenta una noche de
@@ -1629,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:OJUEM | Tercera Temporada 2026 | Programa 2 | Charla previa
 DTSTART;TZID=America/Mexico_City:20261108T171500
 DTEND;TZID=America/Mexico_City:20261108T174500
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:e19d2344038ef29269e3af06@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -1646,7 +1908,7 @@ BEGIN:VEVENT
 SUMMARY:48 Foro Manuel Enríquez: Alberto Rosado\, Piano
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:e3e1cfbb0affa96449dfaad1@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa OJUEM participa en el 48 Foro Internacio
@@ -1665,7 +1927,7 @@ BEGIN:VEVENT
 SUMMARY:Coordinación Nacional de Música y Ópera Concierto
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:7737a6adba834817823a7806@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Coordinación Nacional de Músic
@@ -1684,7 +1946,7 @@ BEGIN:VEVENT
 SUMMARY:David Rees LATAM Tour 2026
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:e2bc567fc081415b5f4ea647@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $600 – $1\,400\n\nEl cantautor
@@ -1701,7 +1963,7 @@ BEGIN:VEVENT
 SUMMARY:El Último Round
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:50a391830918086aac680975@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $350\n\nUn solo actor da vida a todos los
@@ -1717,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:Knocked Loose / Denzel Curry en Concierto
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:ab82b37d328e5172becff0b2@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nAdmission: $1\,494 – $2\,100\n\nK
@@ -1736,7 +1998,7 @@ BEGIN:VEVENT
 SUMMARY:La Llorona. Temporada Estelar
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:8e102133a88fc9e0a93762ef@cdmx-social-calendar
 CATEGORIES:Experiencias
 DESCRIPTION:Experiencias\n\nAdmission: $700\n\nLa leyenda de La Llorona co
@@ -1754,7 +2016,7 @@ BEGIN:VEVENT
 SUMMARY:Los Panchos & La Rondalla del Amor de Saltillo
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3756e209ace53a4de7437d4b@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nEl trío Los Panchos celebra décad
@@ -1774,7 +2036,7 @@ SUMMARY:OJUEM | Tercera Temporada 2026 | Programa 2 | Programa Universitar
  io de Música Actual
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:824aa7801d422e2a7cb51c4d@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -1791,7 +2053,7 @@ BEGIN:VEVENT
 SUMMARY:Piaf Sinfónico
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:1dbb77c59afd957a64750955@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $250 – $950\n\nLa soprano María Katzar
@@ -1808,7 +2070,7 @@ BEGIN:VEVENT
 SUMMARY:Septem Sacramenta | La FaM en la Chávez | Música vocal
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T193000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a02e6c043e703d2b8ae61ec6@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -1825,7 +2087,7 @@ BEGIN:VEVENT
 SUMMARY:Septem Sacramenta: Música Vocal Sacra
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:bf8023323ad413e26cb6c0d9@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLos ensambles In paradisum y Aether\, agrup
@@ -1844,7 +2106,7 @@ BEGIN:VEVENT
 SUMMARY:Sin Fronteras Presenta: 'Va Por Ustedes' en El Cantoral
 DTSTART;TZID=America/Mexico_City:20261108T180000
 DTEND;TZID=America/Mexico_City:20261108T200000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:13b97df2f0d1e2f205fbf3c4@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nSin Fronteras presenta su primer material d
@@ -1859,10 +2121,28 @@ URL:https://www.cdmx365.com/es/evento/sin-fronteras-presenta-va-por-ustede
  s-2026-11-08
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Las Andanzas de la Catrina
+DTSTART;TZID=America/Mexico_City:20261108T183000
+DTEND;TZID=America/Mexico_City:20261108T203000
+DTSTAMP:20261107T215844Z
+UID:fb53f336e010e6d50dca1a32@cdmx-social-calendar
+CATEGORIES:Teatro
+DESCRIPTION:Teatro\n\nEsta puesta en escena en dos actos celebra el Día d
+ e Muertos a través de la icónica Catrina\, entrelazando leyendas mexican
+ as como Macario\, Pedro Páramo y La Llo...\n\nSource: cdmx365\n\nhttps://
+ www.cdmx365.com/es/evento/las-andanzas-de-la-catrina-2026-11-08
+LOCATION:El Telón de Asfalto\, Benito Juárez\, Ciudad de México\, CDMX
+ \, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/las-andanzas-de-la-catrina-2026-11-0
+ 8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Don Juan Tenorio… y el Precio es la Vida
 DTSTART;TZID=America/Mexico_City:20261108T190000
 DTEND;TZID=America/Mexico_City:20261108T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:2b08e92c32da1752a38a6cc4@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $640 – $800\n\nÁgora Compañía Teatra
@@ -1881,7 +2161,7 @@ BEGIN:VEVENT
 SUMMARY:José y El Toro en Lunario
 DTSTART;TZID=America/Mexico_City:20261108T190000
 DTEND;TZID=America/Mexico_City:20261108T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:9d4c85f99281297b14fcbffa@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nJosé y el Toro llega por primera vez al Lu
@@ -1898,7 +2178,7 @@ BEGIN:VEVENT
 SUMMARY:Matilda el Musical
 DTSTART;TZID=America/Mexico_City:20261108T193000
 DTEND;TZID=America/Mexico_City:20261108T213000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b9cf7804856f9d666f5cff9d@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nMatilda el Musical lleva la historia de Roald Dahl a
@@ -1915,7 +2195,7 @@ BEGIN:VEVENT
 SUMMARY:El Canto de los Grillos
 DTSTART;TZID=America/Mexico_City:20261108T200000
 DTEND;TZID=America/Mexico_City:20261108T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:084c46b6d226f85901b2642e@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nUna madre llamada Catalina sabe quién se llevó a s
@@ -1932,7 +2212,7 @@ BEGIN:VEVENT
 SUMMARY:John 5 en CDMX
 DTSTART;TZID=America/Mexico_City:20261108T200000
 DTEND;TZID=America/Mexico_City:20261108T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:f02f43426c67cace249104eb@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $950 – $1\,500\n\nJohn 5\, el 
@@ -1949,7 +2229,7 @@ BEGIN:VEVENT
 SUMMARY:Mentiras\, All Stars en Auditorio Nacional
 DTSTART;TZID=America/Mexico_City:20261108T200000
 DTEND;TZID=America/Mexico_City:20261108T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:477a3432ccc9a723136e36df@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nMentiras\, All Stars es una producción musical que 
@@ -1965,7 +2245,7 @@ BEGIN:VEVENT
 SUMMARY:Nocturno
 DTSTART;TZID=America/Mexico_City:20261108T200000
 DTEND;TZID=America/Mexico_City:20261108T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:38d2d0ece1d0ce2bb3bd184a@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nUn hombre huye tras cometer un homicidio imprudencia
@@ -1982,7 +2262,7 @@ BEGIN:VEVENT
 SUMMARY:Requiem de Mozart
 DTSTART;TZID=America/Mexico_City:20261108T200000
 DTEND;TZID=America/Mexico_City:20261108T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:d2db3f0180919d708c443515@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $549 – $749\n\nSeven Waves Pro
@@ -2000,7 +2280,7 @@ BEGIN:VEVENT
 SUMMARY:Ballet Folklórico de México de Amalia Hernández
 DTSTART;TZID=America/Mexico_City:20261108T203000
 DTEND;TZID=America/Mexico_City:20261108T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:769bbd0c4f72de48f5b27b83@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nLa legendaria compañía de Amalia Hernández preserv
@@ -2019,7 +2299,7 @@ BEGIN:VEVENT
 SUMMARY:Ballet Folklórico de México en Bellas Artes
 DTSTART;TZID=America/Mexico_City:20261108T203000
 DTEND;TZID=America/Mexico_City:20261108T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:6e3ca34d8303db581532e5d2@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nFundado por Amalia Hernández en 1952\, el Ballet Fol
@@ -2037,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:El Hijo
 DTSTART;TZID=America/Mexico_City:20261108T203000
 DTEND;TZID=America/Mexico_City:20261108T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:cc4e18a97387be946577a7e7@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nNicolás sale de casa todas las mañanas con su moch
@@ -2050,10 +2330,29 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/el-hijo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Candlelight: Tributo a Juan Luis Guerra
+DTSTART;TZID=America/Mexico_City:20261108T210000
+DTEND;TZID=America/Mexico_City:20261108T230000
+DTSTAMP:20261107T215844Z
+UID:fee5fe9fef991b08a5a83425@cdmx-social-calendar
+CATEGORIES:Experiencias
+DESCRIPTION:Experiencias\n\nAdmission: $595 – $1\,320\n\nUn cuarteto de 
+ cuerdas interpreta los grandes éxitos de Juan Luis Guerra bajo la luz de 
+ miles de velas en el Polyforum Siqueiros. El programa de 60 minutos incl..
+ .\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/candlelight-trib
+ uto-a-juan-luis-guerra
+LOCATION:Polyforum Siqueiros\, Nápoles\, Ciudad de México\, CDMX\, Méxi
+ co
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cdmx365.com/es/evento/candlelight-tributo-a-juan-luis-guer
+ ra
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Carol. Por el lado oscuro del camino
 DTSTART;TZID=America/Mexico_City:20261109T190000
 DTEND;TZID=America/Mexico_City:20261109T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:9f8fbf2f5536fd9b1739f35f@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -2076,7 +2375,7 @@ BEGIN:VEVENT
 SUMMARY:Ghibli in Concert
 DTSTART;TZID=America/Mexico_City:20261109T190000
 DTEND;TZID=America/Mexico_City:20261109T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c65b1c4d131dd7195ab093d4@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $250 – $400\n\nEl Cuarteto Opu
@@ -2094,7 +2393,7 @@ BEGIN:VEVENT
 SUMMARY:Le Quattro Stagioni (Las 4 Estaciones)
 DTSTART;TZID=America/Mexico_City:20261109T190000
 DTEND;TZID=America/Mexico_City:20261109T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:0b720ed6d277e5c994c80159@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $450 – $600\n\nCamerata Opus 1
@@ -2113,7 +2412,7 @@ BEGIN:VEVENT
 SUMMARY:Súper Open Mic
 DTSTART;TZID=America/Mexico_City:20261109T190000
 DTEND;TZID=America/Mexico_City:20261109T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3ec60f52e4d80272abc47e25@cdmx-social-calendar
 CATEGORIES:Comedia
 DESCRIPTION:Comedia\n\nAdmission: $75\n\nCírculo Comedy presenta su micr
@@ -2129,7 +2428,7 @@ BEGIN:VEVENT
 SUMMARY:Funny Girl Open Mic in English
 DTSTART;TZID=America/Mexico_City:20261109T193000
 DTEND;TZID=America/Mexico_City:20261109T213000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:801a06382432ac6296be9861@cdmx-social-calendar
 CATEGORIES:Comedia
 DESCRIPTION:Comedia\n\nCírculo Comedy organiza un micrófono abierto en i
@@ -2146,7 +2445,7 @@ BEGIN:VEVENT
 SUMMARY:El eco de las paredes
 DTSTART;TZID=America/Mexico_City:20261109T200000
 DTEND;TZID=America/Mexico_City:20261109T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:f6913c9267522f06d1b998e6@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -2162,7 +2461,7 @@ BEGIN:VEVENT
 SUMMARY:Volver al Bosque
 DTSTART;TZID=America/Mexico_City:20261109T200000
 DTEND;TZID=America/Mexico_City:20261109T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:56dd62364931652daaa0dbaf@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $400\n\nTres hermanas cuidan a su madre e
@@ -2178,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:El Rey León en Teatro Telcel
 DTSTART;TZID=America/Mexico_City:20261109T203000
 DTEND;TZID=America/Mexico_City:20261109T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:42e3d178d04c62c2f01fbb3c@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEl Rey León de Disney trae las Tierras del Reino a 
@@ -2194,7 +2493,7 @@ BEGIN:VEVENT
 SUMMARY:Niño Perdido
 DTSTART;TZID=America/Mexico_City:20261109T203000
 DTEND;TZID=America/Mexico_City:20261109T223000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:986183dbe530634adbda5e7c@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nManuel Andrés está a punto de quitarse la vida des
@@ -2212,7 +2511,7 @@ SUMMARY:🆓 Libro club Tlahtokan presenta: Cuerpos que cuentan "Del texto
   escrito a la expresión viva"
 DTSTART;TZID=America/Mexico_City:20261110T100000
 DTEND;TZID=America/Mexico_City:20261110T120000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:84314e6b55929dec59f52cf7@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nEspacio de descubrimi
@@ -2235,7 +2534,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Plastimagen
 DTSTART;TZID=America/Mexico_City:20261110T120000
 DTEND;TZID=America/Mexico_City:20261110T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:7b330d4190beb0d2e7f4f272@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nReúne a los l
@@ -2256,7 +2555,7 @@ SUMMARY:🆓 Libro club Tlahtokan presenta: Arte\, Cartas y Creaciones col
  ectivas
 DTSTART;TZID=America/Mexico_City:20261110T150000
 DTEND;TZID=America/Mexico_City:20261110T170000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:e4d5f0cadbe374dc9129d94d@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nDiciembre es mucho m
@@ -2279,7 +2578,7 @@ SUMMARY:🆓 Mis cosas\, mis traumas. Charla en torno a la vigencia del bo
  degón
 DTSTART;TZID=America/Mexico_City:20261110T170000
 DTEND;TZID=America/Mexico_City:20261110T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:b4859991fcfeee5d954c46a1@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMartes 10 de noviembre
@@ -2300,9 +2599,9 @@ URL:https://www.tianguis.net/cartelera/41730
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sola
-DTSTART;TZID=America/Mexico_City:20261110T180000
-DTEND;TZID=America/Mexico_City:20261110T200000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261110T180000
+DTEND;TZID="UTC-06:00":20261110T200000
+DTSTAMP:20261107T215844Z
 UID:d1609049cd37a0edd488e684@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nUna comedia romántica ambientada en una lavandería
@@ -2311,15 +2610,15 @@ DESCRIPTION:Teatro\n\nUna comedia romántica ambientada en una lavandería
  w.cdmx365.com/es/evento/sola-2026-10-13
 LOCATION:Biblioteca de México\, Centro Histórico\, Ciudad de México\, C
  DMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/sola-2026-10-13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alberto Rosado en Bellas Artes
-DTSTART;TZID=America/Mexico_City:20261110T190000
-DTEND;TZID=America/Mexico_City:20261110T210000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261110T190000
+DTEND;TZID="UTC-06:00":20261110T210000
+DTSTAMP:20261107T215844Z
 UID:3e84be279a3a239b274ca541@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa Coordinación Nacional de Música y Ópe
@@ -2328,7 +2627,7 @@ DESCRIPTION:Música en Vivo\n\nLa Coordinación Nacional de Música y Ópe
  \nhttps://www.cdmx365.com/es/evento/alberto-rosado-2026-11-10
 LOCATION:Palacio de Bellas Artes\, Centro Histórico\, Ciudad de México\,
   CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/alberto-rosado-2026-11-10
 END:VEVENT
@@ -2337,7 +2636,7 @@ SUMMARY:🆓 Alberto Rosado\, piano - 48 Foro Internacional de Música Nue
  va
 DTSTART;TZID=America/Mexico_City:20261110T190000
 DTEND;TZID=America/Mexico_City:20261110T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:e52a3a826d4b7b41c389f6fd@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nResonancias de ida 
@@ -2358,9 +2657,9 @@ URL:https://www.tianguis.net/cartelera/41947
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vivaldissimo
-DTSTART;TZID=America/Mexico_City:20261110T190000
-DTEND;TZID=America/Mexico_City:20261110T210000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261110T190000
+DTEND;TZID="UTC-06:00":20261110T210000
+DTSTAMP:20261107T215844Z
 UID:dba4ae0ba6ec55bd3f97e733@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $400 – $500\n\nVivaldissimo es
@@ -2370,15 +2669,15 @@ DESCRIPTION:Música en Vivo\n\nAdmission: $400 – $500\n\nVivaldissimo es
  026-09-29
 LOCATION:Capilla Gótica del Instituto Cultural Helénico\, Guadalupe Inn
  \, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/vivaldissimo-2026-09-29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Compañía Nacional de Danza Gala Balanchine en Bellas Artes
-DTSTART;TZID=America/Mexico_City:20261110T200000
-DTEND;TZID=America/Mexico_City:20261110T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261110T200000
+DTEND;TZID="UTC-06:00":20261110T220000
+DTSTAMP:20261107T215844Z
 UID:bf1a876aca67c41862b07a8e@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nLa compañía nacional presenta una gala dedicada a l
@@ -2388,16 +2687,16 @@ DESCRIPTION:Danza\n\nLa compañía nacional presenta una gala dedicada a l
  -10
 LOCATION:Palacio de Bellas Artes\, Centro Histórico\, Ciudad de México\,
   CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/compania-nacional-de-danza-gala-bala
  nchine-2026-11-10
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Espero Curarme de Ti
-DTSTART;TZID=America/Mexico_City:20261110T200000
-DTEND;TZID=America/Mexico_City:20261110T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261110T200000
+DTEND;TZID="UTC-06:00":20261110T220000
+DTSTAMP:20261107T215844Z
 UID:2b1cd7bb301f985ca4d9b5d1@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEsta creación colectiva está basada en la poesía 
@@ -2406,15 +2705,15 @@ DESCRIPTION:Teatro\n\nEsta creación colectiva está basada en la poesía
  www.cdmx365.com/es/evento/espero-curarme-de-ti
 LOCATION:Sala Héctor Mendoza CNTeatro\, Coyoacán\, Ciudad de México\, C
  DMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/espero-curarme-de-ti
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nosotros Somos los Culpables: La Tragedia de la Guardería ABC
-DTSTART;TZID=America/Mexico_City:20261110T200000
-DTEND;TZID=America/Mexico_City:20261110T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261110T200000
+DTEND;TZID="UTC-06:00":20261110T220000
+DTSTAMP:20261107T215844Z
 UID:6418ad90ac4cacd03c90aa33@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $300\n\nA 17 años del incendio de la gua
@@ -2424,7 +2723,7 @@ DESCRIPTION:Teatro\n\nAdmission: $300\n\nA 17 años del incendio de la gua
  la-tragedia-de-la-guarderia-abc
 LOCATION:Centro Cultural El Hormiguero\, Del Valle\, Ciudad de México\, C
  DMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/nosotros-somos-los-culpables-la-trag
  edia-de-la-guarderia-abc
@@ -2434,7 +2733,7 @@ SUMMARY:🆓 Políticas y estéticas del paisaje en el cine ibero-latinoam
  ericano
 DTSTART;TZID=America/Mexico_City:20261111T090000
 DTEND;TZID=America/Mexico_City:20261111T110000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:ac177c4e4746b1c2e7cc06c7@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nColoquio Intern
@@ -2456,7 +2755,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Clínica Círculo de bordado
 DTSTART;TZID=America/Mexico_City:20261111T150000
 DTEND;TZID=America/Mexico_City:20261111T170000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:9e610e0278d247a1551c6e69@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMiércoles11\, 18 y 25
@@ -2479,7 +2778,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Laboratorio presencial Arte e Historia LGBTI+ de México
 DTSTART;TZID=America/Mexico_City:20261111T160000
 DTEND;TZID=America/Mexico_City:20261111T180000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:dd40de57e6e13ce8a75ace0a@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMiércoles 11\, 18\, 2
@@ -2503,7 +2802,7 @@ SUMMARY:🆓 Libro Club Tlahtokan presenta: "De la página a la pantalla\,
   el cine también se lee"
 DTSTART;TZID=America/Mexico_City:20261111T170000
 DTEND;TZID=America/Mexico_City:20261111T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:53de7bb7b300738f2d634554@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nUn espacio de anális
@@ -2522,9 +2821,9 @@ URL:https://www.tianguis.net/cartelera/41717
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cyclo en CDMX Presenta Fisherman Listening Party + Show
-DTSTART;TZID=America/Mexico_City:20261111T180000
-DTEND;TZID=America/Mexico_City:20261111T200000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261111T180000
+DTEND;TZID="UTC-06:00":20261111T200000
+DTSTAMP:20261107T215844Z
 UID:655af2a700aa7bfcc5079cb9@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $600 – $1\,500\n\nCyclo en CDM
@@ -2533,7 +2832,7 @@ DESCRIPTION:Música en Vivo\n\nAdmission: $600 – $1\,500\n\nCyclo en CDM
  a l...\n\nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/cyclo-en-cd
  mx-presenta-fisherman-listening-party-show-2026-11-11
 LOCATION:Foro Hilvana\, Buenavista\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/cyclo-en-cdmx-presenta-fisherman-lis
  tening-party-show-2026-11-11
@@ -2543,7 +2842,7 @@ SUMMARY:🆓 Presentación editorial  Poemario Arje Autor: Uriel Octavio M
  uñoz Martinez
 DTSTART;TZID=America/Mexico_City:20261111T190000
 DTEND;TZID=America/Mexico_City:20261111T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:aaa7f6e3e324d63f409f5e1b@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nCentro Cultural José
@@ -2564,9 +2863,9 @@ URL:https://www.tianguis.net/cartelera/41292
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Asesinato en la Casa Burlesque
-DTSTART;TZID=America/Mexico_City:20261111T200000
-DTEND;TZID=America/Mexico_City:20261111T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261111T200000
+DTEND;TZID="UTC-06:00":20261111T220000
+DTSTAMP:20261107T215844Z
 UID:3c74243db888551bfe94769a@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $350 – $430\n\nUn misterio interactivo 
@@ -2576,7 +2875,7 @@ DESCRIPTION:Teatro\n\nAdmission: $350 – $430\n\nUn misterio interactivo
  lesque-2026-10-21
 LOCATION:Teatro Rodolfo Usigli\, Coyoacán\, Ciudad de México\, CDMX\, M
  éxico
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/asesinato-en-la-casa-burlesque-2026-
  10-21
@@ -2585,7 +2884,7 @@ BEGIN:VEVENT
 SUMMARY:Teatro UNAM. El gordo y el flaco
 DTSTART;TZID=America/Mexico_City:20261111T200000
 DTEND;TZID=America/Mexico_City:20261111T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:826a2429d32fa3d0541fc892@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -2599,9 +2898,9 @@ URL:https://www.cultura.unam.mx/evento/teatro-unam-el-gordo-y-el-flaco-1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Opeth en Arena CDMX
-DTSTART;TZID=America/Mexico_City:20261111T210000
-DTEND;TZID=America/Mexico_City:20261111T230000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261111T210000
+DTEND;TZID="UTC-06:00":20261111T230000
+DTSTAMP:20261107T215844Z
 UID:a2eceac5098b5da0f1b8fc52@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nAdmission: $502 – $2\,008\n\nLa b
@@ -2611,15 +2910,15 @@ DESCRIPTION:Conciertos y Festivales\n\nAdmission: $502 – $2\,008\n\nLa b
  th-2026-11-11
 LOCATION:Arena Ciudad de México\, Azcapotzalco\, Ciudad de México\, CDMX
  \, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/opeth-2026-11-11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZZ Top en Auditorio Nacional
-DTSTART;TZID=America/Mexico_City:20261111T210000
-DTEND;TZID=America/Mexico_City:20261111T230000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261111T210000
+DTEND;TZID="UTC-06:00":20261111T230000
+DTSTAMP:20261107T215844Z
 UID:ed7cca659604ad7322e51233@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nEl trío tejano detrás de "La Gran
@@ -2627,7 +2926,7 @@ DESCRIPTION:Conciertos y Festivales\n\nEl trío tejano detrás de "La Gran
  y sus icónicas barbas a la Ciudad de México. El Audito...\n\nSource: cdm
  x365\n\nhttps://www.cdmx365.com/es/evento/zz-top-2026-11-11
 LOCATION:Auditorio Nacional\, Polanco\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/zz-top-2026-11-11
 END:VEVENT
@@ -2635,7 +2934,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Original. Encuentro de Arte Textil\, Decorativo y Utilitario
 DTSTART;TZID=America/Mexico_City:20261112T103000
 DTEND;TZID=America/Mexico_City:20261112T123000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:bc6ada50fe9208b025be2061@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\n"En esta edición pa
@@ -2658,7 +2957,7 @@ BEGIN:VEVENT
 SUMMARY:Encuentro\nPoesía y Naturaleza. Mundos posibles
 DTSTART;TZID=America/Mexico_City:20261112T110000
 DTEND;TZID=America/Mexico_City:20261112T130000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:acf4de6a13efef5deb052993@cdmx-social-calendar
 CATEGORIES:Conferencias y presentaciones
 DESCRIPTION:Conferencias y presentaciones\n\nEvent details and admission i
@@ -2676,7 +2975,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Clínica Ajedrez desde cero
 DTSTART;TZID=America/Mexico_City:20261112T160000
 DTEND;TZID=America/Mexico_City:20261112T180000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:e2e21661debb40dc4363b9da@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nJueves 12 y 19 de novi
@@ -2699,7 +2998,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Karaoke FIV Club
 DTSTART;TZID=America/Mexico_City:20261112T170000
 DTEND;TZID=America/Mexico_City:20261112T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:05cf4fda5279c89a3682a57f@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nJueves12 de Noviemb
@@ -2722,7 +3021,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Lo mejor de dos mundos  (Universonoro & Ruta de la Trova)
 DTSTART;TZID=America/Mexico_City:20261112T180000
 DTEND;TZID=America/Mexico_City:20261112T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:90dda753a362f13e6de3134d@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural Jos
@@ -2745,7 +3044,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Pasiones y rock
 DTSTART;TZID=America/Mexico_City:20261112T180000
 DTEND;TZID=America/Mexico_City:20261112T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:75e7890aaff24bfaec6038ba@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural La 
@@ -2768,7 +3067,7 @@ SUMMARY:🆓 1816\,  El año sin verano. Cuando nació la Ciencia Ficción
   y el Horror Moderno
 DTSTART;TZID=America/Mexico_City:20261112T183000
 DTEND;TZID=America/Mexico_City:20261112T235900
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:dc1071c7dce5d8a25fc64ab3@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nCentro Cultural La Pi
@@ -2791,7 +3090,7 @@ BEGIN:VEVENT
 SUMMARY:Le Carnaval Baroque | Le Poème Harmonique | Música antigua
 DTSTART;TZID=America/Mexico_City:20261112T200000
 DTEND;TZID=America/Mexico_City:20261112T214500
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:6e79d669ac3b7ff6be51e978@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -2806,9 +3105,9 @@ URL:https://www.cultura.unam.mx/evento/le-carnaval-baroque--le-po232me-har
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Le Carnaval Baroque: Le Poème Harmonique
-DTSTART;TZID=America/Mexico_City:20261112T200000
-DTEND;TZID=America/Mexico_City:20261112T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T200000
+DTEND;TZID="UTC-06:00":20261112T220000
+DTSTAMP:20261107T215844Z
 UID:9fa64229da651be2878a7bf1@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLe Poème Harmonique trae a la Sala Nezahua
@@ -2818,16 +3117,16 @@ DESCRIPTION:Música en Vivo\n\nLe Poème Harmonique trae a la Sala Nezahua
  que-2026-11-12
 LOCATION:Sala Nezahualcóyotl\, Universidad\, Ciudad de México\, CDMX\, M
  éxico
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/le-carnaval-baroque-le-poeme-harmoni
  que-2026-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OCBA Orquesta de Cámara Programa 7 en Bellas Artes
-DTSTART;TZID=America/Mexico_City:20261112T200000
-DTEND;TZID=America/Mexico_City:20261112T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T200000
+DTEND;TZID="UTC-06:00":20261112T220000
+DTSTAMP:20261107T215844Z
 UID:af2b8631886753d9471c7d97@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta de Cámara de Bellas Ar
@@ -2837,16 +3136,16 @@ DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta de Cámara de Bellas Ar
  7-2026-11-12
 LOCATION:Palacio de Bellas Artes\, Centro Histórico\, Ciudad de México\,
   CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/ocba-orquesta-de-camara-programa-7-2
  026-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orquesta Mondragón - 50 Aniversario en Teatro de la Ciudad
-DTSTART;TZID=America/Mexico_City:20261112T200000
-DTEND;TZID=America/Mexico_City:20261112T220000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T200000
+DTEND;TZID="UTC-06:00":20261112T220000
+DTSTAMP:20261107T215844Z
 UID:f3cb8c13f05965fd8797aa4e@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta Mondragón celebra medi
@@ -2856,16 +3155,16 @@ DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta Mondragón celebra medi
  2026-11-12
 LOCATION:Teatro de la Ciudad Esperanza Iris\, Centro Histórico\, Ciudad d
  e México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/orquesta-mondragon-50-aniversario-20
  26-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Elefante: 30 Aniversario en Auditorio Nacional
-DTSTART;TZID=America/Mexico_City:20261112T203000
-DTEND;TZID=America/Mexico_City:20261112T223000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T203000
+DTEND;TZID="UTC-06:00":20261112T223000
+DTSTAMP:20261107T215844Z
 UID:94326325355de9af2ff9de5a@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nElefante celebra tres décadas como
@@ -2874,15 +3173,15 @@ DESCRIPTION:Conciertos y Festivales\n\nElefante celebra tres décadas como
  365\n\nhttps://www.cdmx365.com/es/evento/elefante-30-aniversario-2026-11-1
  2
 LOCATION:Auditorio Nacional\, Polanco\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/elefante-30-aniversario-2026-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:María León en Teatro Metropólitan
-DTSTART;TZID=America/Mexico_City:20261112T203000
-DTEND;TZID=America/Mexico_City:20261112T223000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T203000
+DTEND;TZID="UTC-06:00":20261112T223000
+DTSTAMP:20261107T215844Z
 UID:5b9fde18e4d62e896896816e@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nMaría León llega con su potente v
@@ -2891,15 +3190,15 @@ DESCRIPTION:Conciertos y Festivales\n\nMaría León llega con su potente v
  365\n\nhttps://www.cdmx365.com/es/evento/maria-leon-2026-11-12
 LOCATION:Teatro Metropólitan\, Centro Histórico\, Ciudad de México\, CD
  MX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/maria-leon-2026-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Andy Moor
-DTSTART;TZID=America/Mexico_City:20261112T220000
-DTEND;TZID=America/Mexico_City:20261113T000000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T220000
+DTEND;TZID="UTC-06:00":20261113T000000
+DTSTAMP:20261107T215844Z
 UID:1e8b9b49b83428f030c58122@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nEl legendario productor holandés Andy Moor to
@@ -2907,15 +3206,15 @@ DESCRIPTION:Antros y DJs\n\nEl legendario productor holandés Andy Moor to
   Conocido por su trabajo con Tilt y sus pr...\n\nSource: cdmx365\n\nhttps:
  //www.cdmx365.com/es/evento/andy-moor-2026-11-12
 LOCATION:LooLoo Studio\, Juárez\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/andy-moor-2026-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paisaje Futuro: Son Los Dioses Tribales
-DTSTART;TZID=America/Mexico_City:20261112T220000
-DTEND;TZID=America/Mexico_City:20261113T000000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T220000
+DTEND;TZID="UTC-06:00":20261113T000000
+DTSTAMP:20261107T215844Z
 UID:b118e52a35b4130c499be490@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $173 – $231\n\nSabotaje Media y C
@@ -2924,16 +3223,16 @@ DESCRIPTION:Antros y DJs\n\nAdmission: $173 – $231\n\nSabotaje Media y C
  \nSource: cdmx365\n\nhttps://www.cdmx365.com/es/evento/paisaje-futuro-son-
  los-dioses-tribales-2026-11-12
 LOCATION:Chico\, Roma Norte\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/paisaje-futuro-son-los-dioses-tribal
  es-2026-11-12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stardust & THISISSAUCE
-DTSTART;TZID=America/Mexico_City:20261112T230000
-DTEND;TZID=America/Mexico_City:20261113T010000
-DTSTAMP:20261107T131452Z
+DTSTART;TZID="UTC-06:00":20261112T230000
+DTEND;TZID="UTC-06:00":20261113T010000
+DTSTAMP:20261107T215844Z
 UID:cdebd173015e44fafd5c60ec@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $600\n\nStardust y THISISSAUCE toma
@@ -2942,7 +3241,7 @@ DESCRIPTION:Antros y DJs\n\nAdmission: $600\n\nStardust y THISISSAUCE toma
  : cdmx365\n\nhttps://www.cdmx365.com/es/evento/stardust-thisissauce-2026-1
  1-12
 LOCATION:MN Roy\, Roma Norte\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
+STATUS:CANCELLED
 TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/stardust-thisissauce-2026-11-12
 END:VEVENT
@@ -2950,7 +3249,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Charla Herencia Viva
 DTSTART;TZID=America/Mexico_City:20261113T120000
 DTEND;TZID=America/Mexico_City:20261113T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a734efca1ea40f3d44d322eb@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nViernes 13 de noviembr
@@ -2973,7 +3272,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Memorias Fareras: presentación de Fanzine comunitario
 DTSTART;TZID=America/Mexico_City:20261113T140000
 DTEND;TZID=America/Mexico_City:20261113T160000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:7b46fe86b53aa2458474e319@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nViernes 13 de noviemb
@@ -2997,7 +3296,7 @@ SUMMARY:🆓 Trueque Xochicalli Temática: libros en el marco del Día Nac
  ional del Libro
 DTSTART;TZID=America/Mexico_City:20261113T150000
 DTEND;TZID=America/Mexico_City:20261113T170000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:5d088b56d461063f19d29639@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nEspacio de encuentro 
@@ -3016,7 +3315,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Viernes de Juegos: Juguemos Ping Pong
 DTSTART;TZID=America/Mexico_City:20261113T160000
 DTEND;TZID=America/Mexico_City:20261113T180000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:98d4d2b0336774a0113bc71f@cdmx-social-calendar
 CATEGORIES:Deporte
 DESCRIPTION:Deporte\n\nAdmission: FREE\n\nViernes 13 y 20 de noviembre\, 2
@@ -3039,7 +3338,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 3ER ANIVERSARIO BLACKCAT SOCIAL CLUB
 DTSTART;TZID=America/Mexico_City:20261113T170000
 DTEND;TZID=America/Mexico_City:20261113T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:1c4b5dfc5d26a4b01227c89e@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nViernes 13 de noviem
@@ -3062,7 +3361,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 777 Fest 2026
 DTSTART;TZID=America/Mexico_City:20261113T170000
 DTEND;TZID=America/Mexico_City:20261113T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:39c27cb5accc49e73e1dfa1a@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural Jos
@@ -3086,7 +3385,7 @@ SUMMARY:🆓 Ciencia y Cocina cultivando lo invisible: Simulación didáct
  ica de cultivo bacteriano
 DTSTART;TZID=America/Mexico_City:20261113T170000
 DTEND;TZID=America/Mexico_City:20261113T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:517c13fdeec63582bbbb0aea@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nActividad para explica
@@ -3105,7 +3404,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 EDEN’es Concierto por la Paz
 DTSTART;TZID=America/Mexico_City:20261113T170000
 DTEND;TZID=America/Mexico_City:20261113T190000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:13712da0e391573622a3a899@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nLa Tremenda korte l
@@ -3122,7 +3421,7 @@ BEGIN:VEVENT
 SUMMARY:AMA | Cuerdas en movimiento: de la folía a los primeros cuartetos
 DTSTART;TZID=America/Mexico_City:20261113T180000
 DTEND;TZID=America/Mexico_City:20261113T193000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:74b47d737fa79a6c314ad68c@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -3140,7 +3439,7 @@ BEGIN:VEVENT
 SUMMARY:Cie La Mangrove | SERSUR África | Outre-Rage
 DTSTART;TZID=America/Mexico_City:20261113T190000
 DTEND;TZID=America/Mexico_City:20261113T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:529d8e9eb34ee313c317f18b@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -3156,7 +3455,7 @@ BEGIN:VEVENT
 SUMMARY:Concierto de Rumba San Feroz
 DTSTART;TZID=America/Mexico_City:20261113T210000
 DTEND;TZID=America/Mexico_City:20261113T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:7b9b2a3fcc1c92062ef8f6cc@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -3173,7 +3472,7 @@ SUMMARY:AMA | 475+ Universidad de México | San Ildefonso: un paisaje sono
  ro de la Nueva España
 DTSTART;TZID=America/Mexico_City:20261114T120000
 DTEND;TZID=America/Mexico_City:20261114T133000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:32b203f2733530d46564606a@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -3190,7 +3489,7 @@ BEGIN:VEVENT
 SUMMARY:Concierto\nSan Ildefonso: un paisaje sonoro de la Nueva España
 DTSTART;TZID=America/Mexico_City:20261114T120000
 DTEND;TZID=America/Mexico_City:20261114T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:3df5f95f366aab0ad2b1eafc@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -3208,7 +3507,7 @@ BEGIN:VEVENT
 SUMMARY:Narración\nLa UNAM: memoria y voz
 DTSTART;TZID=America/Mexico_City:20261114T130000
 DTEND;TZID=America/Mexico_City:20261114T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:cf1d885e7b77c2ee00bc48e7@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -3225,7 +3524,7 @@ SUMMARY:Cátedrá Extraordinaria Gloria Contreras | SERSUR África | Mozam
  bique en movimiento
 DTSTART;TZID=America/Mexico_City:20261114T170000
 DTEND;TZID=America/Mexico_City:20261114T183000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:28bef312c7bf26b332c672a5@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -3242,7 +3541,7 @@ BEGIN:VEVENT
 SUMMARY:Johana Malédon | SERSUR África | Titre provisoire
 DTSTART;TZID=America/Mexico_City:20261120T190000
 DTEND;TZID=America/Mexico_City:20261120T210000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:445253520247a54c84fa86f8@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -3258,7 +3557,7 @@ BEGIN:VEVENT
 SUMMARY:Carro de Comedias 2023. Ese amor de Romeo y Julieta
 DTSTART;TZID=America/Mexico_City:20261121T110000
 DTEND;TZID=America/Mexico_City:20261121T130000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:1952befac8965ee357bd59cb@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -3276,7 +3575,7 @@ SUMMARY:Conversatorio\nCobertura Cultural: cómo contar historias que atra
  pen
 DTSTART;TZID=America/Mexico_City:20261121T110000
 DTEND;TZID=America/Mexico_City:20261121T130000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:c7ea356694a816f346661303@cdmx-social-calendar
 CATEGORIES:Conferencias y presentaciones
 DESCRIPTION:Conferencias y presentaciones\n\nEvent details and admission i
@@ -3294,7 +3593,7 @@ BEGIN:VEVENT
 SUMMARY:Teatro\nNoche de Museos\nMi hermano no murió como un niño héroe
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T203000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:a80f1ab373cd5dbf7d385aea@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -3312,7 +3611,7 @@ BEGIN:VEVENT
 SUMMARY:The Royal Ballet. Manon (MacMillan)
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T141100
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:dc7d8292d574bd6f3277b786@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -3328,7 +3627,7 @@ BEGIN:VEVENT
 SUMMARY:Narración\nLa UNAM: memoria y voz
 DTSTART;TZID=America/Mexico_City:20261128T130000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:244974472d837e95bc015422@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -3344,7 +3643,7 @@ BEGIN:VEVENT
 SUMMARY:Ecos y cadenas
 DTSTART;TZID=America/Mexico_City:20261203T200000
 DTEND;TZID=America/Mexico_City:20261203T220000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:73d4c85b587be5c111292eb7@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -3361,7 +3660,7 @@ SUMMARY:Diálogo\nHombres fuera del molde: Historias para romper estereoti
  pos
 DTSTART;TZID=America/Mexico_City:20261205T110000
 DTEND;TZID=America/Mexico_City:20261205T130000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:223f04a067a719097257ae31@cdmx-social-calendar
 CATEGORIES:Conferencias y presentaciones
 DESCRIPTION:Conferencias y presentaciones\n\nEvent details and admission i
@@ -3379,7 +3678,7 @@ BEGIN:VEVENT
 SUMMARY:Narración\nLa UNAM: memoria y voz
 DTSTART;TZID=America/Mexico_City:20261205T130000
 DTEND;TZID=America/Mexico_City:20261205T140000
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:11bc3199f2e39e93b5d3cc15@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -3395,7 +3694,7 @@ BEGIN:VEVENT
 SUMMARY:The Royal Ballet. El cascanueces
 DTSTART;TZID=America/Mexico_City:20270220T110000
 DTEND;TZID=America/Mexico_City:20270220T134500
-DTSTAMP:20261107T131452Z
+DTSTAMP:20261107T215844Z
 UID:2b94a0ce30bb78ed961d83f5@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
