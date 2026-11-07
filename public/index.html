@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An automatically refreshed calendar of social and cultural events in Mexico City.">
+  <title>Mexico City Social &amp; Culture Calendar</title>
+  <style>
+    :root { color-scheme: light; --accent: #a51d2d; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #fff; color: #111; font: 19px/1.55 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    main { width: min(920px, calc(100% - 40px)); margin: 72px auto; }
+    h1 { margin: 0 0 38px; font-size: clamp(2.25rem, 6vw, 4rem); line-height: 1.06; letter-spacing: -.035em; }
+    p { max-width: 820px; }
+    a { color: var(--accent); text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+    .actions { margin: 32px 0; font-size: 1.12em; }
+    .feed { display: block; width: 100%; margin: 18px 0 28px; padding: 13px 15px; border: 1px solid #777; border-radius: 3px; background: #fff; color: #111; font: .92em/1.35 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; overflow-wrap: anywhere; }
+    .links { margin-top: 26px; }
+    .note { margin-top: 30px; }
+    @media (max-width: 600px) { main { margin-top: 42px; } body { font-size: 17px; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Mexico City Social &amp; Culture Calendar</h1>
+    <p>An independent, automatically refreshed calendar of concerts, nightlife, performing and visual arts, literary events, workshops, talks, festivals, queer events, community gatherings, and other social plans in Ciudad de México.</p>
+
+    <p class="actions"><a href="webcal://k10sj02.github.io/mexico-city-social-calendar/mexico-city-social-culture.ics">Subscribe in Apple Calendar</a> · <a href="mexico-city-social-culture.ics" download>Download calendar</a></p>
+
+    <p>For Google Calendar, choose <strong>Other calendars → + → From URL</strong>, then paste:</p>
+    <code class="feed">https://k10sj02.github.io/mexico-city-social-calendar/mexico-city-social-culture.ics</code>
+
+    <p class="links"><a href="status.json">Last refresh status</a> · <a href="https://www.tianguis.net/calendario">Tianguis / Cartelera CDMX</a> · <a href="https://www.cultura.unam.mx/">Cultura UNAM</a> · <a href="https://www.cdmx365.com/es/eventos">CDMX365</a> · <a href="https://github.com/k10sj02/mexico-city-social-calendar">Source code</a></p>
+
+    <p class="note">Refreshes every six hours. Cinema screenings are kept in the separate Mexico City cinema calendar. Calendar apps control how quickly subscription changes appear; check the original event link before attending.</p>
+  </main>
+</body>
+</html>
+
