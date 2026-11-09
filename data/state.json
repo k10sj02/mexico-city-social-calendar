@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T00:48:40.316762-06:00",
+  "updated_at": "2026-11-09T16:28:56.483585-06:00",
   "events": [
     {
       "source": "tianguis-cdmx",
@@ -96,6 +96,34 @@
       "url": "https://www.tianguis.net/cartelera/41294",
       "category": "Música y Conciertos",
       "description": "Centro Cultural José Martí | Viernes 13 noviembre 2026 | 17 horas | Entrada libre&nbsp; Concierto en explanada | 777 Fest 2026 Sinopsis: Concierto de alcance social enfocado en la prevención y orientación sobre adicciones, dirigido a la comunidad en general. A través de la música y mensajes de concientización, el evento busca brindar información, apoyo y esperanza a personas que enfrentan problemáticas de adicción y a sus familias, promoviendo el bienestar social y el acompañamiento comunitario.",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
+      "source_id": "41687",
+      "title": "BIENVENIDXS A LA CASA",
+      "start": "2026-11-15T15:00:00-06:00",
+      "end": "2026-11-15T17:00:00-06:00",
+      "venue": "FARO COSMOS",
+      "address": "CALZADA México-Tacuba,Ciudad de México, CDMX 26 , Tlaxpana, Miguel Hidalgo, C.P. 11370, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41687",
+      "category": "Artes Escénicas",
+      "description": "\"BIENVENIDXS A LA CASA\" es la primera función oficial de LA CASA Compañía de Arte escénico. El programa une dos obras, en primer lugar \"Nuestro Abrazo Infinito\", un unipersonal creado a partir del duelo, del recuerdo y la memoria de un abrazo que se queda registrado en la experiencia de un cuerpo. Esta coreografía atraviesa distintas etapas del duelo; el dolor, la negación, la aceptación y la liberación traducidos a través del movimiento.&nbsp;",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
+      "source_id": "41688",
+      "title": "FREAK SHOW: HALLOWEEN CONTINÚA",
+      "start": "2026-11-15T17:00:00-06:00",
+      "end": "2026-11-15T19:00:00-06:00",
+      "venue": "FARO COSMOS",
+      "address": "CALZADA México-Tacuba,Ciudad de México, CDMX 26 , Tlaxpana, Miguel Hidalgo, C.P. 11370, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41688",
+      "category": "Música y Conciertos",
+      "description": "\"4 grupos de distintos estilos musicales relacionados al rock, desde classic rock hasta metal industrial.\"",
       "price": "FREE",
       "status": "CONFIRMED"
     },
@@ -311,6 +339,20 @@
     },
     {
       "source": "tianguis-cdmx",
+      "source_id": "41746",
+      "title": "¡Pachanga Farera: 17 años de historias compartidas! Pachanga para juventudes",
+      "start": "2026-11-15T13:00:00-06:00",
+      "end": "2026-11-15T15:00:00-06:00",
+      "venue": "FARO Indios Verdes",
+      "address": "Av. Huitzilihuitl 51 , Santa Isabel Tola, Gustavo A. Madero, C.P. 07010, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41746",
+      "category": "Música y Conciertos",
+      "description": "Domingo15 de noviembre, 2026 | FARO Indios Verdes | 13 horas. ¡Celebración, ska y gráfica consciente para festejar 17 años de creación comunitaria! Te invitamos a la Pachanga Farera para juventudes este domingo 15 de noviembre de 13:00 a 16:00 horas (comunidad de 12 años en adelante). Ven a disfrutar de ska en vivo, un conversatorio sobre gráfica y cultura popular, y estampa tu prenda favorita con el diseño conmemorativo a cargo del taller de serigrafía. ¡Trae tu playera clara y ven a bailar y h",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
       "source_id": "41772",
       "title": "Feria del Atole",
       "start": "2026-11-14T08:00:00-06:00",
@@ -395,6 +437,20 @@
     },
     {
       "source": "tianguis-cdmx",
+      "source_id": "41948",
+      "title": "Coro de Madrigalistas de Bellas Artes, Rodrigo Cadet - 48 Foro Internacional de Música Nueva",
+      "start": "2026-11-15T12:00:00-06:00",
+      "end": "2026-11-15T14:00:00-06:00",
+      "venue": "Palacio de Bellas Artes",
+      "address": "Av. Juárez S/N , Centro (Área 5), Cuauhtémoc, C.P. 06050, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41948",
+      "category": "Música y Conciertos",
+      "description": "Coro de Madrigalistas de Bellas Artes Rodrigo Cadet , director invitado Coro de Madrigalistas de Bellas Artes&nbsp; Fundado en 1938 por Luis Sandi, tuvo desde su origen la misión de llevar lo mejor del arte coral a las instituciones educativas de todos los niveles, teatros y salas de concierto, objetivo que ha cumplido en sus 85 años de actividades artísticas. Sus directores artísticos han sido Luis Sandi, Jesús Macías, Jesús Carreño, Rufino Montero, Pablo Puente, Jorge Córdoba, Antonio López-Rí",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
       "source_id": "41958",
       "title": "1816,  El año sin verano. Cuando nació la Ciencia Ficción y el Horror Moderno",
       "start": "2026-11-12T18:30:00-06:00",
@@ -432,6 +488,20 @@
       "url": "https://www.tianguis.net/cartelera/41961",
       "category": "Festivales y Ferias",
       "description": "Centro Cultural La Pirámide | sábado 14 de noviembre de 2026, 16:00 horas | Entrada Libre Morritas Creadoras es una iniciativa cultural independiente fundada por la artista visual Vane HM que busca visibilizar, conectar y fortalecer el trabajo de mujeres en las industrias creativas. A través de un ciclo de conferencias, diálogos y espacios de intercambio, reúne a creadoras de distintas disciplinas para compartir experiencias, procesos y saberes. CarteleraCdMx Red de FAROS y Centros Culturales",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
+      "source_id": "41973",
+      "title": "FARO Tláhuac. Fyahbinghi Fest 2026",
+      "start": "2026-11-15T12:00:00-06:00",
+      "end": "2026-11-15T14:00:00-06:00",
+      "venue": "FARO Tláhuac",
+      "address": "Av. La Turba 15 , Miguel Hidalgo, Tláhuac, C.P. 13200, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41973",
+      "category": "Festivales y Ferias",
+      "description": "Fyahbinghi Fest 2026 es un encuentro cultural y artístico que tiene como propósito difundir y visibilizar las expresiones culturales vinculadas con la tradición Rastafari, particularmente a través de la música, las artes, la espiritualidad y la convivencia comunitaria. La actividad contempla una exposición cultural Nyahbinghi, acompañada de diversas manifestaciones artísticas y espacios de encuentro, promoviendo el diálogo intercultural, la participación comunitaria y el reconocimiento de la div",
       "price": "FREE",
       "status": "CONFIRMED"
     },
