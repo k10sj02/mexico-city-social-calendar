@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T00:40:41.492936-06:00",
+  "updated_at": "2026-11-11T13:42:20.128753-06:00",
   "events": [
     {
       "source": "tianguis-cdmx",
@@ -68,6 +68,20 @@
       "url": "https://www.tianguis.net/cartelera/41294",
       "category": "Música y Conciertos",
       "description": "Centro Cultural José Martí | Viernes 13 noviembre 2026 | 17 horas | Entrada libre&nbsp; Concierto en explanada | 777 Fest 2026 Sinopsis: Concierto de alcance social enfocado en la prevención y orientación sobre adicciones, dirigido a la comunidad en general. A través de la música y mensajes de concientización, el evento busca brindar información, apoyo y esperanza a personas que enfrentan problemáticas de adicción y a sus familias, promoviendo el bienestar social y el acompañamiento comunitario.",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
+      "source_id": "41298",
+      "title": "Amiga date cuenta",
+      "start": "2026-11-17T19:00:00-06:00",
+      "end": "2026-11-17T23:59:00-06:00",
+      "venue": "Centro Cultural José Martí",
+      "address": "Dr. Mora. Esq. Av. Hidalgo 1 , Centro (Área 5), Cuauhtémoc, C.P. 06050, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41298",
+      "category": "Artes Escénicas",
+      "description": "Centro Cultural José Martí | Martes 17 y 24 de noviembre 2026 | 19 horas | Entrada libre&nbsp; Teatro | Amiga date cuenta Colectivo Artístico Multidisciplinaro/Autor y director: Itzamna Jesús Hernández Reyes Sinopsis: Es un mensaje para todas las niñas, adolescentes o adultas que tienen miedo de hablar sobre la violencia que vivimos, que muchas veces normalizamos. Una obra que nos va a llevar de la risa al llanto como una forma de reflexión.&nbsp; CarteleraCdMx&nbsp; Red de FAROS y Centros Cultu",
       "price": "FREE",
       "status": "CONFIRMED"
     },
@@ -353,6 +367,34 @@
     },
     {
       "source": "tianguis-cdmx",
+      "source_id": "41925",
+      "title": "Libro club Tlahtokan presenta: Cuerpos que cuentan \"Del texto escrito a la expresión viva\"",
+      "start": "2026-11-17T10:00:00-06:00",
+      "end": "2026-11-17T12:00:00-06:00",
+      "venue": "FARO Azcapotzalco",
+      "address": "Avenida Cultura Norte  , El Rosario, Azcapotzalco, C.P. 02100, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41925",
+      "category": "Eventos literarios",
+      "description": "Espacio de descubrimiento en el que se transforma el acto de leer en una experiencia viva que se expresa a través del lenguaje corporal, potenciado con la postura, mirada, las emociones y los gestos conscientes así como el manejo del espacio físico que dan vida a las historias que rodean nuestro contexto.&nbsp; El trabajo corporal permite el disfrute consciente de lo que leemos permitiendo una comunicación más auténtica con nosotros mismos y las personas en general.",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
+      "source_id": "41926",
+      "title": "Libro club Tlahtokan presenta: Arte, Cartas y Creaciones Colectivas",
+      "start": "2026-11-17T15:00:00-06:00",
+      "end": "2026-11-17T17:00:00-06:00",
+      "venue": "FARO Azcapotzalco",
+      "address": "Avenida Cultura Norte  , El Rosario, Azcapotzalco, C.P. 02100, Cuidad de México, Ciudad de México, CDMX, México",
+      "url": "https://www.tianguis.net/cartelera/41926",
+      "category": "Eventos literarios",
+      "description": "Diciembre es mucho más que luces; es el eco de las historias y el calor de los deseos compartidos. Esta sesión de libro club es una invitación a pausar el ritmo diario para encontrarnos en comunidad. Juntos elaboraremos detalles decembrinos con un sentido profundo, escucharemos relatos que despiertan la infancia y daremos vida al Buzón de los Deseos, un rincón donde las palabras se convertirán en el regalo perfecto.&nbsp; &nbsp;¡Ven a tejer lazos comunitarios y prepararte para la temporada decem",
+      "price": "FREE",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "tianguis-cdmx",
       "source_id": "41929",
       "title": "Políticas y estéticas del paisaje en el cine ibero-latinoamericano",
       "start": "2026-11-11T09:00:00-06:00",
@@ -362,20 +404,6 @@
       "url": "https://www.tianguis.net/cartelera/41929",
       "category": "Congresos y Convenciones",
       "description": "Coloquio Internacional Políticas y estéticas del paisaje en el cine ibero-latinoamericano Día 1. Lunes 9 de noviembre, 2026 Instituto de Investigaciones Dr. José María Luis Mora Auditorio Sede Plaza - Auditorio 9 horas. Inauguración 10 horas. Conferencia inaugural: Naturalezas no indiferentes en el cine latinoamericano Dr. Adriana Estrada, Universidad Autónoma del Estado de Morelos. Modera: Dra. Ana María López, Facultad de Cominicaciones y Filología, Universidad de Antoquia 11:15 horas. Perspec",
-      "price": "FREE",
-      "status": "CONFIRMED"
-    },
-    {
-      "source": "tianguis-cdmx",
-      "source_id": "41947",
-      "title": "Alberto Rosado, piano - 48 Foro Internacional de Música Nueva",
-      "start": "2026-11-10T19:00:00-06:00",
-      "end": "2026-11-10T23:59:00-06:00",
-      "venue": "Palacio de Bellas Artes",
-      "address": "Av. Juárez S/N , Centro (Área 5), Cuauhtémoc, C.P. 06050, Cuidad de México, Ciudad de México, CDMX, México",
-      "url": "https://www.tianguis.net/cartelera/41947",
-      "category": "Música y Conciertos",
-      "description": "Resonancias de ida y vuelta · La vanguardia pianística a ambos lados del Atlántico.&nbsp; Alberto Rosado , piano Pertenece a una generación de intérpretes formados en un repertorio clásico y comprometidos de una manera especial con la música contemporánea. Su vocación musical se reparte entre la interpretación y la docencia, entre la cámara y el recital solista, o entre la orquesta y la electrónica. Ha trabajado con más de un centenar de compositores de todo el mundo que han enriquecido su visió",
       "price": "FREE",
       "status": "CONFIRMED"
     },
@@ -1025,20 +1053,6 @@
     },
     {
       "source": "cdmx365",
-      "source_id": "zz-top-2026-11-11",
-      "title": "ZZ Top en Auditorio Nacional",
-      "start": "2026-11-11T21:00:00-06:00",
-      "end": "2026-11-11T23:00:00-06:00",
-      "venue": "Auditorio Nacional",
-      "address": "Polanco, Ciudad de México, CDMX, México",
-      "url": "https://www.cdmx365.com/es/evento/zz-top-2026-11-11",
-      "category": "Conciertos y Festivales",
-      "description": "El trío tejano detrás de \"La Grange\" y \"Sharp Dressed Man\" trae cuatro décadas de riffs de guitarra blues y sus icónicas barbas a la Ciudad de México. El Audito...",
-      "price": "",
-      "status": "CONFIRMED"
-    },
-    {
-      "source": "cdmx365",
       "source_id": "cyclo-en-cdmx-presenta-fisherman-listening-party-show-2026-11-11",
       "title": "Cyclo en CDMX Presenta Fisherman Listening Party + Show",
       "start": "2026-11-11T18:00:00-06:00",
@@ -1053,16 +1067,16 @@
     },
     {
       "source": "cdmx365",
-      "source_id": "opeth-2026-11-11",
-      "title": "Opeth en Arena CDMX",
+      "source_id": "zz-top-2026-11-11",
+      "title": "ZZ Top en Auditorio Nacional",
       "start": "2026-11-11T21:00:00-06:00",
       "end": "2026-11-11T23:00:00-06:00",
-      "venue": "Arena Ciudad de México",
-      "address": "Azcapotzalco, Ciudad de México, CDMX, México",
-      "url": "https://www.cdmx365.com/es/evento/opeth-2026-11-11",
+      "venue": "Auditorio Nacional",
+      "address": "Polanco, Ciudad de México, CDMX, México",
+      "url": "https://www.cdmx365.com/es/evento/zz-top-2026-11-11",
       "category": "Conciertos y Festivales",
-      "description": "La banda sueca de metal progresivo Opeth llega en solitario a la Arena CDMX para presentar su más reciente álbum, The Last Will and Testament, que ha cautivado...",
-      "price": "$502 – $2,008",
+      "description": "El trío tejano detrás de \"La Grange\" y \"Sharp Dressed Man\" trae cuatro décadas de riffs de guitarra blues y sus icónicas barbas a la Ciudad de México. El Audito...",
+      "price": "",
       "status": "CONFIRMED"
     },
     {
@@ -1077,6 +1091,20 @@
       "category": "Teatro",
       "description": "Un misterio interactivo ambientado en un cabaret burlesque donde el público juega a ser detective. Cada asistente recibe un expediente al llegar, sigue las pist...",
       "price": "$350 – $430",
+      "status": "CONFIRMED"
+    },
+    {
+      "source": "cdmx365",
+      "source_id": "opeth-2026-11-11",
+      "title": "Opeth en Arena CDMX",
+      "start": "2026-11-11T21:00:00-06:00",
+      "end": "2026-11-11T23:00:00-06:00",
+      "venue": "Arena Ciudad de México",
+      "address": "Azcapotzalco, Ciudad de México, CDMX, México",
+      "url": "https://www.cdmx365.com/es/evento/opeth-2026-11-11",
+      "category": "Conciertos y Festivales",
+      "description": "La banda sueca de metal progresivo Opeth llega en solitario a la Arena CDMX para presentar su más reciente álbum, The Last Will and Testament, que ha cautivado...",
+      "price": "$502 – $2,008",
       "status": "CONFIRMED"
     },
     {
