@@ -8,266 +8,33 @@ REFRESH-INTERVAL:PT6H
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:America/Mexico_City
 BEGIN:VEVENT
-SUMMARY:Festival Internacional de Danza Cuerpo Al Descubierto
-DTSTART;TZID=America/Mexico_City:20261124T080000
-DTEND;TZID=America/Mexico_City:20261124T100000
-DTSTAMP:20261124T100236Z
-UID:0bd328508c1db01c35ed6871@cdmx-social-calendar
-CATEGORIES:Danza
-DESCRIPTION:Danza\n\nMaribel Michel dirige este festival internacional de 
- danza contemporánea que presenta nuevos lenguajes coreográficos. El prog
- rama reúne a diez intérpretes explo...\n\nSource: cdmx365\n\nhttps://www
- .cdmx365.com/es/evento/festival-internacional-de-danza-cuerpo-al-descubier
- to-2026-11-24
-LOCATION:Radio UNAM (Adolfo Prieto)\, Del Valle\, Ciudad de México\, CDMX
- \, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cdmx365.com/es/evento/festival-internacional-de-danza-cuer
- po-al-descubierto-2026-11-24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Amor eterno por siempre: Juan Gabriel
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:ab9b51799d860769093ac72a@cdmx-social-calendar
+SUMMARY:🆓 Rituales en el río Ganges\, Manikarnika Varanasi India
+DTSTART;TZID=America/Mexico_City:20261124T120000
+DTEND;TZID=America/Mexico_City:20261124T140000
+DTSTAMP:20261124T223432Z
+UID:217f482da670ac7514917e43@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
-DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLa muestra reúne 
- artículos personales del cantautor como chaquetas\, zapatos\, fotografía
- s\, pinturas\, cuadros\, premios y antigüedades\, entre otros\, en una mu
- seografía íntima y cercana para conocer su historia artística\, los cua
- les llegan por primera vez a la Ciudad de México.\n\nSource: tianguis-cdm
- x\n\nhttps://www.tianguis.net/cartelera/41385
-LOCATION:Palacio Postal\, Calle de Tacuba 1  \, Centro (Área 1)\, Cuauht
- émoc\, C.P. 06000\, Cuidad de México\, Ciudad de México\, CDMX\, Méxic
- o
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nGalería Grutas de
+  las Rejas de Chapultepec&nbsp\; 24 horas | Del martes 29 de octubre al lu
+ nes 30 de noviembre\, 2026 Rituales en el río Ganges\, Manikarnika Varana
+ si India La exposición "Rituales en el río Ganges: Manikarnika\, Varanas
+ i\, India" reúne el trabajo del artista visual francés Serge Koutchinsky
+  (Serge Fouillet)\, fruto de una inmersión de más de diez años en Manik
+ arnika Ghat\, el sitio de cremación más sagrado del hinduismo a orillas 
+ del río Ganges. A través de una mirada respetuosa y una\n\nSource: tiang
+ uis-cdmx\n\nhttps://www.tianguis.net/cartelera/41863
+LOCATION:Grutas de las rejas del Bosque de Chapultepec.\, Paseo de la Refo
+ rma  \, Bosque de Chapultepec I Sección\, Miguel Hidalgo\, C.P. 11580\, C
+ uidad de México\, Ciudad de México\, CDMX\, México
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/41385
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Clases de bateria
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:0b427fc9c814de505d6b0d78@cdmx-social-calendar
-CATEGORIES:Cursos y Talleres
-DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de batería y p
- ercusión para niños\, jovenes y adultos&nbsp\;\n\nSource: tianguis-cdmx
- \n\nhttps://www.tianguis.net/cartelera/38249
-LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
- . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/38249
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Crochet básico
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:6d3fd779da8ca7305007cf61@cdmx-social-calendar
-CATEGORIES:Cursos y Talleres
-DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nEn este taller las y l
- os participantes aprenderán fundamentos básicos del tejido y recibirán 
- acompañamiento para la creación de proyectos propios.\n\nSource: tiangui
- s-cdmx\n\nhttps://www.tianguis.net/cartelera/35396
-LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
- . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/35396
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Dibujo al aire libre
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:513c79482a19b63e94ec227b@cdmx-social-calendar
-CATEGORIES:Community event
-DESCRIPTION:Community event\n\nAdmission: FREE\n\nEl taller está dedicado
-  a aprender técnicas básicas del dibujo y la acuarela teniendo como refe
- rencia el entorno del Parque de la Juventud\, las y los participantes apre
- nderán a capturar las texturas\, formas y colores en papel.\n\nSource: ti
- anguis-cdmx\n\nhttps://www.tianguis.net/cartelera/35315
-LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
- . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/35315
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 El ferrocarril de Monte Alto
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:b51353ede59b3a4d4836d981@cdmx-social-calendar
-CATEGORIES:Museos y Exposiciones
-DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMartes a domingo d
- e 10 a 17 horas Museos de los Ferrocarrileros En el antiguo municipio de M
- onte Bajo hoy Nicolas Romero\, durante la Revolución el ferrocarril se co
- nvirtió en el medio de transporte por excelencia\; pero en 1939 cuando el
-  gobierno ya empezaba a consolidar un sistema de carreteras\, agentes de l
- a Ford convencieron a los socios del ferrocarril de Monte Alto que ése me
- dio de transporte ya era obsoleto.Y en abril 10 de 1940 el ferrocarril lle
- gó a su fin. Entrada libre CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttp
- s://www.tianguis.net/cartelera/32906
-LOCATION:Museo de los Ferrocarrileros\, Alberto Herrera 8F \, Aragón la V
- illa\, Gustavo A. Madero\, C.P. 07000\, Cuidad de México\, Ciudad de Méx
- ico\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/32906
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 El último viaje de Flores Magón
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:b4c5cb91dd4ad2937423f644@cdmx-social-calendar
-CATEGORIES:Community event
-DESCRIPTION:Community event\n\nAdmission: FREE\n\nMartes a domingo de 10 a
-  17 horas Museo de los Ferrocarrileros Es poco conocido el destino que tuv
- o este héroe anarco-sindicalista y socialista después de su muerte en la
-  prisión de Lavenworth\, USA. Un sindicato de ferrocarrileros mexicanos g
- estiono la entrega de sus restos para trasladarlos hasta la ciudad de Méx
- ico\, todo ello en ferrocarril. Entrada libre CarteleraCdMx\n\nSource: tia
- nguis-cdmx\n\nhttps://www.tianguis.net/cartelera/2272
-LOCATION:Museo de los Ferrocarrileros\, Alberto Herrera 8F \, Aragón la V
- illa\, Gustavo A. Madero\, C.P. 07000\, Cuidad de México\, Ciudad de Méx
- ico\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/2272
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foro Económico de Mujeres Negras
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:1bd18d0b14b84c1252071863@cdmx-social-calendar
-CATEGORIES:Conferencias
-DESCRIPTION:Conferencias\n\nUn foro regional que conecta lideresas de muje
- res negras\, investigadoras\, organizaciones de la sociedad civil\, instit
- uciones públicas\, organismos multilaterales...\n\nSource: cdmx365\n\nhtt
- ps://www.cdmx365.com/es/evento/foro-economico-de-mujeres-negras-2026-11-24
-LOCATION:Auditorio Roma 1\, Juárez\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.cdmx365.com/es/evento/foro-economico-de-mujeres-negras-202
- 6-11-24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Libro club Tlahtokan presenta Cuerpos que Cuentan: Del texto 
- escrito a la expresión viva.
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:348da0d10209368a88da9149@cdmx-social-calendar
-CATEGORIES:Eventos literarios
-DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nEspacio de descubrimi
- ento en el que se transforma el acto de leer en una experiencia viva que s
- e expresa a través del lenguaje corporal\, potenciado con la postura\, mi
- rada\, las emociones y los gestos conscientes así como el manejo del espa
- cio físico que dan vida a las historias que rodean nuestro contexto.&nbsp
- \; El trabajo corporal permite el disfrute consciente de lo que leemos per
- mitiendo una comunicación más auténtica con nosotros mismos y las perso
- nas en general.\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/carte
- lera/41933
-LOCATION:FARO Azcapotzalco\, Avenida Cultura Norte  \, El Rosario\, Azcapo
- tzalco\, C.P. 02100\, Cuidad de México\, Ciudad de México\, CDMX\, Méxi
- co
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/41933
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Tenis de Mesa
-DTSTART;TZID=America/Mexico_City:20261124T100000
-DTEND;TZID=America/Mexico_City:20261124T120000
-DTSTAMP:20261124T100236Z
-UID:c7abdfbdbdb304657757d5b7@cdmx-social-calendar
-CATEGORIES:Cursos y Talleres
-DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nPráctica deportiva y 
- recreativa del Tenis de Mesa\, con acondicionamiento físico y técnica\, 
- ideal para cualquier edad a partir de los 10 años. Excelente ejercicio ta
- nto mental como físico incluso para personas mayores.\n\nSource: tianguis
- -cdmx\n\nhttps://www.tianguis.net/cartelera/35394
-LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
- . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/35394
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Dimensión doble AA
-DTSTART;TZID=America/Mexico_City:20261124T110000
-DTEND;TZID=America/Mexico_City:20261124T130000
-DTSTAMP:20261124T100236Z
-UID:6de8a2d7370ee5342f5f5ccc@cdmx-social-calendar
-CATEGORIES:Congresos y Convenciones
-DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nEn la actualida
- d existe un grave problema con respecto a la enfermedad del alcoholismo y 
- trataremos de ofrecer una alternativa de solución para la comunidad radio
- escucha de este programa. Cartelera CdMx Red de Faros Faro de Oriente\n\nS
- ource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/41667
-LOCATION:Radio Faro de Oriente\, Calz. Ignacio Zaragoza s/n \, Fuentes de 
- Zaragoza\, Iztapalapa\, C.P. 09150\, Cuidad de México\, Ciudad de México
- \, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/41667
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Salón de Cabildos: recorrido por la historia política y soc
- ial de la Ciudad de México
-DTSTART;TZID=America/Mexico_City:20261124T110000
-DTEND;TZID=America/Mexico_City:20261124T130000
-DTSTAMP:20261124T100236Z
-UID:764050cc74814218706d0930@cdmx-social-calendar
-CATEGORIES:Museos y Exposiciones
-DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMartes a domingo d
- e 11 a 17 horas. Salón de Cabildos Presenta un recorrido por la historia 
- política y social de la Ciudad de México\, así como por la evolución d
- el edificio virreinal que la alberga. A través de sus salas se abordan lo
- s procesos históricos que han marcado la conformación de la ciudad desde
-  el siglo XVI. El recorrido incluye el Salón de Cabildos\, que conserva s
- u sillería original y un plafón realizado en 1893 por Félix Parra\, una
-  sala dedicada a los retratos de los virreyes de la N\n\nSource: tianguis-
- cdmx\n\nhttps://www.tianguis.net/cartelera/35147
-LOCATION:Salón de Cabildos\, Plaza de la Constitución 2 \, Centro (Área
-  1)\, Cuauhtémoc\, C.P. 06000\, Cuidad de México\, Ciudad de México\, C
- DMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/35147
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🆓 Taller para adultos: Historias vivas
-DTSTART;TZID=America/Mexico_City:20261124T110000
-DTEND;TZID=America/Mexico_City:20261124T130000
-DTSTAMP:20261124T100236Z
-UID:dc716c3a60056cf6d4773c6b@cdmx-social-calendar
-CATEGORIES:Cursos y Talleres
-DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nConsejo del Pueblo de 
- San Mateo Tlaltenango | Cuajimalpa de Morelos Martes y viernes de septiemb
- re a diciembre\, 2026 | 11 a 13 horas Taller para adultos (20 años en ade
- lante): Historias vivas: Un espacio de juego\, imaginación y creación co
- lectiva. CarteleraCdMx CarteleraComunitaria\n\nSource: tianguis-cdmx\n\nht
- tps://www.tianguis.net/cartelera/40494
-LOCATION:Centro Cívico Ejidal San Mateo Tlaltenango\, Mina 8 \, San Mateo
-  Tlaltenango\, Cuajimalpa de Morelos\, C.P. 05600\, Cuidad de México\, Ci
- udad de México\, CDMX\, México
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-URL:https://www.tianguis.net/cartelera/40494
+URL:https://www.tianguis.net/cartelera/41863
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🆓 ¿Y SI HUBIERA SIDO YO?
 DTSTART;TZID=America/Mexico_City:20261124T120000
 DTEND;TZID=America/Mexico_City:20261124T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c11745aa04f8e90214b4ef9c@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\n"Un testimonio que 
@@ -286,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Explora-Tec. El arte del movimiento
 DTSTART;TZID=America/Mexico_City:20261124T130000
 DTEND;TZID=America/Mexico_City:20261124T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2ca3781166814234f783bab7@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nA partir del uso y las
@@ -306,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La Jungla de Asfalto
 DTSTART;TZID=America/Mexico_City:20261124T140000
 DTEND;TZID=America/Mexico_City:20261124T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d619f7e44220b09aa5b61996@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nSeñalar brevem
@@ -325,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller: Expresión escénica y canto
 DTSTART;TZID=America/Mexico_City:20261124T140000
 DTEND;TZID=America/Mexico_City:20261124T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:711596813cff68d916074316@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nPrimer Callejón Temix
@@ -345,7 +112,7 @@ SUMMARY:🆓 Taller: Jugando a crear historias. Niñas y niños a partir d
  e 6 años
 DTSTART;TZID=America/Mexico_City:20261124T140000
 DTEND;TZID=America/Mexico_City:20261124T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:33e623f8446b69d5a7e49f03@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMercado Jardín 23 de 
@@ -366,7 +133,7 @@ SUMMARY:🆓 Libro club Tlahtokan presenta: Arte\, Cartas y Creaciones col
  ectivas.
 DTSTART;TZID=America/Mexico_City:20261124T150000
 DTEND;TZID=America/Mexico_City:20261124T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:32c54a63571d958a930139fe@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nDiciembre es mucho m
@@ -389,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller para niñas y niños: Soma: Un territorio corporal
 DTSTART;TZID=America/Mexico_City:20261124T150000
 DTEND;TZID=America/Mexico_City:20261124T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c584942c7da5c6187c068116@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUtopía Cen Tlalli | L
@@ -409,7 +176,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller para niños y niñas: Historias vivas
 DTSTART;TZID=America/Mexico_City:20261124T150000
 DTEND;TZID=America/Mexico_City:20261124T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:66fa847edaa48652645a3fec@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nConsejo del Pueblo de 
@@ -429,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Club de lectura y bebida
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c8697983b6d0bd557076c4ce@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUn espacio para compar
@@ -446,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 El arte del jaque mate
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b7e38282f8d06da52332f241@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMás que un juego\, un
@@ -466,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Gastando la chancla por la comunidad
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b4c99d9d06dc3343b62b4b2b@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nLa asignatura d
@@ -487,7 +254,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Polirritmia y Exploración Sonora Corporal
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bea651fcd272e2014a3e593f@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\n“Laboratorio de leng
@@ -505,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller de baile “Corazón chintololo”
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9352ca19ea6d072dd7b02376@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de baile “Cor
@@ -521,7 +288,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller de creación de cómics
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f56ac70ed9e6b7ff079a816e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de creación de
@@ -537,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller: Jugando a crear historias. A partir de los 16 años
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:4586bc94bedd1f55821bfca0@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nParque del Barrio | Sa
@@ -557,7 +324,7 @@ SUMMARY:🆓 Taller: Teatro para todos (Niñas y niños a partir de 6 año
  s)
 DTSTART;TZID=America/Mexico_City:20261124T160000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d0f9b7444d0f4b4ed69f0eb1@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUtopía Centli Topilej
@@ -575,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Agrofaroradio
 DTSTART;TZID=America/Mexico_City:20261124T170000
 DTEND;TZID=America/Mexico_City:20261124T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dd4ee0466086b9401e23c3ba@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nEl enfoque prin
@@ -595,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:MIRAR LIBRITOS de filosofía
 DTSTART;TZID=America/Mexico_City:20261124T170000
 DTEND;TZID=America/Mexico_City:20261124T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0fbf4c89b74b1d518671d0de@cdmx-social-calendar
 CATEGORIES:Libros
 DESCRIPTION:Libros\n\nEvent details and admission information are availabl
@@ -608,10 +375,33 @@ TRANSP:TRANSPARENT
 URL:https://www.cultura.unam.mx/evento/mirar-libritos-de-filosofia
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Presentación de libro Fresas Azules Pilar López
+DTSTART;TZID=America/Mexico_City:20261124T170000
+DTEND;TZID=America/Mexico_City:20261124T190000
+DTSTAMP:20261124T223432Z
+UID:954211ceb10d725263f0c028@cdmx-social-calendar
+CATEGORIES:Eventos literarios
+DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nCasa Refugio de la Me
+ moria | Martes 24 de noviembre\, 2026 | 17 horas Presentación de libro Fr
+ esas Azules Pilar López José Luis Soto / Pilar López Cárdenas La prese
+ ntación del libro Fresas Azules de la escritora española Pilar López C
+ árdenas aborda una novela conmovedora que explora las heridas invisibles
+ \, el anhelo de ser amado y el desafío de crecer bajo la observación de 
+ otros. La obra narra cómo los complejos se originan en la infancia\, enfr
+ entando estereotipos de belleza y la profunda necesi\n\nSource: tianguis-c
+ dmx\n\nhttps://www.tianguis.net/cartelera/42470
+LOCATION:Casa Refugio de la Memoria\, Citlaltépetl 25 \, Hipódromo Conde
+ sa\, Cuauhtémoc\, C.P. 06170\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42470
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Taller de foto y video para redes sociales
 DTSTART;TZID=America/Mexico_City:20261124T170000
 DTEND;TZID=America/Mexico_City:20261124T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9990ff707e10602771fbbf7a@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\n• Aprenderás a toma
@@ -629,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller para jovenes y adultos. Soma: Un territorio corporal
 DTSTART;TZID=America/Mexico_City:20261124T170000
 DTEND;TZID=America/Mexico_City:20261124T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1555d72949f3f259533c3a2e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUtopía Cen Tlalli | L
@@ -649,7 +439,7 @@ BEGIN:VEVENT
 SUMMARY:Xaltilolli: redescubriendo las memorias tlatelolcas
 DTSTART;TZID=America/Mexico_City:20261124T170000
 DTEND;TZID=America/Mexico_City:20261124T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:704cd25cca3bf2176c57fc1a@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -666,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:Sola
 DTSTART;TZID=America/Mexico_City:20261124T180000
 DTEND;TZID=America/Mexico_City:20261124T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d1609049cd37a0edd488e684@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nUna comedia romántica ambientada en una lavandería
@@ -683,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Souza Forever: homenaje a Felipe Souza
 DTSTART;TZID=America/Mexico_City:20261124T180000
 DTEND;TZID=America/Mexico_City:20261124T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3ea12b32046e64722aebc2b9@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nUn concierto homenaje luctuoso para celebra
@@ -702,7 +492,7 @@ BEGIN:VEVENT
 SUMMARY:Conversando con el Diablo
 DTSTART;TZID=America/Mexico_City:20261124T184500
 DTEND;TZID=America/Mexico_City:20261124T204500
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:971556f9e9d33f8e23e21e5c@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nErnesto LaGuardia regresa al teatro en esta obra de 
@@ -719,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Amiga date cuenta
 DTSTART;TZID=America/Mexico_City:20261124T190000
 DTEND;TZID=America/Mexico_City:20261124T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:84da81317fb802dbe6738e49@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -742,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Bodas de Sangre
 DTSTART;TZID=America/Mexico_City:20261124T190000
 DTEND;TZID=America/Mexico_City:20261124T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:909d7b1c80caf82ef9317216@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $300\n\nLa tragedia de Federico García L
@@ -759,7 +549,7 @@ BEGIN:VEVENT
 SUMMARY:Concierto aniversario Esperanza Azteca 2026
 DTSTART;TZID=America/Mexico_City:20261124T190000
 DTEND;TZID=America/Mexico_City:20261124T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c2835db98d9cc9e9191562f6@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nConcierto aniversario que celebra o
@@ -775,10 +565,30 @@ URL:https://www.cdmx365.com/es/evento/concierto-aniversario-esperanza-azte
  ca-2026-11-24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Inauguración: Es la sombra del agua
+DTSTART;TZID=America/Mexico_City:20261124T190000
+DTEND;TZID=America/Mexico_City:20261124T235900
+DTSTAMP:20261124T223432Z
+UID:a0f6f794e616c15e957aeb65@cdmx-social-calendar
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nCasa Jaime Sabines
+  | Miércoles 26 de agosto\, 2026 | 19 horas Inauguración: Es la sombra d
+ el agua. Exposición en homenaje a Jaime Sabines. **Fechas: agosto - dicie
+ mbre 2026. En colaboración con el Centro Cultural San Ángel. Entrada lib
+ re | Público General. Noche de Museos CarteleraCdMx\n\nSource: tianguis-c
+ dmx\n\nhttps://www.tianguis.net/cartelera/39968
+LOCATION:Casa Jaime Sabines\, Av. Revolución 1747 \, San Ángel\, Álvaro
+  Obregón\, C.P. 01000\, Cuidad de México\, Ciudad de México\, CDMX\, M
+ éxico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/39968
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mis alegrías
 DTSTART;TZID=America/Mexico_City:20261124T190000
 DTEND;TZID=America/Mexico_City:20261124T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:4823c76b1a9724517434fdf7@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nDaniel Rosado presenta una pieza de danza contemporá
@@ -795,7 +605,7 @@ BEGIN:VEVENT
 SUMMARY:Vivaldissimo
 DTSTART;TZID=America/Mexico_City:20261124T190000
 DTEND;TZID=America/Mexico_City:20261124T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dba4ae0ba6ec55bd3f97e733@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $400 – $500\n\nVivaldissimo es
@@ -813,7 +623,7 @@ BEGIN:VEVENT
 SUMMARY:Norio Sato y Maya Kimura: concierto de guitarra y koto
 DTSTART;TZID=America/Mexico_City:20261124T193000
 DTEND;TZID=America/Mexico_City:20261124T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:29280b63f2d893df5a27ce4b@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLos músicos japoneses Norio Sato y Maya Ki
@@ -832,7 +642,7 @@ BEGIN:VEVENT
 SUMMARY:Boynextdoor Knock On Vol.2 Tour en Arena CDMX
 DTSTART;TZID=America/Mexico_City:20261124T200000
 DTEND;TZID=America/Mexico_City:20261124T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:61da9d9b0f9e85a8b52a4895@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nAdmission: $816 – $6\,637\n\nBoyn
@@ -848,10 +658,33 @@ URL:https://www.cdmx365.com/es/evento/boynextdoor-knock-on-vol2-tour-2026-
  11-24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Cabaret:  Ricardo III Conejo
+DTSTART;TZID=America/Mexico_City:20261124T200000
+DTEND;TZID=America/Mexico_City:20261124T235900
+DTSTAMP:20261124T223432Z
+UID:58e21889275425ef9d06f4f1@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nForo A Poco No&nbsp\; |
+  24\, 25 de noviembre y 15\, 16 de diciembre\, 2026 |&nbsp\; Martes y juev
+ es\, 20 horas Cabaret: Ricardo III Conejo Autoría: Pedro Kóminik y Jimen
+ a Montes de Oca. Dir. Pedro Kóminik. Cía. La Mostra presenta. Hace mucho
+ s\, muchísimos años\, en el año Conejo - cuando Méjico todavía no se 
+ llamaba así porque aún no llegaban los conquistadores - vivía un guerre
+ ro prehispánico feo\, fuerte y formal\, llamado Ricardo III. Su mayor sue
+ ño era convertirse en tlatoani\, (el mero mero de todo el\n\nSource: tian
+ guis-cdmx\n\nhttps://www.tianguis.net/cartelera/42468
+LOCATION:Foro A Poco No\, Teatro Cabaret\, C. Republica de Cuba 49 \, Cent
+ ro (Área 1)\, Cuauhtémoc\, C.P. 06000\, Cuidad de México\, Ciudad de M
+ éxico\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42468
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Stand Up Comedy - open mic
 DTSTART;TZID=America/Mexico_City:20261124T200000
 DTEND;TZID=America/Mexico_City:20261124T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1ef9bd2d1773a705a9ba9d1b@cdmx-social-calendar
 CATEGORIES:Comedia
 DESCRIPTION:Comedia\n\nUn open mic de comedia en inglés en el Street Art 
@@ -869,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Festival Internacional de Danza Cuerpo Al Descubierto 2026
 DTSTART;TZID=America/Mexico_City:20261124T200000
 DTEND;TZID=America/Mexico_City:20261124T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:23367222dc3f7516d4b3e6d7@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nFestival Internacional 
@@ -890,7 +723,7 @@ BEGIN:VEVENT
 SUMMARY:Love of Lesbian en Teatro Metropólitan
 DTSTART;TZID=America/Mexico_City:20261124T200000
 DTEND;TZID=America/Mexico_City:20261124T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:00ce125eb006d901ddab5681@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nTras agotar el Auditorio Nacional\,
@@ -907,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Vampiras el Musical
 DTSTART;TZID=America/Mexico_City:20261124T201000
 DTEND;TZID=America/Mexico_City:20261124T221000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:412cd271a2eb240433fab0e0@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $199\n\nTres viudas llegan al funeral del
@@ -923,7 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Josel Bartó en Vivo: Puente
 DTSTART;TZID=America/Mexico_City:20261124T203000
 DTEND;TZID=America/Mexico_City:20261124T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dc86c7f45f668ae5b219e2e6@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $500\n\nEl cantautor argentino J
@@ -938,21 +771,77 @@ URL:https://www.cdmx365.com/es/evento/josel-barto-en-vivo-puente-2026-11-2
  4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Activación física y zumba
+DTSTART;TZID=America/Mexico_City:20261125T080000
+DTEND;TZID=America/Mexico_City:20261125T100000
+DTSTAMP:20261124T223432Z
+UID:54ca4017f1dd0941e7a342c7@cdmx-social-calendar
+CATEGORIES:Community event
+DESCRIPTION:Community event\n\nAdmission: FREE\n\nEn esta clase activarás
+  tu cuerpo al ritmo de la música\, además de complementar con cardio y z
+ umba\, no necesitas experiencia previa sólo tu energía.\n\nSource: tiang
+ uis-cdmx\n\nhttps://www.tianguis.net/cartelera/35395
+LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
+ . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/35395
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 III Foro Internacional de paz - México 2026
+DTSTART;TZID=America/Mexico_City:20261125T093000
+DTEND;TZID=America/Mexico_City:20261125T113000
+DTSTAMP:20261124T223432Z
+UID:b898de79c48f3e8f72c64d33@cdmx-social-calendar
+CATEGORIES:Congresos y Convenciones
+DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nCasa Refugio de
+  la Memoria | Miércoles 25 de noviembre\, 2026 | 9:30 horas III Foro Inte
+ rnacional de paz - México 2026 Exvotos contra el monopolio del dolor: art
+ e\, memoria y búsqueda por la paz. Actividad Gratuita | Público General.
+  CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartel
+ era/42527
+LOCATION:Casa Refugio de la Memoria\, Citlaltépetl 25 \, Hipódromo Conde
+ sa\, Cuauhtémoc\, C.P. 06170\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42527
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Clases de música para principiantes
+DTSTART;TZID=America/Mexico_City:20261125T100000
+DTEND;TZID=America/Mexico_City:20261125T120000
+DTSTAMP:20261124T223432Z
+UID:6a6176bf81d75b71d0d92879@cdmx-social-calendar
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nClases de música tona
+ l enfocada en la aplicación a instrumento (guitarra\, piano\, melódica y
+  flauta dulce) a través de clases serializadas y personalizadas. El temar
+ io incluye la formación en teoría musical\, así como de ejercicios y t
+ écnica para cada instrumento.\n\nSource: tianguis-cdmx\n\nhttps://www.tia
+ nguis.net/cartelera/35393
+LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
+ . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/35393
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Conoce el Museo Yancuic
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c51db9db6f9a1c212b88a35e@cdmx-social-calendar
-CATEGORIES:Community event
-DESCRIPTION:Community event\n\nAdmission: FREE\n\nMiércoles a domingo de 
- 10 a 17 horas. Último acceso a las 16 horas.&nbsp\; Museo Yancuic Sala 1.
-  Diálogo y Acción Esta sala presenta una representación museográfica d
- e la cuenca del Valle de México y del antiguo Lago de Texcoco. A través 
- de los momentos de Diálogo y Acción\, se reflexiona sobre la relación e
- ntre los hábitos de consumo\, la crisis climática y la transformación d
- el territorio. La experiencia invita a comprender cómo nuestras decisione
- s influyen en el equilibrio ambiental y a asumir a\n\nSource: tianguis-cdm
- x\n\nhttps://www.tianguis.net/cartelera/35108
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMiércoles a domin
+ go de 10 a 17 horas. Último acceso a las 16 horas.&nbsp\; Museo Yancuic S
+ ala 1. Diálogo y Acción Esta sala presenta una representación museográ
+ fica de la cuenca del Valle de México y del antiguo Lago de Texcoco. A tr
+ avés de los momentos de Diálogo y Acción\, se reflexiona sobre la relac
+ ión entre los hábitos de consumo\, la crisis climática y la transformac
+ ión del territorio. La experiencia invita a comprender cómo nuestras dec
+ isiones influyen en el equilibrio ambiental y a asumir a\n\nSource: tiangu
+ is-cdmx\n\nhttps://www.tianguis.net/cartelera/35108
 LOCATION:Museo Yancuic\, Acceso al Paradero  \, Los Ángeles\, Iztapalapa
  \, C.P. 09830\, Cuidad de México\, Ciudad de México\, CDMX\, México
 STATUS:CONFIRMED
@@ -963,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Hacer Lugar. Studio Lenca
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:39eb1f3438e5983bc6c02f42@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nStudio Lenca es el
@@ -986,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Historias de mi barrio
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f34a3380d2d9eb25d27f4667@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de relato sobre
@@ -1004,7 +893,7 @@ SUMMARY:🆓 Lo que recuerda un Banco: 35 años del Archivo Histórico de
  Banamex
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:745735eb9738129b241821a4@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\n"Una muestra que r
@@ -1024,10 +913,29 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/40945
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Poética de la geometría
+DTSTART;TZID=America/Mexico_City:20261125T100000
+DTEND;TZID=America/Mexico_City:20261125T120000
+DTSTAMP:20261124T223432Z
+UID:a840316a358de83bbd8474e9@cdmx-social-calendar
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\n&nbsp\;Esculturas 
+ de Juan Álvarez del Castillo”\, integrada por 73 piezas que exploran el
+  ritmo\, el equilibrio y la ilusión de movimiento a través de formas geo
+ métricas\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/4
+ 1998
+LOCATION:Museo vivo del Muralismo\, República de Argentina 28 \, Centro (
+ Área 3)\, Cuauhtémoc\, C.P. 06020\, Cuidad de México\, Ciudad de Méxic
+ o\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/41998
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Recuperación de le memoria histórica.
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:83ecf0c12d1bb44ff040efa0@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de relato sobre
@@ -1044,7 +952,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Una Obsesión por las Flores
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:165917b56cf6e18568ad54b1@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLa exposición ima
@@ -1067,7 +975,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Visita el Museo Azcapotzalco
 DTSTART;TZID=America/Mexico_City:20261125T100000
 DTEND;TZID=America/Mexico_City:20261125T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b765a86832276748d61b6245@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLugar: Museo Azcap
@@ -1087,7 +995,7 @@ SUMMARY:🆓 Habitar-Nos Cuerpo\, plantas y emociones: prácticas para el
  autocuidado
 DTSTART;TZID=America/Mexico_City:20261125T110000
 DTEND;TZID=America/Mexico_City:20261125T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b0c0afdfdb567eff6de7cf3b@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUTOPÍA Mixiuhca | Sal
@@ -1108,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller de creación de cómics.
 DTSTART;TZID=America/Mexico_City:20261125T113000
 DTEND;TZID=America/Mexico_City:20261125T133000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:76b97a1c5e5b6d219692637d@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de creación de
@@ -1122,10 +1030,31 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/40821
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Circuito Nacional de Artes Escénicas en Espacios Independien
+ tes: El Don del Quijote
+DTSTART;TZID=America/Mexico_City:20261125T120000
+DTEND;TZID=America/Mexico_City:20261125T140000
+DTSTAMP:20261124T223432Z
+UID:257949ceb47bda42fc5752a4@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nTeatro del Pueblo | Mi
+ ércoles 25 de noviembre\, 2026 | 12 horas Circuito Nacional de Artes Esc
+ énicas en Espacios Independientes: El Don del Quijote. Rosa Lagarraña de
+  la Garza y Horacio Merchan Nancy. Actividad gratuita | Público General. 
+ CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartele
+ ra/42473
+LOCATION:Teatro del Pueblo\, República de Venezuela 72 s/n\, Centro (Áre
+ a 2)\, Cuauhtémoc\, C.P. 06010\, Cuidad de México\, Ciudad de México\, 
+ CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42473
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Ludicalles
 DTSTART;TZID=America/Mexico_City:20261125T120000
 DTEND;TZID=America/Mexico_City:20261125T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7e94aa893473e963f7da57ac@cdmx-social-calendar
 CATEGORIES:Infantiles
 DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nExplanada al exterior del Dep
@@ -1144,10 +1073,30 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41902
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Ludicalles
+DTSTART;TZID=America/Mexico_City:20261125T120000
+DTEND;TZID=America/Mexico_City:20261125T140000
+DTSTAMP:20261124T223432Z
+UID:11b3b0c02504a7b5138059b8@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nSan Luis Potosí y Querétaro
+  | Gustavo A. Madero Todos los miércoles y sábados de noviembre\, 2026 |
+  12 horas ¡Ven a tu Ludicalle!&nbsp\; Porque La Paz también se construye
+  jugando en el el barrio Este es un espacio para jugar\, reír\, aprender 
+ y divertirse CarteleraCdMx CarteleraComunitaria\n\nSource: tianguis-cdmx\n
+ \nhttps://www.tianguis.net/cartelera/42542
+LOCATION:Ludicalle San Luis\, San Luis Potosí Mz. 84\, Lt.1161 \, Chalma 
+ de Guadalupe\, Gustavo A. Madero\, C.P. 07210\, Cuidad de México\, Ciudad
+  de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42542
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Muro anonimato y visibilidad por el 25N
 DTSTART;TZID=America/Mexico_City:20261125T120000
 DTEND;TZID=America/Mexico_City:20261125T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:71f2859a091190704637cb7a@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMiércoles 25 de n
@@ -1170,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Diálogos Pensar futuros
 DTSTART;TZID=America/Mexico_City:20261125T130000
 DTEND;TZID=America/Mexico_City:20261125T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0617c7d31c4e41242882bbc1@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEn el marco de la 
@@ -1193,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Juventudes Diversas
 DTSTART;TZID=America/Mexico_City:20261125T130000
 DTEND;TZID=America/Mexico_City:20261125T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:531ef38c550c85b21061335b@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nBusca ser un es
@@ -1212,7 +1161,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Florecer sin miedo
 DTSTART;TZID=America/Mexico_City:20261125T140000
 DTEND;TZID=America/Mexico_City:20261125T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7dd22a540d1214c320e900fa@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nDia Internacional 
@@ -1231,7 +1180,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller: Expresión escénica y canto
 DTSTART;TZID=America/Mexico_City:20261125T140000
 DTEND;TZID=America/Mexico_City:20261125T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a3701d0c9620d19252e404df@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nClub de Box Barrio Nor
@@ -1250,7 +1199,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Clínica Círculo de bordado
 DTSTART;TZID=America/Mexico_City:20261125T150000
 DTEND;TZID=America/Mexico_City:20261125T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9e610e0278d247a1551c6e69@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMiércoles11\, 18 y 25
@@ -1273,7 +1222,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Noche de Museos
 DTSTART;TZID=America/Mexico_City:20261125T150000
 DTEND;TZID=America/Mexico_City:20261125T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:00fb0e9054a9536a903701d0@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMuestra gráfica y de r
@@ -1294,7 +1243,7 @@ SUMMARY:🆓 Taller: Procesos Constructivos. Niñas y niños a partir de 6
   años
 DTSTART;TZID=America/Mexico_City:20261125T150000
 DTEND;TZID=America/Mexico_City:20261125T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9295830958d5e19fad5e897e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nKiosco Tacuba | Miguel
@@ -1314,7 +1263,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Clases de danza recreativa
 DTSTART;TZID=America/Mexico_City:20261125T160000
 DTEND;TZID=America/Mexico_City:20261125T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d2a6ed03eedc8634b385918e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nVen a divertirte y act
@@ -1330,7 +1279,7 @@ BEGIN:VEVENT
 SUMMARY:Concierto de Premiación Nimbeë 2026
 DTSTART;TZID=America/Mexico_City:20261125T160000
 DTEND;TZID=America/Mexico_City:20261125T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:97741a2a1032f8d487fd9189@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nRadio Educación celebra a los ganadores de
@@ -1349,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Laboratorio presencial Arte e Historia LGBTI+ de México
 DTSTART;TZID=America/Mexico_City:20261125T160000
 DTEND;TZID=America/Mexico_City:20261125T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dd40de57e6e13ce8a75ace0a@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMiércoles 11\, 18\, 2
@@ -1372,7 +1321,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Proyectos Club
 DTSTART;TZID=America/Mexico_City:20261125T160000
 DTEND;TZID=America/Mexico_City:20261125T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2973c0bdae2a876de98eeb52@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nEspacio diseñado para
@@ -1391,7 +1340,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Noche de Museos en la Academia de arte de Florencia
 DTSTART;TZID=America/Mexico_City:20261125T163000
 DTEND;TZID=America/Mexico_City:20261125T183000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7321070a9d31a539db539d88@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMiércoles 25 de n
@@ -1413,7 +1362,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 25 N
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9aa3776f3431746c4666be60@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nMerkadita gráfica c
@@ -1435,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Axólotl - Teatro de sombras
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2f4fddef9e0198f41e1b5b2d@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural La Pir
@@ -1458,7 +1407,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Ecosa Simojovel
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3af4387602f628e803a2f74f@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nExpo-venta de ámb
@@ -1476,10 +1425,32 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42283
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Inauguración de la Muestra: 40 Aniversario del Museo Naciona
+ l de la Revolución.
+DTSTART;TZID=America/Mexico_City:20261125T170000
+DTEND;TZID=America/Mexico_City:20261125T190000
+DTSTAMP:20261124T223432Z
+UID:80524806f1c1f7888072c6cd@cdmx-social-calendar
+CATEGORIES:Congresos y Convenciones
+DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nMiércoles&nbsp
+ \; 25 de noviembre\, 2026 | 17 horas Inauguración de la Muestra: 40 Anive
+ rsario del Museo Nacional de la Revolución. Presentación de Puesta en Es
+ cena de Viva Voz. Relatos Revolucionarios. Historias\, vivencias y anécdo
+ tas extraídas del Archivo de la Palabra (DEH-INAH). Entrada libre | Aforo
+ : 100 personas CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tiang
+ uis.net/cartelera/42522
+LOCATION:Museo Nacional de la Revolución\, Plaza\, Av. de la República  
+ \, Tabacalera\, Cuauhtémoc\, C.P. 06030\, Cuidad de México\, Ciudad de M
+ éxico\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42522
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Marco Polo Concierto
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0c1e1951191ef63814d9738d@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nConcierto Rock-ska
@@ -1495,10 +1466,31 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42359
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 No Mans`s Land
+DTSTART;TZID=America/Mexico_City:20261125T170000
+DTEND;TZID=America/Mexico_City:20261125T190000
+DTSTAMP:20261124T223432Z
+UID:3233cde8b506dc50f148b153@cdmx-social-calendar
+CATEGORIES:Música y Conciertos
+DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nMiércoles 25 de no
+ viembre\, 2026&nbsp\; Museo Yancuic | 17 horas No Mans`s Land. Dasste lleg
+ a al Museo Yancuic con una propuesta que fusiona el Rock Clásico\, el son
+ ido análogo y el Synth-pop de los años 80. Un concierto con energía\, n
+ ostalgia y una identidad sonora propia\, ideal para disfrutar de una exper
+ iencia musical diferente. Actividad Gratuita | Público General mayor a 6 
+ años. Noche de Museos CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://w
+ ww.tianguis.net/cartelera/42487
+LOCATION:Museo Yancuic\, Acceso al Paradero  \, Los Ángeles\, Iztapalapa
+ \, C.P. 09830\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42487
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Noche de Museos en la Universidad del Claustro de Sor Juana
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:23589f55b9f187ec17ba3bf3@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMÚSICA INBAL en e
@@ -1518,10 +1510,33 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42316
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Noche de Museos. El niño ajeno
+DTSTART;TZID=America/Mexico_City:20261125T170000
+DTEND;TZID=America/Mexico_City:20261125T190000
+DTSTAMP:20261124T223432Z
+UID:8c5fd8dafb8f1ff5546b44d3@cdmx-social-calendar
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMuseo de la Ciudad
+  de México. | Miércoles 25 de noviembre\, 2026 | 17 horas&nbsp\; Noche d
+ e Museos. El niño ajeno. Inauguración de la exposición El niño ajeno d
+ e Pato Guillén ¿Cuántas historias puede contar la vida de un artista? E
+ l niño ajeno nos invita a descubrir el universo creativo y personal de Ju
+ an Manuel Guillén\, a través de un recorrido íntimo por su vida y obra.
+  Entre trazos\, memorias y distintas formas de expresión\, esta exposici
+ ón nos acerca no solo al muralista y dibujante\, sino tambi\n\nSource: ti
+ anguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42475
+LOCATION:Museo de la Ciudad de México\, Pino Suárez 30 \, Centro (Área 
+ 6)\, Cuauhtémoc\, C.P. 06060\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42475
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 OMNIBLUES
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9663e8aeaf9445216c72171d@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nBlues Mexicano Al 
@@ -1541,7 +1556,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 PRESENTACIÓN DE RECETARIO
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:79e47b6fca804823be935537@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nVidas\, aromas e h
@@ -1561,7 +1576,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Raíces tejidas
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:8abdef4a5637e932a14ee865@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nIniciativa cultura
@@ -1585,7 +1600,7 @@ SUMMARY:🆓 Taller: Jugar para transformar. Niñas y niños a partir de 6
   años
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0a73341aa3f380a5868dfec7@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nParque Tepocatl | Sant
@@ -1605,7 +1620,7 @@ SUMMARY:🆓 Voces por el 25N: "La huesera" de Dahlia de la Cerda en FARO
  ARAGÓN
 DTSTART;TZID=America/Mexico_City:20261125T170000
 DTEND;TZID=America/Mexico_City:20261125T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3f2a9f227e1c502520adcf93@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nConmemoremos el día 
@@ -1624,7 +1639,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Noche de Museos en el Museo Casa de la Bola
 DTSTART;TZID=America/Mexico_City:20261125T173000
 DTEND;TZID=America/Mexico_City:20261125T193000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:8f19d98f5c522977e6694733@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nConcierto: Listos 
@@ -1646,7 +1661,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Deslenguada Escuchar desde la desobediencia
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f4b3bf5d69866e0d12cc53b0@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nSesiones audiovisu
@@ -1662,10 +1677,45 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42284
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Entre muros y misterios
+DTSTART;TZID=America/Mexico_City:20261125T180000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:bca7669a8a5b07b692dbeb71@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nLeyendas y conjuntos en
+  Culhuacán 18 horas Cupo: 80 personas Sin registro previo | Entrada libre
+  Miércoles 25 de Noviembre\, 2026 NocheDeMuseos CarteleraCDMX\n\nSource: 
+ tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42488
+LOCATION:Centro Comunitario ex Convento de Culhuacan\, av  José María Mo
+ relos 10 \, Culhuacán\, Iztapalapa\, C.P. 09800\, Cuidad de México\, Ciu
+ dad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42488
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Fuego Nuevo
+DTSTART;TZID=America/Mexico_City:20261125T180000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:3550c84dfa8962acd68d480b@cdmx-social-calendar
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nTeatro de titeres 
+ a cargo de SombrAaustral Museo Casa Kahlo 18 horas Cupo: 50 personas Costo
+ : $250 Miércoles 25 de Noviembre\, 2026 NocheDeMuseos CarteleraCDMX\n\nSo
+ urce: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42474
+LOCATION:Museo Casa Kahlo\, Aguayo 54 \, Del Carmen\, Coyoacán\, C.P. 041
+ 00\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42474
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 GRACIAS
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:32786781a566b3d9862ea793@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEn el marco del 20
@@ -1687,7 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 HUAPANGÓTICO
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:141e6db5c85c0aad2d7691cd@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nConcierto Cupo: 80
@@ -1705,7 +1755,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 HYSTERIKA
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9dd0ef9469b5b01781c59ea7@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nTributo a Depeche M
@@ -1723,7 +1773,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La señora en su balcón
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:e23e7fdb6c80af20dbc032d9@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nMúsica de Luis Sa
@@ -1742,7 +1792,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Las luciérnagas
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:e168d57382ba176bfbafa94f@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nUna biblioteca pro
@@ -1765,7 +1815,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Memorial y ritualidad
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:aefd71a859e47d584a00aad3@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nColectivo Ajá (Ag
@@ -1783,7 +1833,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 MILLENNIAL VIBES
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:e2b89cf6f0cdbe7da2322c63@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEsta exposición p
@@ -1802,7 +1852,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Mira lo que las monedas esconden
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:896150b090230eb308f9b47c@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nRecorrido guiado n
@@ -1821,7 +1871,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Noche de Museos en el Museo del Metro
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:580388d9bd251f489f1cd7df@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nPresentación del 
@@ -1841,7 +1891,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Noche de Museos en Lago Algo
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f1ec11a4a2a21761c2cad79b@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nRecorrido a las 19
@@ -1859,7 +1909,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Perritos en resistencia
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6a1d403df73b75f3370b06a6@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nUna exposición de
@@ -1878,7 +1928,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Presentación de la obra Diarios de habitación
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0c8d1262ea4ec2f645f54554@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMiércoles 25 de noviem
@@ -1901,7 +1951,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Reverdecer
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0e41223d96ca5297316fc395@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nUn reencuentro con
@@ -1921,7 +1971,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 SENADO DE LA REPÚBLICA TE INVITA A LA NOCHE DE MUSEOS
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:917a92c0334e3b1e9a625c9f@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nConcierto de Mexiku
@@ -1936,10 +1986,33 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42327
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Vidas\, aromas e historias. Un recetario comunitario
+DTSTART;TZID=America/Mexico_City:20261125T180000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:10838d9ed59d3c18a1b8a76a@cdmx-social-calendar
+CATEGORIES:Eventos literarios
+DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nMiércoles 25 de novi
+ embre\, 2026&nbsp\; Museo Panteón de San Fernando | 18 horas Vidas\, arom
+ as e historias. Un recetario comunitario. Dhyana Angélica Rodríguez Varg
+ as\, Diana Espinosa\, Sandra Arguello\, Vianca Castillo Castro.&nbsp\; Vid
+ as\, aromas e historias\, cuaderno para la redacción de un recetario. Re
+ úne algunos relatos contados desde la memoria\, el corazón y el amor de 
+ mujeres que\, generosamente\, comparten fragmentos de sus vidas\, cuyo obj
+ etivo es animarte a escribir tu propia historia o receta\n\nSource: tiangu
+ is-cdmx\n\nhttps://www.tianguis.net/cartelera/42478
+LOCATION:Museo Panteón de San Fernando\, Plaza de San Fernando 17 \, Guer
+ rero\, Cuauhtémoc\, C.P. 06300\, Cuidad de México\, Ciudad de México\, 
+ CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42478
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Voces Eternas
 DTSTART;TZID=America/Mexico_City:20261125T180000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9cc56b1e79257998585aa282@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEl Salón de Cabil
@@ -1960,7 +2033,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 25N Desbordar los márgenes
 DTSTART;TZID=America/Mexico_City:20261125T183000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ea6d8b81710a0a18b585a009@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nMujeres\, infan
@@ -1983,7 +2056,7 @@ BEGIN:VEVENT
 SUMMARY:Agentes de IA en Producción para Latinoamérica
 DTSTART;TZID=America/Mexico_City:20261125T183000
 DTEND;TZID=America/Mexico_City:20261125T203000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:891274cd3bd3195ef15994a9@cdmx-social-calendar
 CATEGORIES:Networking
 DESCRIPTION:Networking\n\nThe Data Pub recibe a Adrián Sánchez-Castro\, 
@@ -1999,10 +2072,50 @@ URL:https://www.cdmx365.com/es/evento/agentes-de-ia-en-produccion-para-lat
  inoamerica-2026-11-25
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Chulas\, Cholas y Chingonas
+DTSTART;TZID=America/Mexico_City:20261125T183000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:f6015c9ceb4b5553ec3336a6@cdmx-social-calendar
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nVynil Set Exhibici
+ ón de Vespas 18:30 horas Aforo: 200 personas Sin registro previo | Entrad
+ a libre Miércoles 25 de Noviembre\, 2026 NocheDeMuseos CarteleraCDMX\n\nS
+ ource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42477
+LOCATION:Museo de Historia de Tlalpan\, Plaza de la Constitución 10 \, Tl
+ alpan\, Tlalpan\, C.P. 14000\, Cuidad de México\, Ciudad de México\, CDM
+ X\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42477
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Conoce y crea un CODICE
+DTSTART;TZID=America/Mexico_City:20261125T183000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:d4144988d823a7e785aedd6a@cdmx-social-calendar
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nBIBLIOTECA CENTRAL
+  "SILVESTRE MORENO CORA Te invita al evento:&nbsp\; Conoce y crea un CODIC
+ E Descubre cómo se leen los códices v crea el tuyo con elementos del Có
+ dice de Tepetlaoztoc (Kingsborough). Una demanda que se hizo a la Corona e
+ spañola por el abuso de un encomendero Miércoles 25 de noviembre de 2026
+  | 18:30 horas Cupo limitado a 30 personas | Registro previo NocheDeMuseos
+  CarteleraCDMX\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartel
+ era/42484
+LOCATION:Biblioteca Central Silvestre Moreno Cora\, 16 de Septiembre 38 \,
+  Centro (Área 1)\, Cuauhtémoc\, C.P. 06000\, Cuidad de México\, Ciudad 
+ de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42484
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Fisura
 DTSTART;TZID=America/Mexico_City:20261125T183000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9336d0ecdf22b0b7f9acdca6@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nRitual arqueológi
@@ -2021,7 +2134,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La luz que habita
 DTSTART;TZID=America/Mexico_City:20261125T183000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:88ab7c34e87e6f65bef23eac@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nConversatorio Pabl
@@ -2040,7 +2153,7 @@ BEGIN:VEVENT
 SUMMARY:Noche de Museos en Mystika: Thea y Andrei
 DTSTART;TZID=America/Mexico_City:20261125T183000
 DTEND;TZID=America/Mexico_City:20261125T203000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c8440e587bd80964241e9f62@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nThea y Andrei Matorin tejen voz y cuencos e
@@ -2055,10 +2168,27 @@ URL:https://www.cdmx365.com/es/evento/noche-de-museos-en-mystika-thea-y-an
  drei-2026-11-25
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Pastorela ¿Y si sí?
+DTSTART;TZID=America/Mexico_City:20261125T183000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:dd161c8af08f5bdbfa44b5bf@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nPastorela\, presenta Ar
+ teatro Casa Tlaxcala 18:30 horas Cupo: 200 personas Sin registro previo | 
+ Entrada libre Miércoles 25 de Noviembre\, 2026 NocheDeMuseos CarteleraCDM
+ X\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42479
+LOCATION:Casa Tlaxcala\, San Ildefonso 40 \, Centro (Área 3)\, Cuauhtémo
+ c\, C.P. 06020\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42479
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cuerda & Voz
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6c85c0ed395eb520803d5eb0@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $150\n\nSanti Fiuri encabeza una
@@ -2075,7 +2205,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 ELLAS ESCRIBIERON LA CANCIÓN
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f1ed10db0fe6010898e91b39@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nConcierto&nbsp\; c
@@ -2094,7 +2224,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Homenaje a René del Valle
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:12bf699b85d0a4836552b2e4@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nDibujante del famo
@@ -2113,7 +2243,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Las historias más terroríficas de la abuela Toña
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b46b36d2348ce1c0c485522b@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -2136,7 +2266,7 @@ BEGIN:VEVENT
 SUMMARY:Le Quattro Stagioni (Las 4 Estaciones)
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0b720ed6d277e5c994c80159@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $450 – $600\n\nCamerata Opus 1
@@ -2155,7 +2285,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Mexico y sus colores musicales
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ca7673d47b8afd26318358f0@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEl Museo de la Can
@@ -2174,7 +2304,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 NOCHE DE MUSEOS MUSEO NACIONAL DE ANTROPOLOGÍA
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1670ce5d0517efb099608377@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nVisita guiada La m
@@ -2197,7 +2327,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Nocturno
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9bd6d0d53c073b5a574efceb@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nVista guiada por e
@@ -2216,10 +2346,28 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42328
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Orquesta Ensueño y parejas charros y charras
+DTSTART;TZID=America/Mexico_City:20261125T190000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:d045d69c76c798e5e313f4e2@cdmx-social-calendar
+CATEGORIES:Música y Conciertos
+DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nConcierto 19 horas 
+ Cupo: 200 personas Sin registro previo | Entrada libre Miércoles 25 de No
+ viembre\, 2026 NocheDeMuseos CarteleraCDMX\n\nSource: tianguis-cdmx\n\nhtt
+ ps://www.tianguis.net/cartelera/42502
+LOCATION:Museo Nacional de culturas populares\, Av Miguel Hidalgo 289 \, D
+ el Carmen\, Coyoacán\, C.P. 04100\, Cuidad de México\, Ciudad de México
+ \, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42502
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Pinta tu frecuencia
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f86b840c2f8e5c44d60a31c5@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de creación vi
@@ -2239,7 +2387,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Poemario Viajas en mí y estás de viaje
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:e63961f1f91233c38a443113@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nCentro Cultural José
@@ -2258,10 +2406,28 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41309
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Recital de piano
+DTSTART;TZID=America/Mexico_City:20261125T190000
+DTEND;TZID=America/Mexico_City:20261125T235900
+DTSTAMP:20261124T223432Z
+UID:8ae0fdd65f7fe0ff623559ca@cdmx-social-calendar
+CATEGORIES:Música y Conciertos
+DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nConcierto virtual S
+ antiago Said Domínguez Ortega\, pianista Transmisión en Facebook y YouTu
+ be | 19 horas Miércoles 25 de Noviembre\, 2026 NocheDeMuseos CarteleraCDM
+ X\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42467
+LOCATION:Museo de la Basílica de Guadalupe\, Allende 5 \, Villa Gustavo A
+ . Madero\, Gustavo A. Madero\, C.P. 07050\, Cuidad de México\, Ciudad de 
+ México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42467
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teatro\nNoche de Museos\nMi hermano no murió como un niño héroe
 DTSTART;TZID=America/Mexico_City:20261125T190000
 DTEND;TZID=America/Mexico_City:20261125T203000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a80f1ab373cd5dbf7d385aea@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -2279,7 +2445,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Gran Bailongo Pulquero
 DTSTART;TZID=America/Mexico_City:20261125T193000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1f255703151067a9a6661883@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nKINÍMA KUMBIA 19.
@@ -2297,7 +2463,7 @@ BEGIN:VEVENT
 SUMMARY:Babasonicos en Palacio de los Deportes
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7fc014ad5f33d360b695c12b@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa banda argentina Babasonicos trae
@@ -2314,7 +2480,7 @@ BEGIN:VEVENT
 SUMMARY:Cecilia Toussaint
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9b1ad7c4e44c361ea7e2c6c7@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -2330,7 +2496,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 EL ARTE QUE HABITA EN TI
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c34f59002317dac6bd3a43ea@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nUna experiencia so
@@ -2353,7 +2519,7 @@ BEGIN:VEVENT
 SUMMARY:Fauno
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6890321c7ff19e00fe808df1@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $350\n\nUn sueño oscuro desde la mitolog
@@ -2370,7 +2536,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Gran preposada Navideña
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f7ec517ff81669fc26557381@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLETANIA · PIÑATA
@@ -2390,7 +2556,7 @@ SUMMARY:Recital de clarinete y piano | XXXIII Festival de Clarinete FaM UN
  AM | Música de cámara
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ca01553b04b5f95a35837436@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -2407,7 +2573,7 @@ BEGIN:VEVENT
 SUMMARY:Recital de Clarinete y Piano: Luz Sedeño y Valeriia Prokofeva
 DTSTART;TZID=America/Mexico_City:20261125T200000
 DTEND;TZID=America/Mexico_City:20261125T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1d8c575467aff12bbdef8921@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa clarinetista Luz Sedeño y la pianista V
@@ -2426,7 +2592,7 @@ BEGIN:VEVENT
 SUMMARY:Buena Vista Social Club en Teatro de los Insurgentes
 DTSTART;TZID=America/Mexico_City:20261125T203000
 DTEND;TZID=America/Mexico_City:20261125T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ac450fca41b5cbaa54014975@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEste musical ganador del Tony y el Grammy sigue a la
@@ -2443,7 +2609,7 @@ BEGIN:VEVENT
 SUMMARY:Love of Lesbian en Auditorio Nacional
 DTSTART;TZID=America/Mexico_City:20261125T203000
 DTEND;TZID=America/Mexico_City:20261125T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:94e846c3fbfbb251a3846536@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLove of Lesbian llega con su sonido
@@ -2459,7 +2625,7 @@ BEGIN:VEVENT
 SUMMARY:Cirque du Soleil ECHO
 DTSTART;TZID=America/Mexico_City:20261125T210000
 DTEND;TZID=America/Mexico_City:20261125T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f7b1de9d3467c298829bff36@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nCirque du Soleil trae su más reciente producción i
@@ -2476,7 +2642,7 @@ BEGIN:VEVENT
 SUMMARY:Giant Rooks en Teatro Metropólitan
 DTSTART;TZID=America/Mexico_City:20261125T210000
 DTEND;TZID=America/Mexico_City:20261125T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bcd2e78c8bad31a530cd50d7@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nGiant Rooks traen su sonido expansi
@@ -2494,7 +2660,7 @@ SUMMARY:🆓 MAKA PAHTLI "DAR MEDICINA" FERIA DE MEDICINA TRADICIONAL MEXI
  CANA EN FARO ARAGÓN
 DTSTART;TZID=America/Mexico_City:20261126T100000
 DTEND;TZID=America/Mexico_City:20261126T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3480929452b134b2a067ad7f@cdmx-social-calendar
 CATEGORIES:Community event
 DESCRIPTION:Community event\n\nAdmission: FREE\n\nCon el firme objetivo de
@@ -2514,10 +2680,26 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42150
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Clases de modelado de barro
+DTSTART;TZID=America/Mexico_City:20261126T110000
+DTEND;TZID=America/Mexico_City:20261126T130000
+DTSTAMP:20261124T223432Z
+UID:ef45dda6e301d5cd860db1ed@cdmx-social-calendar
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\ntécnicas básicas de 
+ construcción manual con arcilla.\n\nSource: tianguis-cdmx\n\nhttps://www.
+ tianguis.net/cartelera/38247
+LOCATION:Talleres Tonatiuh\, Calle 10  \, Tolteca\, Álvaro Obregón\, C.P
+ . 01150\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/38247
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Feria Artesanal “Colores y Sabores de Yucatán"
 DTSTART;TZID=America/Mexico_City:20261126T110000
 DTEND;TZID=America/Mexico_City:20261126T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ca4940222a5d36774f8eca4a@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nUna oportunidad para
@@ -2535,7 +2717,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Hilos Violeta 2026
 DTSTART;TZID=America/Mexico_City:20261126T110000
 DTEND;TZID=America/Mexico_City:20261126T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2720edb1aa442ae9970bff2a@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nHilos Violeta es u
@@ -2558,7 +2740,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La vida en Rosa
 DTSTART;TZID=America/Mexico_City:20261126T110000
 DTEND;TZID=America/Mexico_City:20261126T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:783278aeea8a047881704a78@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nLa vida en Rosa
@@ -2579,7 +2761,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Educación Artificial Radio
 DTSTART;TZID=America/Mexico_City:20261126T130000
 DTEND;TZID=America/Mexico_City:20261126T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f9792dc5ee82c6621323f703@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nEn este espacio
@@ -2602,7 +2784,7 @@ SUMMARY:🆓 Libroclub móvil en el tianguis: El último y nos vamos en FA
  RO ARAGÓN
 DTSTART;TZID=America/Mexico_City:20261126T140000
 DTEND;TZID=America/Mexico_City:20261126T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6203928b5612786f742e577d@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nEl Libro Club Móvil 
@@ -2625,7 +2807,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Ludicalles
 DTSTART;TZID=America/Mexico_City:20261126T140000
 DTEND;TZID=America/Mexico_City:20261126T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9fbbbea2428bf648b9ca2ab4@cdmx-social-calendar
 CATEGORIES:Infantiles
 DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nKiosco Tacuba | Miguel Hidalg
@@ -2646,7 +2828,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Ensambles Musicales\, Bajo y Guitarra Eléctrica
 DTSTART;TZID=America/Mexico_City:20261126T160000
 DTEND;TZID=America/Mexico_City:20261126T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7a9eda8b4050c04738a1d855@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nEl concierto de roc
@@ -2662,10 +2844,31 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41869
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Ludicalles
+DTSTART;TZID=America/Mexico_City:20261126T160000
+DTEND;TZID=America/Mexico_City:20261126T180000
+DTSTAMP:20261124T223432Z
+UID:102363f5e6560002c041fbae@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nEmbarcadero Puerto Vallarta |
+  Tláhuac Todos los jueves de noviembre\, 2026 | 16 horas ¡La calle se ju
+ ega!&nbsp\; Te invitamos a participar de forma segura en juegos y dinámic
+ as para divertirnos. Juego libre | Juegos tradicionales | Juegos de piso |
+  Juegos de mesa | Talleres de dibujo y pintura CarteleraCdMx CarteleraComu
+ nitaria\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/425
+ 39
+LOCATION:Embarcadero Secundario Puerto Vallarta\, Canal Seco s/n \, San Mi
+ guel\, Tláhuac\, C.P. 13640\, Cuidad de México\, Ciudad de México\, CDM
+ X\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42539
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Polirritmia y Exploración Sonora Corporal
 DTSTART;TZID=America/Mexico_City:20261126T160000
 DTEND;TZID=America/Mexico_City:20261126T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:e458731465226262d25de8ae@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\n“Laboratorio de leng
@@ -2680,11 +2883,11 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/40926
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🆓 Presentación de libro: "Niñas\, niños y adolescentes en ac
- ción por el taekwondo"
+SUMMARY:🆓 Presentación de libro: Niñas\, Niños y Adolescentes en Acc
+ ión por el Taekwondo
 DTSTART;TZID=America/Mexico_City:20261126T160000
 DTEND;TZID=America/Mexico_City:20261126T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:4fbc3b81f1def1521a667a2e@cdmx-social-calendar
 CATEGORIES:Deporte
 DESCRIPTION:Deporte\n\nAdmission: FREE\n\nCentro Cultural La Pirámide | j
@@ -2707,7 +2910,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller "Escribir el territorio: una cartografía poética"
 DTSTART;TZID=America/Mexico_City:20261126T160000
 DTEND;TZID=America/Mexico_City:20261126T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:10e81cbe965dfdb6f97ae06a@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nJueves 19 y 26 de novi
@@ -2730,7 +2933,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller de creación de cómics
 DTSTART;TZID=America/Mexico_City:20261126T160000
 DTEND;TZID=America/Mexico_City:20261126T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:086b339d3c1ff7bef85a6896@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de creación de
@@ -2747,7 +2950,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Una nueva visión
 DTSTART;TZID=America/Mexico_City:20261126T160000
 DTEND;TZID=America/Mexico_City:20261126T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bcf138f1dfe920426a7c1877@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nUn programa que
@@ -2767,7 +2970,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 El Arte Cura
 DTSTART;TZID=America/Mexico_City:20261126T170000
 DTEND;TZID=America/Mexico_City:20261126T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:02af46971d26d6ba087730fe@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nAyuda informand
@@ -2790,7 +2993,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Ensamble de Música Latinoamericana
 DTSTART;TZID=America/Mexico_City:20261126T170000
 DTEND;TZID=America/Mexico_City:20261126T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:542ec60cf17cca0bfc1f4a0b@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nEl concierto de mú
@@ -2810,7 +3013,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La Caña
 DTSTART;TZID=America/Mexico_City:20261126T170000
 DTEND;TZID=America/Mexico_City:20261126T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1dc3aeb621b288bf1f7b7902@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nSeñalar brevem
@@ -2830,7 +3033,7 @@ SUMMARY:🆓 Marcapáginas de valores (actividad por el 25N) en FARO ARAG
  ÓN
 DTSTART;TZID=America/Mexico_City:20261126T170000
 DTEND;TZID=America/Mexico_City:20261126T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3e659614487f8cf27802de80@cdmx-social-calendar
 CATEGORIES:Infantiles
 DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nActividad dirigida a las infa
@@ -2849,7 +3052,7 @@ SUMMARY:🆓 Poetas\, Cronistas y Escritores de Azcapotzalco presentan: Pr
  esent
 DTSTART;TZID=America/Mexico_City:20261126T170000
 DTEND;TZID=America/Mexico_City:20261126T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ffbaa52d7038a37553a586ee@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nPresentación de trab
@@ -2865,10 +3068,33 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41936
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Presentación del libro Pedagogía de la felicidad
+DTSTART;TZID=America/Mexico_City:20261126T170000
+DTEND;TZID=America/Mexico_City:20261126T190000
+DTSTAMP:20261124T223432Z
+UID:933e5927f5967f9c7709ac3d@cdmx-social-calendar
+CATEGORIES:Eventos literarios
+DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nCasa Refugio de la Me
+ moria | Jueves 26 de noviembre\, 2026 | 17 horas Presentación del libro P
+ edagogía de la felicidad. José Luis Soto / Ivette Estrada. La presentaci
+ ón del libro Pedagogía de la felicidad aborda un enfoque innovador en la
+  pedagogía infantil. Este libro integra valores fundamentales como la lib
+ ertad e integridad\, combinándolos con elementos lúdicos para reforzar e
+ l compromiso de los niños con su propia infancia. Para ilustrar su enfoqu
+ e pedagógico\, el libro presenta cuatro princip\n\nSource: tianguis-cdmx
+ \n\nhttps://www.tianguis.net/cartelera/42495
+LOCATION:Casa Refugio de la Memoria\, Citlaltépetl 25 \, Hipódromo Conde
+ sa\, Cuauhtémoc\, C.P. 06170\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42495
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Claude Community x AWS: Claude Code For Frontier AI
 DTSTART;TZID=America/Mexico_City:20261126T173000
 DTEND;TZID=America/Mexico_City:20261126T193000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:8551285fe6c81a692fdc3912@cdmx-social-calendar
 CATEGORIES:Networking
 DESCRIPTION:Networking\n\nAWS y Claude Community traen un meetup de IA ava
@@ -2887,7 +3113,7 @@ BEGIN:VEVENT
 SUMMARY:El Sonido de la Memoria
 DTSTART;TZID=America/Mexico_City:20261126T180000
 DTEND;TZID=America/Mexico_City:20261126T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f4b12959903aa3213ab6ca5b@cdmx-social-calendar
 CATEGORIES:Clases y Talleres
 DESCRIPTION:Clases y Talleres\n\nLa Cineteca Nacional presenta un ciclo de
@@ -2905,7 +3131,7 @@ SUMMARY:🆓 Habitar-Nos Cuerpo\, plantas y emociones: prácticas para el
  autocuidado
 DTSTART;TZID=America/Mexico_City:20261126T180000
 DTEND;TZID=America/Mexico_City:20261126T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:28bc3a444ac0509b1111660e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUTOPÍA La Heroica | S
@@ -2926,7 +3152,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Dentro del Valle Inquietante - Freud\, Hoffmann y la IA
 DTSTART;TZID=America/Mexico_City:20261126T183000
 DTEND;TZID=America/Mexico_City:20261126T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f22368c8296a9b62f7afc4b5@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nCentro Cultural La Pi
@@ -2949,7 +3175,7 @@ BEGIN:VEVENT
 SUMMARY:Amélie Concert
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:311fd424ac9cdee6af68e9e9@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $250 – $400\n\nUn concierto de
@@ -2967,7 +3193,7 @@ BEGIN:VEVENT
 SUMMARY:Anime Symphony
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9a816d672ca39fe5831b88c7@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $250 – $400\n\nAnime Symphony 
@@ -2985,7 +3211,7 @@ BEGIN:VEVENT
 SUMMARY:Cabezas de Cera
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:cbee55dfaba1ba4b1f21f0a2@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nCabezas de Cera regresa como Metaensamble\,
@@ -3002,7 +3228,7 @@ BEGIN:VEVENT
 SUMMARY:Charla virtual | OFUNAM 90 años\, libro conmemorativo
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T203000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ff559e694c897371b1886747@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -3019,7 +3245,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Ciclo Joyas Bibliográficas del Banco de México: A
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:05260c2dce765eeb41a45779@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nConferencia y mesa de
@@ -3038,7 +3264,7 @@ BEGIN:VEVENT
 SUMMARY:Costa de Ámbar en CDMX 2026
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5248eda0b405c654b9db327e@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $350 – $400\n\nCosta de Ámbar
@@ -3055,7 +3281,7 @@ BEGIN:VEVENT
 SUMMARY:El banquete
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b994da9d15e4ded870ca33d4@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nInspirada en El banquete de Platón\, esta puesta en
@@ -3072,7 +3298,7 @@ BEGIN:VEVENT
 SUMMARY:El Invencible Verano de Liliana
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:005b9e9475f745cf29b57437@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $45 – $700\n\nLiliana Rivera Garza fue 
@@ -3090,7 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:The Hayley Williams Show en Auditorio Nacional
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b533a09d8ab57df19dce90ba@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nHayley Williams\, vocalista de Para
@@ -3106,7 +3332,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Viaje por Cassets y Vinilos
 DTSTART;TZID=America/Mexico_City:20261126T190000
 DTEND;TZID=America/Mexico_City:20261126T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d1457d43669facba00cd8983@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural Jos
@@ -3128,7 +3354,7 @@ BEGIN:VEVENT
 SUMMARY:De Serverless a IA: Ingeniería Más Allá del Código
 DTSTART;TZID=America/Mexico_City:20261126T193000
 DTEND;TZID=America/Mexico_City:20261126T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:49eacd8b40bc4a93406a3295@cdmx-social-calendar
 CATEGORIES:Networking
 DESCRIPTION:Networking\n\nEl AWS User Group reúne a desarrolladores y arq
@@ -3147,7 +3373,7 @@ BEGIN:VEVENT
 SUMMARY:Acá Entre Nos
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c6838afad93f121870bdd15d@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nValentín crece homosexual en un rincón de Sinaloa
@@ -3161,10 +3387,34 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/aca-entre-nos-2026-11-19
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Circuito Nacional de Artes Escénicas en Espacios Independien
+ tes:  No concreto
+DTSTART;TZID=America/Mexico_City:20261126T200000
+DTEND;TZID=America/Mexico_City:20261126T235900
+DTSTAMP:20261124T223432Z
+UID:ab3e2383c26a92bf25bb32c7@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nForo A Poco No | Jueves
+  26 de noviembre\, 2026 | 20 horas Circuito Nacional de Artes Escénicas e
+ n Espacios Independientes: No concreto. Thelma Carrizosa\, Bárbara Alvara
+ do\, Diego Martínez Villa. Un hombre camina por las calles de la casa de 
+ su infancia mientras sabe que su vida está por cambiar para siempre. A tr
+ avés de su presente endeble se desdobla una vida llena de matices que pin
+ taron el asfalto\, el llano y en general el barrio donde creció. Entre be
+ stias\, danza\, calles y fútbol No concreto n\n\nSource: tianguis-cdmx\n
+ \nhttps://www.tianguis.net/cartelera/42493
+LOCATION:Foro A Poco No\, Teatro Cabaret\, C. Republica de Cuba 49 \, Cent
+ ro (Área 1)\, Cuauhtémoc\, C.P. 06000\, Cuidad de México\, Ciudad de M
+ éxico\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42493
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 ESTUDIO XII
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2012a04a2350f504aafd28ce@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nESTUDIO XII\, con la co
@@ -3186,7 +3436,7 @@ BEGIN:VEVENT
 SUMMARY:Festival Fado México: Sara Correia en Teatro de la Ciudad
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:81059f132a0b8fc858d40c1b@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nSara Correia encabeza el Festival F
@@ -3205,7 +3455,7 @@ BEGIN:VEVENT
 SUMMARY:Leonardo de Lozanne
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d762f2d4a324afb4f398fced@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLeonardo de Lozanne\, vocalista y f
@@ -3221,7 +3471,7 @@ BEGIN:VEVENT
 SUMMARY:OCBA: Orquesta de Cámara de Bellas Artes Programa 9
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a1268fd966f0f7b8ce85617f@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta de Cámara de Bellas Ar
@@ -3240,7 +3490,7 @@ BEGIN:VEVENT
 SUMMARY:Programa Universitario de Música Actual / TEMPLUM ensamble
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:afebd74a07d71f726ad9110e@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -3257,7 +3507,7 @@ BEGIN:VEVENT
 SUMMARY:TEMPLUM Experimental: TEMPLUM Ensamble
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f36a517d6587611cb3289c25@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nTEMPLUM ensamble presenta tres obras conceb
@@ -3276,7 +3526,7 @@ BEGIN:VEVENT
 SUMMARY:Todavía Podemos Ser Felices
 DTSTART;TZID=America/Mexico_City:20261126T200000
 DTEND;TZID=America/Mexico_City:20261126T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c6dedda1ab6cd96be6186963@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $30 – $150\n\nDos personas se encuentra
@@ -3294,7 +3544,7 @@ BEGIN:VEVENT
 SUMMARY:El Rey León en Teatro Telcel
 DTSTART;TZID=America/Mexico_City:20261126T203000
 DTEND;TZID=America/Mexico_City:20261126T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:42e3d178d04c62c2f01fbb3c@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEl Rey León de Disney trae las Tierras del Reino a 
@@ -3310,7 +3560,7 @@ BEGIN:VEVENT
 SUMMARY:Helado Negro & Reyna Tropical Presentan: Helado Tropical
 DTSTART;TZID=America/Mexico_City:20261126T203000
 DTEND;TZID=America/Mexico_City:20261126T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:57a925b204582fa223d2dffd@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nHelado Negro y Reyna Tropical unen 
@@ -3329,7 +3579,7 @@ BEGIN:VEVENT
 SUMMARY:La Impro Lucha: Campeonato Internacional
 DTSTART;TZID=America/Mexico_City:20261126T203000
 DTEND;TZID=America/Mexico_City:20261126T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:164a2dba20075e5b4a960ab4@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $165 – $700\n\nLos mejores improvisador
@@ -3348,7 +3598,7 @@ BEGIN:VEVENT
 SUMMARY:Nacho Vegas en Teatro Metropólitan
 DTSTART;TZID=America/Mexico_City:20261126T203000
 DTEND;TZID=America/Mexico_City:20261126T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:50b1dca2f9cbcf9a4280218b@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nNacho Vegas trae su trova poética 
@@ -3365,7 +3615,7 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame de París\, el Musical
 DTSTART;TZID=America/Mexico_City:20261126T203000
 DTEND;TZID=America/Mexico_City:20261126T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2385eae54617860bd106b50f@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $250 – $450\n\nBasado en la novela de V
@@ -3383,7 +3633,7 @@ BEGIN:VEVENT
 SUMMARY:Un obús en el corazón
 DTSTART;TZID=America/Mexico_City:20261126T203000
 DTEND;TZID=America/Mexico_City:20261126T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6f1b04485ca24277324e1f70@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nUna llamada telefónica en una noche de invierno hel
@@ -3399,7 +3649,7 @@ BEGIN:VEVENT
 SUMMARY:CocoRosie
 DTSTART;TZID=America/Mexico_City:20261126T210000
 DTEND;TZID=America/Mexico_City:20261126T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:50155c0f88e3fdf8be7818eb@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $1\,000\n\nCocoRosie regresa a l
@@ -3416,7 +3666,7 @@ BEGIN:VEVENT
 SUMMARY:Jesús\, María y José José
 DTSTART;TZID=America/Mexico_City:20261126T210000
 DTEND;TZID=America/Mexico_City:20261126T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5c179cf44b37d1c61f6261fc@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $500\n\n¿Qué pasaría si el Salvador de
@@ -3433,7 +3683,7 @@ BEGIN:VEVENT
 SUMMARY:Beto Cuevas en Concierto
 DTSTART;TZID=America/Mexico_City:20261126T213000
 DTEND;TZID=America/Mexico_City:20261126T233000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5a59bf097648958a49851693@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nEl icónico cantante chileno y ex v
@@ -3449,7 +3699,7 @@ BEGIN:VEVENT
 SUMMARY:Kalimba 'Christmas Soul'
 DTSTART;TZID=America/Mexico_City:20261126T213000
 DTEND;TZID=America/Mexico_City:20261126T233000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d4e07f9555f3646d9ed181ea@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nKalimba regresa a La Maraka con su residenc
@@ -3465,7 +3715,7 @@ BEGIN:VEVENT
 SUMMARY:RE:SET X Fünk: ATEQ + MNTY + Andreas
 DTSTART;TZID=America/Mexico_City:20261126T220000
 DTEND;TZID=America/Mexico_City:20261127T000000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ca886e01b7efc62290944b00@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $260\n\nRE:SET toma la cabina de F
@@ -3483,7 +3733,7 @@ BEGIN:VEVENT
 SUMMARY:Saundo X Nueve Cero Nueve
 DTSTART;TZID=America/Mexico_City:20261126T230000
 DTEND;TZID=America/Mexico_City:20261127T010000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6fd1db216e2dee65e48f761d@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nSaundo\, proyecto de producción y curaduría 
@@ -3500,7 +3750,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Mural para la Ludoteca
 DTSTART;TZID=America/Mexico_City:20261127T040000
 DTEND;TZID=America/Mexico_City:20261127T060000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b06fc5c360fc3dfa4373d2cc@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMural de la Ludoteca Ca
@@ -3517,7 +3767,7 @@ BEGIN:VEVENT
 SUMMARY:Sinfonía de los Anillos
 DTSTART;TZID=America/Mexico_City:20261127T073000
 DTEND;TZID=America/Mexico_City:20261127T093000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:22da4035932369878e936a83@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $549 – $749\n\nSeven Waves Pro
@@ -3532,10 +3782,33 @@ TRANSP:TRANSPARENT
 URL:https://www.cdmx365.com/es/evento/sinfonia-de-los-anillos-2026-11-27
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Renacer en Rosa
+DTSTART;TZID=America/Mexico_City:20261127T100000
+DTEND;TZID=America/Mexico_City:20261127T120000
+DTSTAMP:20261124T223432Z
+UID:2a947dfccce1f22171bd8f86@cdmx-social-calendar
+CATEGORIES:Community event
+DESCRIPTION:Community event\n\nAdmission: FREE\n\nMuseo de la Ciudad de M
+ éxico | Viernes 27 de noviembre\, 2026 |&nbsp\; 10 horas Renacer en Rosa.
+  ALL modificaciones corporales. El Museo de la Ciudad de México te invita
+  a participar en Renacer en rosa\, un espacio de encuentro\, información 
+ y acompañamiento para personas interesadas en el cáncer de mama\, sobrev
+ ivientes y sus familiares. A través de conferencias\, conoceremos cómo e
+ l tatuaje artístico y paramédico puede convertirse en una alternativa pa
+ ra resignificar las cicatrices después del cánce\n\nSource: tianguis-cdm
+ x\n\nhttps://www.tianguis.net/cartelera/42497
+LOCATION:Museo de la Ciudad de México\, Pino Suárez 30 \, Centro (Área 
+ 6)\, Cuauhtémoc\, C.P. 06060\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42497
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Gundam Base\, experiencia pop-up de Gunpla
 DTSTART;TZID=America/Mexico_City:20261127T100000
 DTEND;TZID=America/Mexico_City:20261127T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:88895c4f69379a0111918f2e@cdmx-social-calendar
 CATEGORIES:Experiencias
 DESCRIPTION:Experiencias\n\nBandai Namco regresa a Polanco con The Gundam 
@@ -3554,7 +3827,7 @@ SUMMARY:🆓 Ciencia y Cocina Cultivando lo Invisible: Simulación Didáct
  ica de Cultivo Bacteriano
 DTSTART;TZID=America/Mexico_City:20261127T110000
 DTEND;TZID=America/Mexico_City:20261127T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:283210da519c28bc50efc419@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nActividad para explica
@@ -3570,21 +3843,42 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41939
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 El duelo desde la psicología
+DTSTART;TZID=America/Mexico_City:20261127T110000
+DTEND;TZID=America/Mexico_City:20261127T130000
+DTSTAMP:20261124T223432Z
+UID:61edc3348d40d0a6669c94cc@cdmx-social-calendar
+CATEGORIES:Congresos y Convenciones
+DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nMuseo Panteón 
+ de San Fernando | Viernes 27 y Sábado 28 de noviembre\, 2026 | 11 horas E
+ l duelo desde la psicología. Colectivo Lacaniana de Psicología. Ciclo de
+  ponencias que abordan el fenómeno del duelo desde una perspectiva psicol
+ ógica y científica buscando proponer nuevas formas de entendimiento en e
+ l contexto actual.&nbsp\; Actividad Gratuita | Público General CarteleraC
+ dMx\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42498
+LOCATION:Museo Panteón de San Fernando\, Plaza de San Fernando 17 \, Guer
+ rero\, Cuauhtémoc\, C.P. 06300\, Cuidad de México\, Ciudad de México\, 
+ CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42498
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 FIC (Fabrica de Ideas Creativas)
 DTSTART;TZID=America/Mexico_City:20261127T110000
 DTEND;TZID=America/Mexico_City:20261127T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7bdfef319a608517c3a672cd@cdmx-social-calendar
-CATEGORIES:Community event
-DESCRIPTION:Community event\n\nAdmission: FREE\n\nUn laboratorio de experi
- mentación del club donde la curiosidad es el único requisito. Aquí impu
- lsamos la cultura Maker: el arte de aprender haciendo\, colaborar sin comp
- etir y resolver retos reales a través de la creatividad.Más que un talle
- r\, somos un punto de encuentro para mentes inquietas que quieren diseñar
- \, construir y transformar su entorno. Ven a compartir tus habilidades\, a
- prender de los demás y formar parte de una comunidad que no se cansa de c
- rear. ¡La fábrica está abierta!&nbsp\; Carte\n\nSource: tianguis-cdmx\n
- \nhttps://www.tianguis.net/cartelera/41821
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUn laboratorio de expe
+ rimentación del club donde la curiosidad es el único requisito. Aquí im
+ pulsamos la cultura Maker: el arte de aprender haciendo\, colaborar sin co
+ mpetir y resolver retos reales a través de la creatividad.Más que un tal
+ ler\, somos un punto de encuentro para mentes inquietas que quieren diseñ
+ ar\, construir y transformar su entorno. Ven a compartir tus habilidades\,
+  aprender de los demás y formar parte de una comunidad que no se cansa de
+  crear. ¡La fábrica está abierta!&nbsp\; Carte\n\nSource: tianguis-cdmx
+ \n\nhttps://www.tianguis.net/cartelera/41821
 LOCATION:FARO de Oriente\, Calzada Ignacio Zaragoza  \, Fuentes de Zaragoz
  a\, Iztapalapa\, C.P. 09150\, Cuidad de México\, Ciudad de México\, CDMX
  \, México
@@ -3593,10 +3887,31 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41821
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Ludicalles
+DTSTART;TZID=America/Mexico_City:20261127T110000
+DTEND;TZID=America/Mexico_City:20261127T130000
+DTSTAMP:20261124T223432Z
+UID:20d705f5079e0b39623a0494@cdmx-social-calendar
+CATEGORIES:Festivales y Ferias
+DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nCalle Lago de la mue
+ rte | Tláhuac Viernes 27 de noviembre\, 2026 | 11 a 18 horas Invitación 
+ a participar en la inauguración de la ludicalle: lago de la felicidad. Te
+ quio para cuidar y mantener limpio el espacio\, y posteriormente la inaugu
+ ración de los murales que enchulan la ludicalle. Actividades lúdicas | J
+ uegos | Cuentacuentos.&nbsp\; CarteleraCdMx CarteleraComunitaria\n\nSource
+ : tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42496
+LOCATION:Ludicalle: lago de la felicidad\, Lago de La Muerte MZ141 LT2 \, 
+ Ampliación Selene\, Tláhuac\, C.P. 13430\, Cuidad de México\, Ciudad de
+  México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42496
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Eco-Guardianes "Reciclando y cuidando del medio ambiente"
 DTSTART;TZID=America/Mexico_City:20261127T120000
 DTEND;TZID=America/Mexico_City:20261127T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a5d7f793e6caf00565af2901@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nViernes 27 noviembre\,
@@ -3619,7 +3934,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller. Teatro popular y máscaras.
 DTSTART;TZID=America/Mexico_City:20261127T120000
 DTEND;TZID=America/Mexico_City:20261127T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d8a108b45faf4a21bbb5153c@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMuseo Panteón de San 
@@ -3641,7 +3956,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Break Street Flow and Power
 DTSTART;TZID=America/Mexico_City:20261127T130000
 DTEND;TZID=America/Mexico_City:20261127T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d6bb224363e63b47825b563e@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nBreak Street Flow a
@@ -3659,10 +3974,27 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41883
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Crea tu superhéroe Chibi
+DTSTART;TZID=America/Mexico_City:20261127T130000
+DTEND;TZID=America/Mexico_City:20261127T150000
+DTSTAMP:20261124T223432Z
+UID:bb529b2a4b060eab9e82d34e@cdmx-social-calendar
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMuseo Yancuic | Vierne
+ s 27 de noviembre\, 2026 | 13 horas Crea tu superhéroe Chibi. Vomito Azul
+ -Pentel Entrada Libre | 6 años en adelante. CarteleraCdMx\n\nSource: tian
+ guis-cdmx\n\nhttps://www.tianguis.net/cartelera/42524
+LOCATION:Museo Yancuic\, Acceso al Paradero  \, Los Ángeles\, Iztapalapa
+ \, C.P. 09830\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42524
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Exposición colectiva "Imágenes de una historia compartida"
 DTSTART;TZID=America/Mexico_City:20261127T130000
 DTEND;TZID=America/Mexico_City:20261127T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:50c3df6f73858a040276cb21@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nViernes 27 de novi
@@ -3685,7 +4017,7 @@ BEGIN:VEVENT
 SUMMARY:Lágrimas de Agua Dulce
 DTSTART;TZID=America/Mexico_City:20261127T130000
 DTEND;TZID=America/Mexico_City:20261127T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2c4aa13e70d4a4329f08ea7e@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $248\n\nChac Bolay presenta esta fábula 
@@ -3703,7 +4035,7 @@ BEGIN:VEVENT
 SUMMARY:Sinestesia: A Qué Saben\, Huelen y Suenan los Colores
 DTSTART;TZID=America/Mexico_City:20261127T130000
 DTEND;TZID=America/Mexico_City:20261127T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ba10e48f7cad65836fee5705@cdmx-social-calendar
 CATEGORIES:Clases y Talleres
 DESCRIPTION:Clases y Talleres\n\nEste taller sensorial en la Biblioteca Va
@@ -3722,7 +4054,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 DJ y Operador Sound System
 DTSTART;TZID=America/Mexico_City:20261127T140000
 DTEND;TZID=America/Mexico_City:20261127T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1c3a0acfe480eaa367f30be4@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural La 
@@ -3742,10 +4074,31 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41965
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Ludicalle: Inauguración del mural de nuestra Ludicalle “La
+  Escondida”
+DTSTART;TZID=America/Mexico_City:20261127T140000
+DTEND;TZID=America/Mexico_City:20261127T160000
+DTSTAMP:20261124T223432Z
+UID:bfcfceacc7c7015db6d460d9@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nLudicalle "la Escondida" | Á
+ lvaro Obregón Viernes 27 de noviembre\, 2026 | 14 a 18 horas ¡VEN A CONO
+ CER NUESTRO MURAL! Inauguración del mural de nuestra Ludicalle “La Esco
+ ndida”. Arte\, creatividad y convivencia comunitaria. Actividades artís
+ ticas | Juegos lúdicos | Teatro. CarteleraCdMx CarteleraComunitaria\n\nSo
+ urce: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42529
+LOCATION:Callejón La Escondida\, Escondida 33 \, Barrio Norte\, Álvaro O
+ bregón\, C.P. 01410\, Cuidad de México\, Ciudad de México\, CDMX\, Méx
+ ico
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42529
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Metaverso
 DTSTART;TZID=America/Mexico_City:20261127T140000
 DTEND;TZID=America/Mexico_City:20261127T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:e006fbae3cb6f223f4a9bdbb@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nImpulsa la alfa
@@ -3764,7 +4117,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Música\, palabras y resistencia por el 25N
 DTSTART;TZID=America/Mexico_City:20261127T140000
 DTEND;TZID=America/Mexico_City:20261127T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9e91e862dd02a768d760dee6@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nViernes 27 de noviemb
@@ -3787,7 +4140,7 @@ BEGIN:VEVENT
 SUMMARY:Declive / Xpan en Cucurucho
 DTSTART;TZID=America/Mexico_City:20261127T150000
 DTEND;TZID=America/Mexico_City:20261127T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:674a6aaa2a537383e5f61812@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nDeclive y xpan se juntan para una sesión grat
@@ -3804,7 +4157,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Historias de Nadie
 DTSTART;TZID=America/Mexico_City:20261127T150000
 DTEND;TZID=America/Mexico_City:20261127T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:fb58184508dfd5e2aa33c4ee@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nBusca rescatar 
@@ -3824,7 +4177,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La FARO y su entorno
 DTSTART;TZID=America/Mexico_City:20261127T150000
 DTEND;TZID=America/Mexico_City:20261127T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:89a5c291c8ed8c9d65dccaf1@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nViernes 27 de noviembr
@@ -3847,7 +4200,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Absenta el Hada Verde
 DTSTART;TZID=America/Mexico_City:20261127T160000
 DTEND;TZID=America/Mexico_City:20261127T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:822bd50854a3b4332020e64c@cdmx-social-calendar
 CATEGORIES:Congresos y Convenciones
 DESCRIPTION:Congresos y Convenciones\n\nAdmission: FREE\n\nSe pretende cre
@@ -3867,7 +4220,7 @@ SUMMARY:🆓 Habitar-Nos Cuerpo\, plantas y emociones: prácticas para el
  autocuidado
 DTSTART;TZID=America/Mexico_City:20261127T160000
 DTEND;TZID=America/Mexico_City:20261127T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1d825422afadb9611883ea6e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUTOPÍA Elena Poniatow
@@ -3885,10 +4238,30 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42351
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Ludicalles
+DTSTART;TZID=America/Mexico_City:20261127T160000
+DTEND;TZID=America/Mexico_City:20261127T180000
+DTSTAMP:20261124T223432Z
+UID:b4a1a7c38d6cc81fb957004b@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nCalle Lago de la muerte | Tl
+ áhuac Todos los viernes de noviembre\, 2026 | 16 horas ¡La calle se jueg
+ a!&nbsp\; Te invitamos a participar de forma segura en juegos y dinámicas
+  para divertirnos. Juego libre | Juegos tradicionales | Juegos de piso | J
+ uegos de mesa | Talleres de dibujo y pintura CarteleraCdMx CarteleraComuni
+ taria\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42540
+LOCATION:Ludicalle: lago de la felicidad\, Lago de La Muerte MZ141 LT2 \, 
+ Ampliación Selene\, Tláhuac\, C.P. 13430\, Cuidad de México\, Ciudad de
+  México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42540
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Monstruos\, Datos e IA: Despistando a una Máquina
 DTSTART;TZID=America/Mexico_City:20261127T160000
 DTEND;TZID=America/Mexico_City:20261127T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:50b75b4e867c3cb9e1741c72@cdmx-social-calendar
 CATEGORIES:Clases y Talleres
 DESCRIPTION:Clases y Talleres\n\nEste taller en el Cenart aborda la inteli
@@ -3908,7 +4281,7 @@ SUMMARY:🆓 Tlahuipochtli Hechiceros entre la vida y la muerte: Por Luart
   Idi Models
 DTSTART;TZID=America/Mexico_City:20261127T160000
 DTEND;TZID=America/Mexico_City:20261127T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:18c494835390f3ef23fc3ee0@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nPasarela de modas 
@@ -3928,7 +4301,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 La Textilera: Laboratorio textil comunitario
 DTSTART;TZID=America/Mexico_City:20261127T170000
 DTEND;TZID=America/Mexico_City:20261127T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a3b22f5b0b4dd42da286d73d@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nLa Textilera es un labo
@@ -3951,7 +4324,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Nostalgia Melómana
 DTSTART;TZID=America/Mexico_City:20261127T170000
 DTEND;TZID=America/Mexico_City:20261127T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:56a8183cefbfcc4954a43ec4@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nViernes 27 de novie
@@ -3971,10 +4344,29 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41756
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Presentación del libro por Francisco Mata
+DTSTART;TZID=America/Mexico_City:20261127T170000
+DTEND;TZID=America/Mexico_City:20261127T190000
+DTSTAMP:20261124T223432Z
+UID:b7bbcbed116dea507cffa55f@cdmx-social-calendar
+CATEGORIES:Eventos literarios
+DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nMuseo Archivo de la F
+ otografía&nbsp\; | Viernes 27 de noviembre\, 2026 | 17:30 horas Presentac
+ ión del libro por Francisco Mata. Actividad Gratuita | Público General. 
+ CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartele
+ ra/42499
+LOCATION:Museo Archivo de la Fotografía\, República de Guatemala 34 \, C
+ entro (Área 2)\, Cuauhtémoc\, C.P. 06010\, Cuidad de México\, Ciudad de
+  México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42499
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Serigrafia para niños club
 DTSTART;TZID=America/Mexico_City:20261127T170000
 DTEND;TZID=America/Mexico_City:20261127T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:4f62b3b111e1fbe1dcf93410@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUn espacio creativo di
@@ -3995,7 +4387,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Sueñan los chimuelos con el festín de los colmillos largos
 DTSTART;TZID=America/Mexico_City:20261127T170000
 DTEND;TZID=America/Mexico_City:20261127T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3313a09bb939ffe15378e8f6@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nViernes 27 de noviembre
@@ -4018,7 +4410,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 ¡Surf de otoño en el Martí!
 DTSTART;TZID=America/Mexico_City:20261127T170000
 DTEND;TZID=America/Mexico_City:20261127T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0ac9be4f00b9b831847f26db@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural Jos
@@ -4041,7 +4433,7 @@ BEGIN:VEVENT
 SUMMARY:El viaje de Chihiro – The Music Experience
 DTSTART;TZID=America/Mexico_City:20261127T173000
 DTEND;TZID=America/Mexico_City:20261127T193000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7e7d0fd7168de1790910e55f@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $150 – $200\n\nUn concierto en
@@ -4060,7 +4452,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Ballet
 DTSTART;TZID=America/Mexico_City:20261127T173000
 DTEND;TZID=America/Mexico_City:20261127T193000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6397b2054e7cc52ec2c46298@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nAntílopes es un pr
@@ -4082,7 +4474,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Los Antílopes
 DTSTART;TZID=America/Mexico_City:20261127T174500
 DTEND;TZID=America/Mexico_City:20261127T194500
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:df38cf83db6438c3cbaba91d@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nPresentación del p
@@ -4101,7 +4493,7 @@ BEGIN:VEVENT
 SUMMARY:Alberto Cruzprieto en Bellas Artes
 DTSTART;TZID=America/Mexico_City:20261127T180000
 DTEND;TZID=America/Mexico_City:20261127T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ec3c1aa0beb355ed9b11b322@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Coordinación Nacional de Músic
@@ -4118,7 +4510,7 @@ BEGIN:VEVENT
 SUMMARY:CDMX La Pastor Party
 DTSTART;TZID=America/Mexico_City:20261127T180000
 DTEND;TZID=America/Mexico_City:20261127T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:218b347e9900078a92688f7e@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $700 – $1\,450\n\nLa Pastorparty Vol. 1
@@ -4136,7 +4528,7 @@ BEGIN:VEVENT
 SUMMARY:El Cadáver de la Novia Movie Concert
 DTSTART;TZID=America/Mexico_City:20261127T180000
 DTEND;TZID=America/Mexico_City:20261127T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dcdcecaa17ebcd596a95c154@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nEl Cadáver de la Novia de Tim Burton se pr
@@ -4155,7 +4547,7 @@ BEGIN:VEVENT
 SUMMARY:La Pastor Party
 DTSTART;TZID=America/Mexico_City:20261127T180000
 DTEND;TZID=America/Mexico_City:20261127T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0ee4b8ceb71dfd968615a26a@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nAdmission: $700 – $1\,450\n\nLa Pastorparty Vol. 1
@@ -4173,7 +4565,7 @@ BEGIN:VEVENT
 SUMMARY:Super Show: El Encuentro Tech
 DTSTART;TZID=America/Mexico_City:20261127T180000
 DTEND;TZID=America/Mexico_City:20261127T200000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:920d7900716e4e786ace800e@cdmx-social-calendar
 CATEGORIES:Networking
 DESCRIPTION:Networking\n\nTres comunidades tech—Dinodata\, DevBarrio y b
@@ -4191,7 +4583,7 @@ BEGIN:VEVENT
 SUMMARY:AjoloMeet: De la Eficiencia de Graviton a la IA
 DTSTART;TZID=America/Mexico_City:20261127T183000
 DTEND;TZID=America/Mexico_City:20261127T203000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bff8eb85180ddbfa4866dcb7@cdmx-social-calendar
 CATEGORIES:Networking
 DESCRIPTION:Networking\n\nEl AWS User Group trae dos charlas técnicas a C
@@ -4210,7 +4602,7 @@ BEGIN:VEVENT
 SUMMARY:BLADE RAVE - CYBERIA X OSTIL MX
 DTSTART;TZID=America/Mexico_City:20261127T190000
 DTEND;TZID=America/Mexico_City:20261127T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9d431a6c2b58bc8cc3627639@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $238 – $670\n\nUn rave de hardtec
@@ -4229,7 +4621,7 @@ BEGIN:VEVENT
 SUMMARY:Dirty
 DTSTART;TZID=America/Mexico_City:20261127T190000
 DTEND;TZID=America/Mexico_City:20261127T210000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:84fe6095322d5757dd459e91@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -4244,7 +4636,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 El fandango de los muertos
 DTSTART;TZID=America/Mexico_City:20261127T190000
 DTEND;TZID=America/Mexico_City:20261127T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0e5153a57f89a6f5e056ecae@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -4267,7 +4659,7 @@ BEGIN:VEVENT
 SUMMARY:Matilda el Musical
 DTSTART;TZID=America/Mexico_City:20261127T193000
 DTEND;TZID=America/Mexico_City:20261127T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b9cf7804856f9d666f5cff9d@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nMatilda el Musical lleva la historia de Roald Dahl a
@@ -4284,7 +4676,7 @@ BEGIN:VEVENT
 SUMMARY:Beethoven y Revueltas: Orquesta Estanislao Mejía
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b97c65e2c30af7743fbaf947@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa Orquesta Sinfónica Estanislao Mejía de
@@ -4303,7 +4695,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight: Tributo a The Beatles
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ef97383070049f874aa53b5f@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $1\,150 – $1\,620\n\nCuarteto 
@@ -4322,7 +4714,7 @@ BEGIN:VEVENT
 SUMMARY:e[s]tereo
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:82310333b3765a4b9f48f240@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $200 – $220\n\nDOLMEN trae e[s]te
@@ -4339,7 +4731,7 @@ BEGIN:VEVENT
 SUMMARY:El Cisne Negro en Castillo de Chapultepec
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3f452f8a2597f20d38f7a27b@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nLa Infinita Compañía presenta una versión contempo
@@ -4356,7 +4748,7 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: The Wildworld Tour en Palacio de los Deportes
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:24de0636712c5d1261285eab@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nKATSEYE trae The Wildworld Tour a u
@@ -4375,7 +4767,7 @@ BEGIN:VEVENT
 SUMMARY:LaPeste en Vivo
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a5788b966091fd3542fe6b48@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $288 – $518\n\nLaPeste toca 'B
@@ -4392,7 +4784,7 @@ BEGIN:VEVENT
 SUMMARY:Lone Star Dance Rodeo
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:02b6b22eb4d22065813fc105@cdmx-social-calendar
 CATEGORIES:Fiestas
 DESCRIPTION:Fiestas\n\nUna fiesta rodeo estilo Texas en Pinche Bar con cla
@@ -4408,7 +4800,7 @@ BEGIN:VEVENT
 SUMMARY:MegAstros\, Katner & Fuji Dogs
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:34c61781e4763215523d5d7a@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $100\n\nTres bandas en Núcleo: 
@@ -4426,7 +4818,7 @@ BEGIN:VEVENT
 SUMMARY:Noche Sabinera by Mal Tercio
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1a05dfc0173f58a7140de22b@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $216 – $432\n\nUn tributo acú
@@ -4444,7 +4836,7 @@ BEGIN:VEVENT
 SUMMARY:Noctura 005
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:62fcfa65ee599ced4e90e5cf@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $100 – $200\n\nLa quinta edición
@@ -4461,7 +4853,7 @@ BEGIN:VEVENT
 SUMMARY:Nocturno
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:38d2d0ece1d0ce2bb3bd184a@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nUn hombre huye tras cometer un homicidio imprudencia
@@ -4479,7 +4871,7 @@ SUMMARY:Orquesta Sinfónica Estanislao Mejía de la Facultad de Música de
   la UNAM
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T214500
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a86ef803419663b99861258c@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -4496,7 +4888,7 @@ BEGIN:VEVENT
 SUMMARY:Orquesta Sinfónica Nacional en Bellas Artes
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:90ea54b9d1425e6998b7ba79@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa Orquesta Sinfónica Nacional es 
@@ -4515,7 +4907,7 @@ BEGIN:VEVENT
 SUMMARY:Recital de Clarinete y Piano: Corrado Giuffredi
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:edcc95c970f25af378f3490c@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nEl clarinetista italiano Corrado Giuffredi 
@@ -4534,7 +4926,7 @@ BEGIN:VEVENT
 SUMMARY:Røz
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:326d3e883577e4058a822722@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nRøz llega por primera vez al Pepsi
@@ -4550,7 +4942,7 @@ BEGIN:VEVENT
 SUMMARY:SOU
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:779f5a20d4bf2e03a82d84bb@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nAdmission: $600 – $1\,700\n\nUn viaje son
@@ -4568,7 +4960,7 @@ BEGIN:VEVENT
 SUMMARY:TCUNAM | Clara y el Cascanueces
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b1495da536cbfd208e87c192@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -4584,7 +4976,7 @@ BEGIN:VEVENT
 SUMMARY:Villa Funk: Brazil in CDMX
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0d247003e2774963e6b9034d@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $173 – $519\n\nVilla Funk trae un
@@ -4602,7 +4994,7 @@ SUMMARY:XXXIII Festival Universitario de Clarinete FaM UNAM | Recital de c
  larinete y piano
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T213000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7a4a54e502c60aedc02b73ee@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -4619,7 +5011,7 @@ BEGIN:VEVENT
 SUMMARY:Örikane x Mashins
 DTSTART;TZID=America/Mexico_City:20261127T200000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:21e5133d4015e6c9d96a5095@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $300\n\nMashins\, colectivo mexican
@@ -4636,7 +5028,7 @@ BEGIN:VEVENT
 SUMMARY:Caloncho en Auditorio Nacional
 DTSTART;TZID=America/Mexico_City:20261127T203000
 DTEND;TZID=America/Mexico_City:20261127T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ad69441d55c43f426da43a4e@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nCaloncho llega al Auditorio Naciona
@@ -4652,7 +5044,7 @@ BEGIN:VEVENT
 SUMMARY:El Hijo
 DTSTART;TZID=America/Mexico_City:20261127T203000
 DTEND;TZID=America/Mexico_City:20261127T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:cc4e18a97387be946577a7e7@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nNicolás sale de casa todas las mañanas con su moch
@@ -4668,7 +5060,7 @@ BEGIN:VEVENT
 SUMMARY:Insite en Concierto
 DTSTART;TZID=America/Mexico_City:20261127T203000
 DTEND;TZID=America/Mexico_City:20261127T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b9725f397cddd926f886983c@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nInsite regresa a la Ciudad de Méxi
@@ -4685,7 +5077,7 @@ BEGIN:VEVENT
 SUMMARY:La Muerte de un Viajante
 DTSTART;TZID=America/Mexico_City:20261127T203000
 DTEND;TZID=America/Mexico_City:20261127T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:113a56326231cdda5eeab9bc@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nLa obra maestra de Arthur Miller sobre el sueño ame
@@ -4702,7 +5094,7 @@ BEGIN:VEVENT
 SUMMARY:Nasa Histoires en Teatro Metropólitan
 DTSTART;TZID=America/Mexico_City:20261127T203000
 DTEND;TZID=America/Mexico_City:20261127T223000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5926427719df21c9a66b4e2e@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLa banda colombiana Nasa Histoires 
@@ -4719,7 +5111,7 @@ BEGIN:VEVENT
 SUMMARY:Alejandra Guzmán en Arena CDMX
 DTSTART;TZID=America/Mexico_City:20261127T210000
 DTEND;TZID=America/Mexico_City:20261127T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:74b2a595b0d402e4dbbc0331@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nAdmission: $753 – $4\,990\n\nAlej
@@ -4737,7 +5129,7 @@ BEGIN:VEVENT
 SUMMARY:Candlelight: Tributo a Juan Luis Guerra
 DTSTART;TZID=America/Mexico_City:20261127T210000
 DTEND;TZID=America/Mexico_City:20261127T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:fee5fe9fef991b08a5a83425@cdmx-social-calendar
 CATEGORIES:Experiencias
 DESCRIPTION:Experiencias\n\nAdmission: $595 – $1\,320\n\nUn cuarteto de 
@@ -4756,7 +5148,7 @@ BEGIN:VEVENT
 SUMMARY:Concierto de Natáliyah Bravo
 DTSTART;TZID=America/Mexico_City:20261127T210000
 DTEND;TZID=America/Mexico_City:20261127T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:0c9841b9ee7a87efde6c4cfd@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -4772,7 +5164,7 @@ BEGIN:VEVENT
 SUMMARY:Industrial Sessions: Percepto × Violento System
 DTSTART;TZID=America/Mexico_City:20261127T210000
 DTEND;TZID=America/Mexico_City:20261127T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bb6e7bad03a63cd76167469d@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $115\n\nPercepto y Violento System 
@@ -4791,7 +5183,7 @@ BEGIN:VEVENT
 SUMMARY:Los Auténticos Caligaris en Estadio GNP Seguros
 DTSTART;TZID=America/Mexico_City:20261127T210000
 DTEND;TZID=America/Mexico_City:20261127T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d2df99971e6f06f96c08ac7d@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nLos Auténticos Decadentes y Los Ca
@@ -4809,7 +5201,7 @@ BEGIN:VEVENT
 SUMMARY:MENTAL Celebrates 15 Years of NON SERIES
 DTSTART;TZID=America/Mexico_City:20261127T210000
 DTEND;TZID=America/Mexico_City:20261127T230000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d2fcab13efaa74605050a1af@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $462\n\nMENTAL celebra 15 años de 
@@ -4827,7 +5219,7 @@ BEGIN:VEVENT
 SUMMARY:Nikki Clan y Kudai
 DTSTART;TZID=America/Mexico_City:20261127T213000
 DTEND;TZID=America/Mexico_City:20261127T233000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6bfc36c59d6f70e3d5f2e5c0@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nDos de las agrupaciones más repres
@@ -4843,7 +5235,7 @@ BEGIN:VEVENT
 SUMMARY:Brown Sugar - Black Friday
 DTSTART;TZID=America/Mexico_City:20261127T220000
 DTEND;TZID=America/Mexico_City:20261128T000000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3a5a1d7ab323d67ab0eab1cc@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $115 – $231\n\nBrown Sugar trae u
@@ -4860,7 +5252,7 @@ BEGIN:VEVENT
 SUMMARY:Radio Slave
 DTSTART;TZID=America/Mexico_City:20261127T220000
 DTEND;TZID=America/Mexico_City:20261128T000000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d1bb84579951bbea4a0985c4@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $300 – $600\n\nRadio Slave\, prod
@@ -4877,7 +5269,7 @@ BEGIN:VEVENT
 SUMMARY:Cabaret Lunario Presenta: Jaime Varela\, El Divo Un Eterno Amor
 DTSTART;TZID=America/Mexico_City:20261127T223000
 DTEND;TZID=America/Mexico_City:20261128T003000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:30be1591b442800ea74434ec@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nCabaret Lunario presenta a Jaime Varela en 
@@ -4896,7 +5288,7 @@ BEGIN:VEVENT
 SUMMARY:Basement Love: Soul Of Hex + Tiago Oudman + Xwnia Wölf
 DTSTART;TZID=America/Mexico_City:20261127T230000
 DTEND;TZID=America/Mexico_City:20261128T010000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2af43c0ef139d7387116c235@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $231 – $346\n\nBasement Love llev
@@ -4914,7 +5306,7 @@ BEGIN:VEVENT
 SUMMARY:Morbo [Aniversario]
 DTSTART;TZID=America/Mexico_City:20261127T230000
 DTEND;TZID=America/Mexico_City:20261128T010000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:849fb2b7f7017b48d0e6561e@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $300\n\nMorbo celebra su aniversari
@@ -4931,7 +5323,7 @@ BEGIN:VEVENT
 SUMMARY:Peers Plus x Nueve Cero Nueve
 DTSTART;TZID=America/Mexico_City:20261127T230000
 DTEND;TZID=America/Mexico_City:20261128T010000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dc5aeac8dc521fad6958ee51@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $150 – $200\n\nPeers + trae el La
@@ -4950,7 +5342,7 @@ BEGIN:VEVENT
 SUMMARY:Salida Recs x Music Mulier
 DTSTART;TZID=America/Mexico_City:20261127T230000
 DTEND;TZID=America/Mexico_City:20261128T010000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5095168d8c1b1c921744bbe3@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $169 – $281\n\nSalida Recs y Musi
@@ -4968,7 +5360,7 @@ BEGIN:VEVENT
 SUMMARY:Yu Yu Cine Club: WiG Anniversary
 DTSTART;TZID=America/Mexico_City:20261127T230000
 DTEND;TZID=America/Mexico_City:20261128T010000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:af053d0396676fdb12888933@cdmx-social-calendar
 CATEGORIES:Antros y DJs
 DESCRIPTION:Antros y DJs\n\nAdmission: $322 – $375\n\nYu Yu Cine Club ce
@@ -4983,10 +5375,33 @@ URL:https://www.cdmx365.com/es/evento/yu-yu-cine-club-wig-anniversary-2026
  -11-27
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Bazar Solidario con Emprendedores Refugiadxs
+DTSTART;TZID=America/Mexico_City:20261128T080000
+DTEND;TZID=America/Mexico_City:20261128T100000
+DTSTAMP:20261124T223432Z
+UID:11554192972683235352b907@cdmx-social-calendar
+CATEGORIES:Community event
+DESCRIPTION:Community event\n\nAdmission: FREE\n\nCasa Refugio de la Memor
+ ia | Sábado 28 de noviembre\, 2026 | 8 horas Bazar Solidario con Emprende
+ dores Refugiadxs. José Luis Soto / Asylum Access México Promover el fort
+ alecimiento de los emprendimientos de mujeres y jóvenes en situación de 
+ refugio o solicitantes de asilo en México mediante la difusión de sus pr
+ oyectos\, el fortalecimiento del conocimiento de sus derechos\, la provisi
+ ón de herramientas prácticas para desarrollar sus iniciativas y la creac
+ ión de conexiones entre personas refugiadas\n\nSource: tianguis-cdmx\n\nh
+ ttps://www.tianguis.net/cartelera/42509
+LOCATION:Casa Refugio de la Memoria\, Citlaltépetl 25 \, Hipódromo Conde
+ sa\, Cuauhtémoc\, C.P. 06170\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42509
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Ludicalles
 DTSTART;TZID=America/Mexico_City:20261128T100000
 DTEND;TZID=America/Mexico_City:20261128T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:71b48be7fdce005693c84916@cdmx-social-calendar
 CATEGORIES:Infantiles
 DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nCanchas de la Villa Cid | Izt
@@ -5005,7 +5420,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Raúl Silva: Gateway
 DTSTART;TZID=America/Mexico_City:20261128T100000
 DTEND;TZID=America/Mexico_City:20261128T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b3b16338724dd20ca6de1cb1@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nEl artista Raúl S
@@ -5028,18 +5443,18 @@ BEGIN:VEVENT
 SUMMARY:🆓 Richard Prince: Cuéntamelo todo
 DTSTART;TZID=America/Mexico_City:20261128T100000
 DTEND;TZID=America/Mexico_City:20261128T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9ede70cfa5d8e96e075d3604@cdmx-social-calendar
-CATEGORIES:Community event
-DESCRIPTION:Community event\n\nAdmission: FREE\n\nLa primera gran exposici
- ón del artista en Latinoamérica\, Richard Prince: Cuéntamelo todo\, se 
- articula en torno a un análisis en profundidad de las series más emblem
- áticas del artista —Cowboys [Vaqueros]\, Girlfriends [Novias]\, Jokes [
- Chistes] y Cartoons [Dibujos animados]—\, que han estado presentes a lo 
- largo de los más de 40 años de carrera de Prince. Estas líneas principa
- les se contextualizan en el marco más amplio de la obra del artista con p
- iezas seleccionadas de sus primeras refotografías de\n\nSource: tianguis-
- cdmx\n\nhttps://www.tianguis.net/cartelera/40724
+CATEGORIES:Museos y Exposiciones
+DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLa primera gran ex
+ posición del artista en Latinoamérica\, Richard Prince: Cuéntamelo todo
+ \, se articula en torno a un análisis en profundidad de las series más e
+ mblemáticas del artista —Cowboys [Vaqueros]\, Girlfriends [Novias]\, Jo
+ kes [Chistes] y Cartoons [Dibujos animados]—\, que han estado presentes 
+ a lo largo de los más de 40 años de carrera de Prince. Estas líneas pri
+ ncipales se contextualizan en el marco más amplio de la obra del artista 
+ con piezas seleccionadas de sus primeras refotografías de\n\nSource: tian
+ guis-cdmx\n\nhttps://www.tianguis.net/cartelera/40724
 LOCATION:Museo Jumex\, Blvd. Miguel de Cervantes Saavedra 303 \, Granada\,
   Miguel Hidalgo\, C.P. 11520\, Cuidad de México\, Ciudad de México\, CDM
  X\, México
@@ -5051,7 +5466,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Álvaro Urbano: Helén
 DTSTART;TZID=America/Mexico_City:20261128T100000
 DTEND;TZID=America/Mexico_City:20261128T120000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:926d5d87f221416d6dbdbbca@cdmx-social-calendar
 CATEGORIES:Museos y Exposiciones
 DESCRIPTION:Museos y Exposiciones\n\nAdmission: FREE\n\nLa exposición Hel
@@ -5074,7 +5489,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Festival Flamasónicas
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:4a486f146d3d76ce580e55ad@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nEn el marco del 25N
@@ -5097,7 +5512,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Impresión de grabados
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a6d2864e0ba15125f7dba905@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nColegio de San Ildefon
@@ -5120,7 +5535,7 @@ BEGIN:VEVENT
 SUMMARY:La reconfiguración del silencio
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1cef74a422e7ed9a73d5ee87@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -5136,7 +5551,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller: Arte en Miniatura
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ed42d201f98cba1abc7f31af@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller práctico creat
@@ -5155,7 +5570,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Taller: Teatro para todos (A partir de 16 años)
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:7d62c3487abdb14c017583a2@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUtopía Centli Topilej
@@ -5170,10 +5585,30 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/40509
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Tejiendo comunidad ¡La diversión está en la ludicalle!
+DTSTART;TZID=America/Mexico_City:20261128T110000
+DTEND;TZID=America/Mexico_City:20261128T130000
+DTSTAMP:20261124T223432Z
+UID:5a5c1f4b60edb0f195613613@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nUnidad Habitacional Cruz Manc
+ a | Cuajimalpa de Morelos Sábado 28 de noviembre\, 2026 | 11 a 14 horas 
+ ¡La diversión está en la ludicalle! Un espacio abierto para explorar\, 
+ jugar y aprender en comunidad | Pequeña posada. CarteleraCdMx CarteleraCo
+ munitaria\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/4
+ 2537
+LOCATION:Unidad Habitacional Cruz Manca\, Valle de las Monjas s/n \, San M
+ ateo Tlaltenango\, Cuajimalpa de Morelos\, C.P. 05600\, Cuidad de México
+ \, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42537
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Royal Ballet. Manon (MacMillan)
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T141100
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:dc7d8292d574bd6f3277b786@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -5189,7 +5624,7 @@ BEGIN:VEVENT
 SUMMARY:¡TECHPAKTIA IN AMOXCALLI! (¡Nos gusta la biblioteca!) Maíces
 DTSTART;TZID=America/Mexico_City:20261128T110000
 DTEND;TZID=America/Mexico_City:20261128T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:288c6fe9bd19bbe557897012@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -5204,10 +5639,30 @@ URL:https://www.cultura.unam.mx/evento/161techpaktia-in-amoxcalli!-161nos-
  gusta-la-biblioteca!-maices
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Bailes por la Paz: Sound System en San Miguel Topilejo
+DTSTART;TZID=America/Mexico_City:20261128T120000
+DTEND;TZID=America/Mexico_City:20261128T140000
+DTSTAMP:20261124T223432Z
+UID:89eb60558dc3788193b174db@cdmx-social-calendar
+CATEGORIES:Música y Conciertos
+DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nUTOPIAS Centli Topi
+ lejo | Cancha de frontón Sábado 28 de noviembre\, 2026 | 12 a 20 horas U
+ na propuesta impulsada por las y los jóvenes de San Miguel Topilejo que r
+ eúne música\, malabares y talleres. El Venado Sound System | Almas Milit
+ antes | Sur en Resistencia SS | Duket Dread | Axosco SS Crew CarteleraCdMx
+  CarteleraComunitaria\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net
+ /cartelera/42536
+LOCATION:Utopía Centli Topilejo\, Gaviota 72 \, San Miguel Topilejo\, Tla
+ lpan\, C.P. 14500\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42536
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecos del Pasado\, Voces del Futuro: Asako Arai
 DTSTART;TZID=America/Mexico_City:20261128T120000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d4b55d598346cdda20f7963b@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa flautista Asako Arai interpreta seis obr
@@ -5227,7 +5682,7 @@ SUMMARY:Ecos del pasado\, voces del futuro: obras para flauta y electróni
  ca de compositoras | PUMA
 DTSTART;TZID=America/Mexico_City:20261128T120000
 DTEND;TZID=America/Mexico_City:20261128T133000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bef14711b2afb16a90631330@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -5245,7 +5700,7 @@ SUMMARY:🆓 FARO Tláhuac. 25N. Voces\, cuerpos y territorios: mujeres co
  nstruyendo espacios libres de violencia
 DTSTART;TZID=America/Mexico_City:20261128T120000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3c2ff721e445db96d9fe23ab@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nLa realización de l
@@ -5267,7 +5722,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 FARO Tláhuac. Rockola Fantasma
 DTSTART;TZID=America/Mexico_City:20261128T120000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:305b863d6b0f4cc58ae14e2c@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nEl Festival de Arte
@@ -5289,7 +5744,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Horizonte Interior
 DTSTART;TZID=America/Mexico_City:20261128T120000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:4833a41a82dc79082d849cb5@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -5309,10 +5764,31 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41288
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Revisión de portafolios
+DTSTART;TZID=America/Mexico_City:20261128T120000
+DTEND;TZID=America/Mexico_City:20261128T140000
+DTSTAMP:20261124T223432Z
+UID:dddd01a885f863f2fbd45332@cdmx-social-calendar
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nMuseo Archivo de la Fo
+ tografía&nbsp\; | Sábado 28 de noviembre\, 2026 | 12 horas Revisión de 
+ portafolios Trae tu portafolio y recibe retroalimentación directa sobre e
+ dición\, secuencia y rumbo de tu proyecto. Una sesión cercana para fotó
+ grafos que quieren llevar su trabajo al siguiente paso. Actividad Gratuita
+  | Público General | Registro previo\, cupo limitado. CarteleraCdMx\n\nSo
+ urce: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42505
+LOCATION:Museo Archivo de la Fotografía\, República de Guatemala 34 \, C
+ entro (Área 2)\, Cuauhtémoc\, C.P. 06010\, Cuidad de México\, Ciudad de
+  México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42505
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Taller de Porta Photocards
 DTSTART;TZID=America/Mexico_City:20261128T120000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:596eecdf73296be696f23fbd@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nSábado 28 de noviembr
@@ -5331,7 +5807,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Academus pro Recital de piano
 DTSTART;TZID=America/Mexico_City:20261128T130000
 DTEND;TZID=America/Mexico_City:20261128T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:986b4413a0ff5e38f47217b8@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural La 
@@ -5354,7 +5830,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Danza y Percusiones Afrolatinas
 DTSTART;TZID=America/Mexico_City:20261128T130000
 DTEND;TZID=America/Mexico_City:20261128T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:987184e994d442679b4d0fca@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nDanza y Percusiones
@@ -5377,7 +5853,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 FARO Tláhuac. Picnic literario
 DTSTART;TZID=America/Mexico_City:20261128T130000
 DTEND;TZID=America/Mexico_City:20261128T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:15afdb880a69174a28d6752a@cdmx-social-calendar
 CATEGORIES:Eventos literarios
 DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nJornada para pasar un
@@ -5390,10 +5866,30 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41976
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Mujeres Ilustres
+DTSTART;TZID=America/Mexico_City:20261128T130000
+DTEND;TZID=America/Mexico_City:20261128T150000
+DTSTAMP:20261124T223432Z
+UID:cc95531f36051c457b83417d@cdmx-social-calendar
+CATEGORIES:Recorridos
+DESCRIPTION:Recorridos\n\nAdmission: FREE\n\nMuseo Panteón de San Fernand
+ o | Sábado 28 de noviembre\, 2026 | 13 horas Mujeres Ilustres. Fierro pro
+ ducciones y la noche teatro. Conoce la vida de las mujeres ilustres que de
+ scansan en el Museo Panteón de San Fernando de la mano de Dolores Escalan
+ te. Actividad Gratuita | Público General. CarteleraCdMx\n\nSource: tiangu
+ is-cdmx\n\nhttps://www.tianguis.net/cartelera/42504
+LOCATION:Museo Panteón de San Fernando\, Plaza de San Fernando 17 \, Guer
+ rero\, Cuauhtémoc\, C.P. 06300\, Cuidad de México\, Ciudad de México\, 
+ CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42504
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Narración\nLa UNAM: memoria y voz
 DTSTART;TZID=America/Mexico_City:20261128T130000
 DTEND;TZID=America/Mexico_City:20261128T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:244974472d837e95bc015422@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -5409,7 +5905,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 ¡Pachanga Farera: 17 años de historias compartidas!
 DTSTART;TZID=America/Mexico_City:20261128T130000
 DTEND;TZID=America/Mexico_City:20261128T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:c58786f02ddde1cbf6d6d1a8@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nSábado 28 de novie
@@ -5429,10 +5925,33 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41758
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Cabaret: Burlesqueen MX Fest
+DTSTART;TZID=America/Mexico_City:20261128T140000
+DTEND;TZID=America/Mexico_City:20261128T160000
+DTSTAMP:20261124T223432Z
+UID:0629ce006f48112d74fcfc3a@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nTeatro del Pueblo | Sá
+ bado 28 de noviembre\, 2026 | 14 horas Cabaret: Burlesqueen MX Fest. Autor
+ ía y Dir. Guillermo Cortez Cruz. Burlesqueen 2026 es el primer festival d
+ e burlesque drag en México. Su clausura en el Teatro del Pueblo reunirá 
+ a artistas nacionales y de Latinoamérica en un espectáculo de cabaret\, 
+ burlesque\, performance\, danza y comedia. A través del cuerpo\, el vestu
+ ario\, la música\, el humor y la teatralidad\, cada artista presentará u
+ na propuesta propia\, celebrando la diversidad de e\n\nSource: tianguis-cd
+ mx\n\nhttps://www.tianguis.net/cartelera/42503
+LOCATION:Teatro del Pueblo\, República de Venezuela 72 s/n\, Centro (Áre
+ a 2)\, Cuauhtémoc\, C.P. 06010\, Cuidad de México\, Ciudad de México\, 
+ CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42503
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Danza Folclórica adultos mayores e infantes.
 DTSTART;TZID=America/Mexico_City:20261128T140000
 DTEND;TZID=America/Mexico_City:20261128T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:f409a68484c878e4e44833a9@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMuestra cultural e inte
@@ -5448,10 +5967,29 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41896
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Ludicalles
+DTSTART;TZID=America/Mexico_City:20261128T140000
+DTEND;TZID=America/Mexico_City:20261128T160000
+DTSTAMP:20261124T223432Z
+UID:be7e713b4784a2b731bbe430@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nCalle Moctezuma | Milpa Alta&
+ nbsp\; Todos los sábados de noviembre\, 2026 | 14 horas ¡VEN A LA LUDICA
+ LLE!&nbsp\; Un espacio para jugar\, imaginar\, aprender y divertirse.&nbsp
+ \; ¡Invitamos a toda la comunidad a participar y disfrutar juntos! Cartel
+ eraCdMx CarteleraComunitaria\n\nSource: tianguis-cdmx\n\nhttps://www.tiang
+ uis.net/cartelera/42541
+LOCATION:Moctezuma\, Moctezuma 9 \, Tenantitla\, Milpa Alta\, C.P. 12100\,
+  Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42541
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Pintando Minis 3D
 DTSTART;TZID=America/Mexico_City:20261128T140000
 DTEND;TZID=America/Mexico_City:20261128T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:15b22a783c965cc89e53713e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller colaborativo\, 
@@ -5471,7 +6009,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Danza Folclórica
 DTSTART;TZID=America/Mexico_City:20261128T143000
 DTEND;TZID=America/Mexico_City:20261128T163000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:84235e1fa28c9933279f17ef@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nPresentación artístic
@@ -5489,7 +6027,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Bolo Fest
 DTSTART;TZID=America/Mexico_City:20261128T150000
 DTEND;TZID=America/Mexico_City:20261128T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6475788a079edff413573195@cdmx-social-calendar
 CATEGORIES:Recorridos
 DESCRIPTION:Recorridos\n\nAdmission: FREE\n\n"BOLO FEST el tradicional des
@@ -5505,10 +6043,76 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/19657
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Eco Sin Voz
+DTSTART;TZID=America/Mexico_City:20261128T150000
+DTEND;TZID=America/Mexico_City:20261128T170000
+DTSTAMP:20261124T223432Z
+UID:374e92c6dfa65b891fdf4796@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMuseo Yancuic | Sábado
+  28 de noviembre\, 2026 | 15 horas Eco Sin Voz. Coletivo Teatral Mexiclown
+ s. Eco Sin Voz es una obra de teatro clown producida por el Colectivo Teat
+ ral Mexiclowns que\, a través del lenguaje del clown y el teatro físico 
+ —con base en los principios de Jacques Lecoq—\, propone una reflexión
+  sobre la comunicación emocional\, la pérdida de la voz simbólica y la 
+ importancia de los vínculos afectivos. La obra plantea una experiencia es
+ cénica accesible y cercana\, en la que cuatro paya\n\nSource: tianguis-cd
+ mx\n\nhttps://www.tianguis.net/cartelera/42508
+LOCATION:Museo Yancuic\, Acceso al Paradero  \, Los Ángeles\, Iztapalapa
+ \, C.P. 09830\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42508
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 La casa de Bernarda Alba
+DTSTART;TZID=America/Mexico_City:20261128T150000
+DTEND;TZID=America/Mexico_City:20261128T170000
+DTSTAMP:20261124T223432Z
+UID:03ce8035c69cda6c4fa58d4e@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMuseo Panteón de San F
+ ernando. | Sábado 28&nbsp\; de noviembre\, 2026 | 16 horas La casa de Ber
+ narda Alba.&nbsp\; &nbsp\;Federico García Lorca&nbsp\; ¡El teatro llega 
+ al Museo de la Ciudad de México! Te invitamos a disfrutar de ""La casa de
+  Bernarda Alba""\, una obra de Federico García Lorca que nos sumerge en u
+ na historia de secretos\, pasiones y conflictos familiares\, donde el dese
+ o de libertad se enfrenta a las estrictas imposiciones de una madre. Una p
+ uesta en escena que invita a reflexionar sobre\n\nSource: tianguis-cdmx\n
+ \nhttps://www.tianguis.net/cartelera/39833
+LOCATION:Museo de la Ciudad de México\, Pino Suárez 30 \, Centro (Área 
+ 6)\, Cuauhtémoc\, C.P. 06060\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/39833
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Trueque Fotográfico
+DTSTART;TZID=America/Mexico_City:20261128T150000
+DTEND;TZID=America/Mexico_City:20261128T170000
+DTSTAMP:20261124T223432Z
+UID:5d381995bae75cb3a1f8647e@cdmx-social-calendar
+CATEGORIES:Festivales y Ferias
+DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nMuseo Archivo de la 
+ Fotografía | Sábado 28 de noviembre\, 2026 |15 horas&nbsp\; Trueque Foto
+ gráfico. Vuelve el Trueque Fotográfico. Trae impresiones\, fanzines\, li
+ bros\, cámaras o el material que ya no uses y cámbialo por algo nuevo pa
+ ra tu práctica. Llega con algo para intercambiar. Actividad Gratuita | P
+ úblico General. CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tia
+ nguis.net/cartelera/42507
+LOCATION:Museo Archivo de la Fotografía\, República de Guatemala 34 \, C
+ entro (Área 2)\, Cuauhtémoc\, C.P. 06010\, Cuidad de México\, Ciudad de
+  México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42507
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 El caso de las petunias pisoteadas
 DTSTART;TZID=America/Mexico_City:20261128T160000
 DTEND;TZID=America/Mexico_City:20261128T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1020ae1429ab19752c107ae0@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -5532,7 +6136,7 @@ SUMMARY:🆓 Habitar-Nos Cuerpo\, plantas y emociones: prácticas para el
  autocuidado
 DTSTART;TZID=America/Mexico_City:20261128T160000
 DTEND;TZID=America/Mexico_City:20261128T180000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:992454ba43e4c20b4a56bdf3@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nUTOPÍA Meyehualco | S
@@ -5551,10 +6155,29 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42352
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Inauguración de la Ludicalle Chalma de Guadalupe
+DTSTART;TZID=America/Mexico_City:20261128T160000
+DTEND;TZID=America/Mexico_City:20261128T180000
+DTSTAMP:20261124T223432Z
+UID:d2c1d974449641d0de30d061@cdmx-social-calendar
+CATEGORIES:Infantiles
+DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nSan Luis Potosí y Querétaro
+  | Chalma de Guadalupe Sábado 28 de noviembre\, 2026 | 16 horas Inaugurac
+ ión simbólica de la Ludicalle Chalma de Guadalupe. Juegos | Actividades 
+ culturales | Proyección de cine. CarteleraCdMx CarteleraComunitaria\n\nSo
+ urce: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/42538
+LOCATION:Ludicalle San Luis\, San Luis Potosí Mz. 84\, Lt.1161 \, Chalma 
+ de Guadalupe\, Gustavo A. Madero\, C.P. 07210\, Cuidad de México\, Ciudad
+  de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42538
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Academus pro Recital de guitarra
 DTSTART;TZID=America/Mexico_City:20261128T170000
 DTEND;TZID=America/Mexico_City:20261128T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:cb1a3c0390ff03e4439fe105@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nCentro Cultural La 
@@ -5577,7 +6200,7 @@ BEGIN:VEVENT
 SUMMARY:Ensamble de arpas de la OECCh
 DTSTART;TZID=America/Mexico_City:20261128T170000
 DTEND;TZID=America/Mexico_City:20261128T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:eded3e947ab83142436bccfd@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nEl Ensamble de Arpas de la Orquesta Escuela
@@ -5596,7 +6219,7 @@ SUMMARY:🆓 Exponencial de fin de año: Baile fino de salón en FARO ARAG
  ÓN
 DTSTART;TZID=America/Mexico_City:20261128T170000
 DTEND;TZID=America/Mexico_City:20261128T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:6f5d6d14cdbd50b91ce5a61e@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nAcompáñanos a la Mues
@@ -5616,7 +6239,7 @@ BEGIN:VEVENT
 SUMMARY:Gera Mx en Concierto
 DTSTART;TZID=America/Mexico_City:20261128T170000
 DTEND;TZID=America/Mexico_City:20261128T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:9f101073378731ef1a8d9286@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nGera MXM regresa a la capital con X
@@ -5632,7 +6255,7 @@ BEGIN:VEVENT
 SUMMARY:Tríos para viola\, clarinete y piano | Música de cámara
 DTSTART;TZID=America/Mexico_City:20261128T180000
 DTEND;TZID=America/Mexico_City:20261128T193000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:390c3a22e6af653240dbc490@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -5646,11 +6269,34 @@ URL:https://www.cultura.unam.mx/evento/trios-para-viola-clarinete-y-piano-
  -musica-de-camara
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Virreyes y su viaje al más allá
+DTSTART;TZID=America/Mexico_City:20261128T180000
+DTEND;TZID=America/Mexico_City:20261128T235900
+DTSTAMP:20261124T223432Z
+UID:207d65e40d75301f414016b4@cdmx-social-calendar
+CATEGORIES:Recorridos
+DESCRIPTION:Recorridos\n\nAdmission: FREE\n\nSalón de Cabildos | Sábado 
+ 28 de noviembre\, 2026 | 18 horas Virreyes y su viaje al más allá. Por m
+ edio de una visita guiada y en el marco del Día de Muertos se hará una v
+ isita temática sobre la muerte de algunos virreyes como: Fray García Gue
+ rra\, Fernando de Alencastre duque de Linares\, don Baltazar de Zúñiga 
+ \, Pedro Nuño Colón de Portugal y Juan de O'Donojú. Con Oscar Quiroz\, 
+ colaborador del Salón de Cabildos. Actividad Gratuita | Registro indispen
+ sable en registroscabildos@gmail.com | Público\n\nSource: tianguis-cdmx\n
+ \nhttps://www.tianguis.net/cartelera/42510
+LOCATION:Salón de Cabildos\, Plaza de la Constitución 2 \, Centro (Área
+  1)\, Cuauhtémoc\, C.P. 06000\, Cuidad de México\, Ciudad de México\, C
+ DMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42510
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:OFUNAM 90 años | XXXIII Festival Universitario de Clarinete FaM U
  NAM | Charla previa
 DTSTART;TZID=America/Mexico_City:20261128T190000
 DTEND;TZID=America/Mexico_City:20261128T193000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:eb6f282be013e32540237be8@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -5667,7 +6313,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Sala de espera
 DTSTART;TZID=America/Mexico_City:20261128T190000
 DTEND;TZID=America/Mexico_City:20261128T235900
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5438ffb571af5b26b47efcfd@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
@@ -5689,7 +6335,7 @@ BEGIN:VEVENT
 SUMMARY:90 Aniversario de la OFUNAM: Corrado Giuffredi\, Clarinete
 DTSTART;TZID=America/Mexico_City:20261128T200000
 DTEND;TZID=America/Mexico_City:20261128T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:acb368f6e87472020228a68b@cdmx-social-calendar
 CATEGORIES:Música en Vivo
 DESCRIPTION:Música en Vivo\n\nLa OFUNAM celebra su 90 aniversario en Sala
@@ -5708,7 +6354,7 @@ BEGIN:VEVENT
 SUMMARY:Gloria Trevi Celebration en Auditorio Nacional
 DTSTART;TZID=America/Mexico_City:20261128T200000
 DTEND;TZID=America/Mexico_City:20261128T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:3b993a9db8bea99a6a2b612a@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nGloria Trevi trae su gira Celebrati
@@ -5725,7 +6371,7 @@ BEGIN:VEVENT
 SUMMARY:Menudo en Teatro Metropólitan
 DTSTART;TZID=America/Mexico_City:20261128T200000
 DTEND;TZID=America/Mexico_City:20261128T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:13cbb18db5bc644f42f868ac@cdmx-social-calendar
 CATEGORIES:Conciertos y Festivales
 DESCRIPTION:Conciertos y Festivales\n\nMenudo\, la agrupación puertorriqu
@@ -5743,7 +6389,7 @@ SUMMARY:OFUNAM 90 años | Corrado Giuffredi\, clarinete | Tercera temporad
  a 2026 | Programa 6
 DTSTART;TZID=America/Mexico_City:20261128T200000
 DTEND;TZID=America/Mexico_City:20261128T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:bba835fcb57806718949973b@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -5757,20 +6403,43 @@ URL:https://www.cultura.unam.mx/evento/ofunam-90-anios--corrado-giuffredi-
  clarinete--tercera-temporada-2026--programa-6
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Paseo Histórico: Siqueiros desde su sala
+DTSTART;TZID=America/Mexico_City:20261129T104500
+DTEND;TZID=America/Mexico_City:20261129T124500
+DTSTAMP:20261124T223432Z
+UID:c619fc1e01d3281ba3a96b93@cdmx-social-calendar
+CATEGORIES:Community event
+DESCRIPTION:Community event\n\nAdmission: FREE\n\nEscultura de Josip Broz 
+ Tito | Domingo 29 de noviembre\, 2026 | 10:45 horas Paseo Histórico: Siqu
+ eiros desde su sala. El sitio eje de este paseo es la Sala de Arte Públic
+ o Siqueiros\, que es parte del legado que David Alfaro Siqueiros dejó al 
+ pueblo de México. "En este sitio\, el muralista dispuso que se preservara
+ n y difundieran su obra\, sus ideas y su archivo\, con la vocación de ser
+  un centro de análisis\, experimentación y diálogo sobre el arte públi
+ co del futuro." El inmueble fue durante mucho t\n\nSource: tianguis-cdmx\n
+ \nhttps://www.tianguis.net/cartelera/42520
+LOCATION:Josip Broz Tito\, Polanco s/n \, Bosque de Chapultepec I Sección
+ \, Miguel Hidalgo\, C.P. 11580\, Cuidad de México\, Ciudad de México\, C
+ DMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42520
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Energía solar: soluciones que cambian vidas
 DTSTART;TZID=America/Mexico_City:20261129T110000
 DTEND;TZID=America/Mexico_City:20261129T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:ad307a0b6a500eadccd498e3@cdmx-social-calendar
-CATEGORIES:Community event
-DESCRIPTION:Community event\n\nAdmission: FREE\n\nEl Colegio de San Ildefo
- nso invita a&nbsp\; conectar con&nbsp\; el tema de la energía solar con l
- a vida cotidiana de las personas\, mostrando cómo las decisiones del hoga
- r impactan en el consumo energético y el ambiente. Su enfoque reflexivo y
-  manual permite que cada participante convierta lo aprendido en un comprom
- iso personal y familiar concreto\, lo que favorece que las acciones de aho
- rro energético trasciendan el taller mismo.&nbsp\;\n\nSource: tianguis-cd
- mx\n\nhttps://www.tianguis.net/cartelera/42118
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nEl Colegio de San Ilde
+ fonso invita a&nbsp\; conectar con&nbsp\; el tema de la energía solar con
+  la vida cotidiana de las personas\, mostrando cómo las decisiones del ho
+ gar impactan en el consumo energético y el ambiente. Su enfoque reflexivo
+  y manual permite que cada participante convierta lo aprendido en un compr
+ omiso personal y familiar concreto\, lo que favorece que las acciones de a
+ horro energético trasciendan el taller mismo.&nbsp\;\n\nSource: tianguis-
+ cdmx\n\nhttps://www.tianguis.net/cartelera/42118
 LOCATION:Colegio de San Ildefonso\, Justo Sierra 16 \, Centro (Área 3)\, 
  Cuauhtémoc\, C.P. 06020\, Cuidad de México\, Ciudad de México\, CDMX\, 
  México
@@ -5783,7 +6452,7 @@ SUMMARY:🆓 Habitar-Nos Cuerpo\, plantas y emociones: prácticas para el
  autocuidado
 DTSTART;TZID=America/Mexico_City:20261129T110000
 DTEND;TZID=America/Mexico_City:20261129T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:92823eeba24ae20df3d7f54e@cdmx-social-calendar
 CATEGORIES:Cursos y Talleres
 DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\n&nbsp\;UTOPÍA Tezontl
@@ -5804,7 +6473,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 El Rey Calabaza
 DTSTART;TZID=America/Mexico_City:20261129T120000
 DTEND;TZID=America/Mexico_City:20261129T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:a91c1a365d2b64c447d7619d@cdmx-social-calendar
 CATEGORIES:Infantiles
 DESCRIPTION:Infantiles\n\nAdmission: FREE\n\nCentro Cultural José Martí 
@@ -5828,7 +6497,7 @@ SUMMARY:OFUNAM 90 años | Corrado Giuffredi\, clarinete | Tercera temporad
  a 2026 | Programa 6
 DTSTART;TZID=America/Mexico_City:20261129T120000
 DTEND;TZID=America/Mexico_City:20261129T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:1c6beb834666d5382e59b888@cdmx-social-calendar
 CATEGORIES:Música
 DESCRIPTION:Música\n\nEvent details and admission information are availab
@@ -5845,7 +6514,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 El Espejo de los Cantos.
 DTSTART;TZID=America/Mexico_City:20261129T130000
 DTEND;TZID=America/Mexico_City:20261129T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:314e0b25ccd9830eff9cecd9@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nEspectáculo en viv
@@ -5863,7 +6532,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Guitarra Clásica
 DTSTART;TZID=America/Mexico_City:20261129T130000
 DTEND;TZID=America/Mexico_City:20261129T150000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d664f55c4aeb32b99ea0f922@cdmx-social-calendar
 CATEGORIES:Festivales y Ferias
 DESCRIPTION:Festivales y Ferias\n\nAdmission: FREE\n\nÚnete a una velada 
@@ -5886,7 +6555,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 (FETSI)
 DTSTART;TZID=America/Mexico_City:20261129T140000
 DTEND;TZID=America/Mexico_City:20261129T160000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:adb0343bdd3142ee5279e26b@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMúsica para los ojos E
@@ -5906,10 +6575,74 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/41904
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Margarita
+DTSTART;TZID=America/Mexico_City:20261129T140000
+DTEND;TZID=America/Mexico_City:20261129T160000
+DTSTAMP:20261124T223432Z
+UID:1e3c137e432f20992b2632b8@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMuseo Panteón de San F
+ ernando | Domingo 29 de noviembre\, 2026 | 14 horas Margarita. Fierro prod
+ ucciones y la noche teatro. Basado en la vida de Margarita Maza Parada\, s
+ e rescata la figura de la diplomática\, madre y mujer de estado que tuvo 
+ un papel importante en las transiciones políticas y sociales de principio
+ s del siglo XIX en México.&nbsp\; Actividad Gratuita | Público General. 
+ CarteleraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartele
+ ra/42515
+LOCATION:Museo Panteón de San Fernando\, Plaza de San Fernando 17 \, Guer
+ rero\, Cuauhtémoc\, C.P. 06300\, Cuidad de México\, Ciudad de México\, 
+ CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42515
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Mentiras
+DTSTART;TZID=America/Mexico_City:20261129T140000
+DTEND;TZID=America/Mexico_City:20261129T160000
+DTSTAMP:20261124T223432Z
+UID:93265e23f3ec056023a3be4c@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nMuseo Yancuic | Domingo
+  29 de noviembre\, 2026 | 14 horas Mentiras. Mentiras PILARES 2026 llega a
+ l Museo Yancuic con un espectáculo de teatro musical lleno de romance\, s
+ ecretos\, celos y mucha música. Esta adaptación es realizada\, producida
+  y dirigida por los maestros Bruno Santiago Aguirre e Irlanda Avril Rodrí
+ guez González\, talleristas de Teatro Musical de PILARES. La historia re
+ úne a cuatro mujeres en el funeral de Emmanuel\, donde descubren que toda
+ s mantuvieron una relación amorosa con él y\, e\n\nSource: tianguis-cdmx
+ \n\nhttps://www.tianguis.net/cartelera/42516
+LOCATION:Museo Yancuic\, Acceso al Paradero  \, Los Ángeles\, Iztapalapa
+ \, C.P. 09830\, Cuidad de México\, Ciudad de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42516
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Pícnic de Cuentos
+DTSTART;TZID=America/Mexico_City:20261129T140000
+DTEND;TZID=America/Mexico_City:20261129T160000
+DTSTAMP:20261124T223432Z
+UID:f3e43c0bab8b75db43aa76ed@cdmx-social-calendar
+CATEGORIES:Eventos literarios
+DESCRIPTION:Eventos literarios\n\nAdmission: FREE\n\nMuseo de la Ciudad de
+  México | Domingo 29 de noviembre\, 2026 | 14 horas Pícnic de Cuentos. C
+ olectivo Pícnic de cuentos nos deleita con una serie de narraciones con t
+ emáticas diversas cada mes. Actividad Gratuita | Público General. Cartel
+ eraCdMx\n\nSource: tianguis-cdmx\n\nhttps://www.tianguis.net/cartelera/425
+ 14
+LOCATION:Museo de la Ciudad de México\, Pino Suárez 30 \, Centro (Área 
+ 6)\, Cuauhtémoc\, C.P. 06060\, Cuidad de México\, Ciudad de México\, CD
+ MX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/42514
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🆓 Exponencial Violín
 DTSTART;TZID=America/Mexico_City:20261129T150000
 DTEND;TZID=America/Mexico_City:20261129T170000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:71221bc4818b23a1a4417bd2@cdmx-social-calendar
 CATEGORIES:Artes Escénicas
 DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nPresentación musical e
@@ -5929,7 +6662,7 @@ SUMMARY:🆓 Música de cámara OFCM: Franz Schubert - Cuarteto en si bemo
  l mayor\, D. 36
 DTSTART;TZID=America/Mexico_City:20261129T170000
 DTEND;TZID=America/Mexico_City:20261129T190000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:d57eb359c45b00af9ce2e95d@cdmx-social-calendar
 CATEGORIES:Música y Conciertos
 DESCRIPTION:Música y Conciertos\n\nAdmission: FREE\n\nOrquesta Filramóni
@@ -5950,7 +6683,7 @@ BEGIN:VEVENT
 SUMMARY:🆓 Festival Navidad artesanal en Tlalpan
 DTSTART;TZID=America/Mexico_City:20261130T110000
 DTEND;TZID=America/Mexico_City:20261130T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:5ff61117f412ffa44e1a7e3d@cdmx-social-calendar
 CATEGORIES:Community event
 DESCRIPTION:Community event\n\nAdmission: FREE\n\nExplora la riqueza cultu
@@ -5967,10 +6700,50 @@ TRANSP:TRANSPARENT
 URL:https://www.tianguis.net/cartelera/42157
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🆓 Historias de mi barrio
+DTSTART;TZID=America/Mexico_City:20261130T160000
+DTEND;TZID=America/Mexico_City:20261130T180000
+DTSTAMP:20261124T223432Z
+UID:b3a004b9d41e15b28fc45048@cdmx-social-calendar
+CATEGORIES:Cursos y Talleres
+DESCRIPTION:Cursos y Talleres\n\nAdmission: FREE\n\nTaller de relato sobre
+  las historias barriales de Azcapotzalco&nbsp\;\n\nSource: tianguis-cdmx\n
+ \nhttps://www.tianguis.net/cartelera/40946
+LOCATION:Explanada Alcaldia Azcapotzalco\, Calle Castilla Ote. s/n \, Cent
+ ro de Azcapotzalco\, Azcapotzalco\, C.P. 02000\, Cuidad de México\, Ciuda
+ d de México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/40946
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🆓 Carol. Por el lado oscuro del camino
+DTSTART;TZID=America/Mexico_City:20261130T190000
+DTEND;TZID=America/Mexico_City:20261130T235900
+DTSTAMP:20261124T223432Z
+UID:9f8fbf2f5536fd9b1739f35f@cdmx-social-calendar
+CATEGORIES:Artes Escénicas
+DESCRIPTION:Artes Escénicas\n\nAdmission: FREE\n\nCentro Cultural José M
+ artí | Lunes 9\, 23 y 30 de noviembre 2026 | 19 horas | Entrada libre&nbs
+ p\; Teatro | Carol. Por el lado oscuro del camino Preparación de proyecto
+  escénico CCJM / Ricardo Zúñiga González Sinopsis: La sangre corre por
+  los campos\, todo queda destruido en la vida de Carolina.&nbsp\; Lo que e
+ ra ilusión e inocencia en una niña se convierte en la lucha por sobreviv
+ ir a un mundo bestial donde el despiadado siempre gana.&nbsp\; Una revisit
+ ación oscura a Caperucita Roja\, con elementos d\n\nSource: tianguis-cdmx
+ \n\nhttps://www.tianguis.net/cartelera/41291
+LOCATION:Centro Cultural José Martí\, Dr. Mora. Esq. Av. Hidalgo 1 \, Ce
+ ntro (Área 5)\, Cuauhtémoc\, C.P. 06050\, Cuidad de México\, Ciudad de 
+ México\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.tianguis.net/cartelera/41291
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Centroamérica
 DTSTART;TZID=America/Mexico_City:20261202T200000
 DTEND;TZID=America/Mexico_City:20261202T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b71fa40f47390cace7ad3116@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -5986,7 +6759,7 @@ BEGIN:VEVENT
 SUMMARY:Ecos y cadenas
 DTSTART;TZID=America/Mexico_City:20261203T200000
 DTEND;TZID=America/Mexico_City:20261203T220000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:73d4c85b587be5c111292eb7@cdmx-social-calendar
 CATEGORIES:Teatro
 DESCRIPTION:Teatro\n\nEvent details and admission information are availabl
@@ -6003,7 +6776,7 @@ SUMMARY:Diálogo\nHombres fuera del molde: Historias para romper estereoti
  pos
 DTSTART;TZID=America/Mexico_City:20261205T110000
 DTEND;TZID=America/Mexico_City:20261205T130000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:223f04a067a719097257ae31@cdmx-social-calendar
 CATEGORIES:Conferencias y presentaciones
 DESCRIPTION:Conferencias y presentaciones\n\nEvent details and admission i
@@ -6021,7 +6794,7 @@ BEGIN:VEVENT
 SUMMARY:Narración\nLa UNAM: memoria y voz
 DTSTART;TZID=America/Mexico_City:20261205T130000
 DTEND;TZID=America/Mexico_City:20261205T140000
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:11bc3199f2e39e93b5d3cc15@cdmx-social-calendar
 CATEGORIES:Especiales
 DESCRIPTION:Especiales\n\nEvent details and admission information are avai
@@ -6034,10 +6807,26 @@ TRANSP:TRANSPARENT
 URL:https://www.cultura.unam.mx/evento/narracion-la-unam-memoria-y-voz-4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La rebelión de las órbitas celestes 3
+DTSTART;TZID=America/Mexico_City:20261206T110000
+DTEND;TZID=America/Mexico_City:20261206T130000
+DTSTAMP:20261124T223432Z
+UID:c4bfcbef05b666de39ba4cc5@cdmx-social-calendar
+CATEGORIES:Especiales
+DESCRIPTION:Especiales\n\nEvent details and admission information are avai
+ lable at the official Cultura UNAM listing.\n\nSource: cultura-unam\n\nhtt
+ ps://www.cultura.unam.mx/evento/50705
+LOCATION:Museo Universitario del Chopo\, Jardines del Museo\, Ciudad de M
+ éxico\, CDMX\, México
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+URL:https://www.cultura.unam.mx/evento/50705
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Royal Ballet. El cascanueces
 DTSTART;TZID=America/Mexico_City:20270220T110000
 DTEND;TZID=America/Mexico_City:20270220T134500
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:2b94a0ce30bb78ed961d83f5@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -6054,7 +6843,7 @@ SUMMARY:The Royal Ballet. Las aventuras de Alicia en el país de las mara
  villas
 DTSTART;TZID=America/Mexico_City:20270522T110000
 DTEND;TZID=America/Mexico_City:20270522T141500
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:68e5aa4f8bd52cdb0c13cd89@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -6072,7 +6861,7 @@ BEGIN:VEVENT
 SUMMARY:The Royal Ballet. El lago de los cisnes
 DTSTART;TZID=America/Mexico_City:20270529T110000
 DTEND;TZID=America/Mexico_City:20270529T142500
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:b089162322c86d9d70031b30@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
@@ -6089,7 +6878,7 @@ BEGIN:VEVENT
 SUMMARY:The Royal Ballet. Romeo y Julieta
 DTSTART;TZID=America/Mexico_City:20270821T110000
 DTEND;TZID=America/Mexico_City:20270821T141800
-DTSTAMP:20261124T100236Z
+DTSTAMP:20261124T223432Z
 UID:33b16df5748cead13ee05dae@cdmx-social-calendar
 CATEGORIES:Danza
 DESCRIPTION:Danza\n\nEvent details and admission information are available
