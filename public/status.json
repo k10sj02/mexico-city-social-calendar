@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-27T15:26:12.930718-06:00",
-  "event_count": 301,
+  "updated_at": "2026-11-28T01:59:13.319580-06:00",
+  "event_count": 251,
   "cancelled_count": 0,
   "source_counts": {
     "Tianguis / Cartelera CDMX": 197,
-    "Cultura UNAM": 62,
-    "CDMX365": 122
+    "Cultura UNAM": 61,
+    "CDMX365": 107
   }
 }
